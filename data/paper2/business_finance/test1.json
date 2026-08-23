@@ -1,0 +1,667 @@
+{
+  "subject": "P2_BF",
+  "topic": "Business Finance & Financial Management",
+  "topicIcon": "💰",
+  "questions": [
+    {
+      "q": "What is the primary objective of Working Capital Management?",
+      "opts": [
+        "To maximize fixed assets",
+        "To maintain an optimum balance between liquidity and profitability",
+        "To eliminate long-term debt",
+        "To increase share capital"
+      ],
+      "ans": 1,
+      "exp": "Working capital management aims to ensure sufficient liquidity for day-to-day operations while avoiding excessive investment in current assets that may reduce profitability."
+    },
+    {
+      "q": "The Operating Cycle of a business refers to:",
+      "opts": [
+        "The period between purchase of fixed assets and their replacement",
+        "The time taken to convert cash into inventory and ultimately back into cash",
+        "The period between issue and redemption of shares",
+        "The period between borrowing and repayment of a loan"
+      ],
+      "ans": 1,
+      "exp": "The operating cycle includes inventory conversion and receivables conversion periods. A shorter operating cycle generally indicates more efficient working capital management."
+    },
+    {
+      "q": "A company has current assets of ₹8 lakh and current liabilities of ₹4 lakh. Its current ratio is:",
+      "opts": [
+        "0.5 : 1",
+        "1 : 1",
+        "2 : 1",
+        "4 : 1"
+      ],
+      "ans": 2,
+      "exp": "Current Ratio = Current Assets ÷ Current Liabilities = ₹8 lakh ÷ ₹4 lakh = 2 : 1."
+    },
+    {
+      "q": "Which of the following is generally excluded while calculating the Acid-Test Ratio?",
+      "opts": [
+        "Cash",
+        "Trade Receivables",
+        "Inventory",
+        "Marketable Securities"
+      ],
+      "ans": 2,
+      "exp": "Inventory is excluded because it may not be converted into cash immediately. The quick ratio focuses on the most liquid current assets."
+    },
+    {
+      "q": "The Miller-Orr model of cash management is particularly suitable when:",
+      "opts": [
+        "Cash flows are perfectly predictable",
+        "Cash flows are uncertain and fluctuate randomly",
+        "There are no cash transactions",
+        "The firm has only fixed assets"
+      ],
+      "ans": 1,
+      "exp": "The Miller-Orr model establishes control limits for cash balances when cash flows are uncertain. It uses a lower limit, upper limit and return point."
+    },
+    {
+      "q": "The primary objective of the Economic Order Quantity (EOQ) model is to:",
+      "opts": [
+        "Maximize inventory",
+        "Minimize ordering and carrying costs",
+        "Maximize production capacity",
+        "Eliminate purchase costs"
+      ],
+      "ans": 1,
+      "exp": "EOQ determines the order quantity at which the total of ordering cost and carrying cost is minimized."
+    },
+    {
+      "q": "If annual demand increases, other factors remaining constant, EOQ will:",
+      "opts": [
+        "Decrease",
+        "Increase",
+        "Remain unchanged",
+        "Become zero"
+      ],
+      "ans": 1,
+      "exp": "EOQ = √(2DS/H), where D = annual demand. Therefore, an increase in demand increases EOQ, assuming ordering and carrying costs remain constant."
+    },
+    {
+      "q": "A more liberal credit policy is most likely to result in:",
+      "opts": [
+        "Lower sales and lower receivables",
+        "Higher sales and potentially higher bad debts",
+        "Lower sales and higher cash balance",
+        "No change in sales"
+      ],
+      "ans": 1,
+      "exp": "Liberal credit terms can attract more customers and increase sales, but they may also increase investment in receivables and the risk of bad debts."
+    },
+    {
+      "q": "Factoring primarily involves:",
+      "opts": [
+        "Financing fixed assets",
+        "Management and/or financing of trade receivables",
+        "Issuing equity shares",
+        "Managing production costs"
+      ],
+      "ans": 1,
+      "exp": "In factoring, a factor provides services related to receivables, which may include collection, credit administration and financing."
+    },
+    {
+      "q": "Financial leverage arises primarily because of:",
+      "opts": [
+        "Fixed operating costs",
+        "Fixed financial charges",
+        "Variable costs",
+        "Working capital requirements"
+      ],
+      "ans": 1,
+      "exp": "Interest on debt and similar fixed financial obligations create financial leverage. It magnifies the effect of changes in EBIT on EPS."
+    },
+    {
+      "q": "Degree of Financial Leverage (DFL) measures the sensitivity of:",
+      "opts": [
+        "EBIT to changes in sales",
+        "EPS to changes in EBIT",
+        "Sales to changes in assets",
+        "Dividend to changes in sales"
+      ],
+      "ans": 1,
+      "exp": "Financial leverage arises from fixed financial costs. DFL indicates how a percentage change in EBIT affects EPS."
+    },
+    {
+      "q": "A high degree of Operating Leverage is generally associated with:",
+      "opts": [
+        "High variable costs",
+        "High fixed operating costs",
+        "Low fixed operating costs",
+        "High financial costs only"
+      ],
+      "ans": 1,
+      "exp": "Operating leverage results from fixed operating costs. Higher fixed costs make EBIT more sensitive to changes in sales."
+    },
+    {
+      "q": "EBIT-EPS analysis is mainly used for:",
+      "opts": [
+        "Determining inventory levels",
+        "Comparing alternative financing plans",
+        "Calculating working capital",
+        "Determining the reorder level"
+      ],
+      "ans": 1,
+      "exp": "EBIT-EPS analysis examines how different combinations of debt and equity financing affect earnings per share at different EBIT levels."
+    },
+    {
+      "q": "An increase in the proportion of debt in the capital structure generally results in:",
+      "opts": [
+        "Lower financial risk",
+        "Higher financial risk",
+        "No financial risk",
+        "Elimination of interest obligations"
+      ],
+      "ans": 1,
+      "exp": "Debt creates fixed interest obligations. A higher debt component increases the firm's financial risk, particularly when earnings are uncertain."
+    },
+    {
+      "q": "According to the Net Income Approach, an increase in the use of debt can:",
+      "opts": [
+        "Increase the overall cost of capital indefinitely",
+        "Reduce the overall cost of capital and increase firm value, under its assumptions",
+        "Make the cost of equity zero",
+        "Reduce the value of the firm"
+      ],
+      "ans": 1,
+      "exp": "The NI approach assumes that the cost of debt and cost of equity remain constant as leverage changes. Consequently, greater debt can reduce overall cost of capital and increase firm value."
+    },
+    {
+      "q": "According to the Traditional Approach to capital structure, the optimum capital structure occurs when:",
+      "opts": [
+        "Debt is zero",
+        "Overall cost of capital is minimum and firm value is maximum",
+        "Equity is zero",
+        "Current assets are maximum"
+      ],
+      "ans": 1,
+      "exp": "The Traditional Approach suggests that a judicious mix of debt and equity can minimize WACC and maximize the value of the firm."
+    },
+    {
+      "q": "Walter's Model is primarily concerned with:",
+      "opts": [
+        "Working capital decisions",
+        "Dividend decisions",
+        "Inventory decisions",
+        "Capital budgeting decisions"
+      ],
+      "ans": 1,
+      "exp": "Walter's dividend model establishes a relationship between dividend policy, internal rate of return (r), and cost of equity (Ke)."
+    },
+    {
+      "q": "According to the Gordon Growth Model, if the firm's return on investment is greater than its cost of equity, an increase in the retention ratio will generally:",
+      "opts": [
+        "Decrease firm value",
+        "Increase firm value",
+        "Have no effect on firm value",
+        "Make firm value zero"
+      ],
+      "ans": 1,
+      "exp": "When r > Ke, retained earnings can generate returns greater than shareholders' required return. Therefore, higher retention can increase the value of the firm."
+    },
+    {
+      "q": "Under the Net Present Value (NPV) method, an independent project should normally be accepted when:",
+      "opts": [
+        "NPV < 0",
+        "NPV = 0 only",
+        "NPV > 0",
+        "Payback period is maximum"
+      ],
+      "ans": 2,
+      "exp": "A positive NPV means that the project's expected cash inflows, discounted at the required rate of return, exceed the initial investment. It adds value to the firm."
+    },
+    {
+      "q": "Internal Rate of Return (IRR) is the discount rate at which:",
+      "opts": [
+        "NPV is zero",
+        "Accounting profit is zero",
+        "Payback period is maximum",
+        "Current ratio is one"
+      ],
+      "ans": 0,
+      "exp": "IRR is the rate at which the present value of expected cash inflows equals the initial investment, making NPV = 0."
+    },
+    {
+      "q": "Which capital budgeting technique considers the time value of money?",
+      "opts": [
+        "Payback Period",
+        "Accounting Rate of Return",
+        "Net Present Value",
+        "Average Rate of Return"
+      ],
+      "ans": 2,
+      "exp": "NPV considers the time value of money by discounting future cash flows."
+    },
+    {
+      "q": "If NPV is positive, the project should be:",
+      "opts": [
+        "Rejected",
+        "Accepted",
+        "Postponed",
+        "Ignored"
+      ],
+      "ans": 1,
+      "exp": "Positive NPV indicates that the project adds value to the firm, so it should be accepted."
+    },
+    {
+      "q": "Payback Period measures:",
+      "opts": [
+        "Profitability",
+        "Liquidity of investment",
+        "Capital structure",
+        "Dividend policy"
+      ],
+      "ans": 1,
+      "exp": "Payback Period measures the time required to recover initial investment, indicating liquidity of investment."
+    },
+    {
+      "q": "Which method does NOT consider the time value of money?",
+      "opts": [
+        "NPV",
+        "IRR",
+        "Profitability Index",
+        "Payback Period"
+      ],
+      "ans": 3,
+      "exp": "Traditional Payback Period and ARR do not consider the time value of money."
+    },
+    {
+      "q": "Profitability Index is calculated as:",
+      "opts": [
+        "Initial Investment / PV of Cash Inflows",
+        "PV of Cash Inflows / Initial Investment",
+        "Profit / Sales",
+        "Sales / Investment"
+      ],
+      "ans": 1,
+      "exp": "Profitability Index (PI) = Present Value of Cash Inflows / Initial Cash Outlay (Investment)."
+    },
+    {
+      "q": "A project with PI greater than 1 is generally:",
+      "opts": [
+        "Rejected",
+        "Accepted",
+        "Neutral",
+        "Risk-free"
+      ],
+      "ans": 1,
+      "exp": "A Profitability Index (PI) > 1 indicates that PV of inflows exceeds initial outlay (NPV > 0), so it should be accepted."
+    },
+    {
+      "q": "Cost of debt is generally:",
+      "opts": [
+        "Higher than cost of equity",
+        "Lower than cost of equity",
+        "Equal to cost of equity",
+        "Always zero"
+      ],
+      "ans": 1,
+      "exp": "Cost of debt is generally lower than cost of equity due to lower risk for lenders and tax deductibility of interest."
+    },
+    {
+      "q": "WACC stands for:",
+      "opts": [
+        "Weighted Average Capital Cost",
+        "Weighted Average Cost of Capital",
+        "Working Average Cost of Capital",
+        "Working Asset Capital Cost"
+      ],
+      "ans": 1,
+      "exp": "WACC stands for Weighted Average Cost of Capital, representing the composite cost of various sources of financing."
+    },
+    {
+      "q": "The cost of retained earnings is approximately the:",
+      "opts": [
+        "Cost of debt",
+        "Cost of equity",
+        "Cost of preference shares",
+        "Cost of working capital"
+      ],
+      "ans": 1,
+      "exp": "Cost of retained earnings represents the opportunity cost of equity shareholders and is approximately equal to the cost of equity."
+    },
+    {
+      "q": "Which source of finance has a fixed dividend rate?",
+      "opts": [
+        "Equity shares",
+        "Preference shares",
+        "Retained earnings",
+        "Trade credit"
+      ],
+      "ans": 1,
+      "exp": "Preference shares carry a fixed rate of dividend paid prior to equity dividends."
+    },
+    {
+      "q": "Dividend paid to preference shareholders is:",
+      "opts": [
+        "Interest",
+        "Appropriation of profit",
+        "Operating expense",
+        "Tax expense"
+      ],
+      "ans": 1,
+      "exp": "Dividends paid on preference or equity shares are an appropriation of net profit, not a charge against profit."
+    },
+    {
+      "q": "Trade credit is a source of:",
+      "opts": [
+        "Long-term finance",
+        "Short-term finance",
+        "Permanent capital",
+        "Equity capital"
+      ],
+      "ans": 1,
+      "exp": "Trade credit is an informal, short-term spontaneous financing provided by suppliers."
+    },
+    {
+      "q": "Commercial Paper is generally issued by:",
+      "opts": [
+        "Individuals",
+        "Creditworthy companies",
+        "Employees",
+        "Government departments only"
+      ],
+      "ans": 1,
+      "exp": "Commercial Paper is an unsecured short-term promissory note issued by highly rated corporate borrowers."
+    },
+    {
+      "q": "Treasury Bills are issued by:",
+      "opts": [
+        "RBI on behalf of Government of India",
+        "Commercial banks",
+        "Private companies",
+        "Stock exchanges"
+      ],
+      "ans": 0,
+      "exp": "Treasury Bills (T-Bills) are money market instruments issued by the RBI on behalf of the Government of India."
+    },
+    {
+      "q": "A zero-working-capital strategy aims to:",
+      "opts": [
+        "Increase inventory",
+        "Minimize investment in working capital",
+        "Increase fixed assets",
+        "Eliminate sales"
+      ],
+      "ans": 1,
+      "exp": "Zero working capital strategy aims to minimize investment in current assets, keeping current assets roughly equal to current liabilities."
+    },
+    {
+      "q": "Permanent Working Capital is also called:",
+      "opts": [
+        "Fixed Working Capital",
+        "Variable Working Capital",
+        "Temporary Capital",
+        "Gross Capital"
+      ],
+      "ans": 0,
+      "exp": "Permanent or Core Working Capital is the minimum continuous amount of current assets required, also known as Fixed Working Capital."
+    },
+    {
+      "q": "Gross Working Capital means:",
+      "opts": [
+        "Current Assets",
+        "Current Liabilities",
+        "Current Assets – Current Liabilities",
+        "Fixed Assets"
+      ],
+      "ans": 0,
+      "exp": "Gross Working Capital refers to the total investment in Current Assets."
+    },
+    {
+      "q": "Net Working Capital is:",
+      "opts": [
+        "Current Assets + Current Liabilities",
+        "Current Assets – Current Liabilities",
+        "Fixed Assets – Current Assets",
+        "Sales – Cost"
+      ],
+      "ans": 1,
+      "exp": "Net Working Capital is defined as the excess of Current Assets over Current Liabilities (CA - CL)."
+    },
+    {
+      "q": "The matching approach to working capital financing matches:",
+      "opts": [
+        "Assets with liabilities according to maturity",
+        "Sales with profit",
+        "Debt with equity only",
+        "Inventory with sales only"
+      ],
+      "ans": 0,
+      "exp": "The Hedging/Matching Approach matches the maturity of debt financing with the life of the assets being financed."
+    },
+    {
+      "q": "Under a conservative working capital financing policy, the firm relies more on:",
+      "opts": [
+        "Short-term finance",
+        "Long-term finance",
+        "Trade credit only",
+        "Bank overdraft only"
+      ],
+      "ans": 1,
+      "exp": "A conservative financing policy finances permanent assets and a portion of temporary current assets through long-term sources."
+    },
+    {
+      "q": "If the operating cycle of a firm decreases, keeping other factors constant, the requirement of working capital will generally:",
+      "opts": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Become zero"
+      ],
+      "ans": 1,
+      "exp": "A shorter operating cycle leads to faster cash recovery, which reduces the need for working capital funds."
+    },
+    {
+      "q": "Which of the following is not a component of the cash conversion cycle?",
+      "opts": [
+        "Inventory Conversion Period",
+        "Receivables Conversion Period",
+        "Payables Deferral Period",
+        "Fixed Asset Turnover Period"
+      ],
+      "ans": 3,
+      "exp": "Cash Conversion Cycle = Inventory Conversion Period + Receivables Collection Period - Payables Deferral Period. Fixed assets are not part of CCC."
+    },
+    {
+      "q": "A firm has an inventory conversion period of 40 days, receivables conversion period of 30 days and payables deferral period of 20 days. Its cash conversion cycle is:",
+      "opts": [
+        "50 days",
+        "70 days",
+        "90 days",
+        "10 days"
+      ],
+      "ans": 0,
+      "exp": "Cash Conversion Cycle (CCC) = 40 + 30 - 20 = 50 days."
+    },
+    {
+      "q": "Under the Net Operating Cycle approach, an increase in the inventory conversion period, other things remaining constant, will:",
+      "opts": [
+        "Reduce working capital requirement",
+        "Increase working capital requirement",
+        "Have no effect",
+        "Reduce current liabilities"
+      ],
+      "ans": 1,
+      "exp": "A longer inventory conversion period locks up funds for a greater duration, thereby increasing working capital requirements."
+    },
+    {
+      "q": "According to the Pecking Order Theory, firms generally prefer financing in which order?",
+      "opts": [
+        "Equity → Debt → Retained earnings",
+        "Retained earnings → Debt → Equity",
+        "Debt → Equity → Retained earnings",
+        "Equity → Retained earnings → Debt"
+      ],
+      "ans": 1,
+      "exp": "Pecking Order Theory proposes that firms prefer internal funds (retained earnings) first, then debt, and equity as a last resort."
+    },
+    {
+      "q": "Which capital structure theory assumes that investors and managers have symmetric information and, under perfect capital markets, capital structure is irrelevant?",
+      "opts": [
+        "Trade-off Theory",
+        "Pecking Order Theory",
+        "Modigliani-Miller Theory",
+        "Agency Theory"
+      ],
+      "ans": 2,
+      "exp": "Modigliani-Miller (MM) Proposition I without taxes states that capital structure is irrelevant to firm value under perfect market assumptions."
+    },
+    {
+      "q": "Under MM theory with corporate taxes, the value of a levered firm is higher than that of an unlevered firm because of:",
+      "opts": [
+        "Agency cost",
+        "Tax shield on interest",
+        "Dividend preference",
+        "Higher operating leverage"
+      ],
+      "ans": 1,
+      "exp": "Interest is a tax-deductible expense, creating a valuable interest tax shield that increases the value of the levered firm."
+    },
+    {
+      "q": "If a firm's Degree of Operating Leverage is 2, a 10% increase in sales will approximately cause EBIT to:",
+      "opts": [
+        "Increase by 2%",
+        "Increase by 5%",
+        "Increase by 20%",
+        "Increase by 10%"
+      ],
+      "ans": 2,
+      "exp": "DOL = % change in EBIT / % change in Sales. Hence, % change in EBIT = 2 * 10% = 20% increase."
+    },
+    {
+      "q": "If DFL is 1.5 and EBIT increases by 20%, EPS will approximately increase by:",
+      "opts": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "ans": 2,
+      "exp": "DFL = % change in EPS / % change in EBIT. Therefore, % change in EPS = 1.5 * 20% = 30% increase."
+    },
+    {
+      "q": "The indifference point in EBIT-EPS analysis is the level of EBIT at which:",
+      "opts": [
+        "NPV becomes zero",
+        "EPS under two financing alternatives is equal",
+        "EBIT becomes equal to sales",
+        "Debt becomes zero"
+      ],
+      "ans": 1,
+      "exp": "The EBIT indifference point is the operating profit level where Earnings Per Share (EPS) remains identical across two alternative financial plans."
+    },
+    {
+      "q": "According to Walter's Model, if r > Ke, the firm should:",
+      "opts": [
+        "Distribute all earnings as dividend",
+        "Retain all earnings",
+        "Follow 50% payout",
+        "Stop investment"
+      ],
+      "ans": 1,
+      "exp": "Under Walter's model for a growth firm (r > Ke), retaining 100% of earnings (0% dividend payout) maximizes share price."
+    },
+    {
+      "q": "According to Walter's Model, if r < Ke, the optimal dividend payout ratio is:",
+      "opts": [
+        "Zero",
+        "25%",
+        "50%",
+        "100%"
+      ],
+      "ans": 3,
+      "exp": "For a declining firm where r < Ke, a 100% dividend payout ratio maximizes the market value of the share."
+    },
+    {
+      "q": "In the Gordon Model, the value of a share is represented by:",
+      "opts": [
+        "D₁ / (Ke + g)",
+        "D₁ / (Ke − g)",
+        "D₀ / (Ke × g)",
+        "EPS / (Ke + g)"
+      ],
+      "ans": 1,
+      "exp": "The Gordon Constant Growth Model formula is P₀ = D₁ / (Ke - g), where D₁ is next year's dividend, Ke is cost of equity, and g is growth rate."
+    },
+    {
+      "q": "The residual dividend policy suggests that dividends should be paid:",
+      "opts": [
+        "Before financing investments",
+        "After financing all acceptable investment opportunities",
+        "Only when debt is zero",
+        "At a fixed percentage every year"
+      ],
+      "ans": 1,
+      "exp": "Under a residual dividend policy, dividends are paid strictly out of leftover earnings after all positive-NPV capital projects are funded."
+    },
+    {
+      "q": "Which of the following is an agency cost of debt?",
+      "opts": [
+        "Tax saving on interest",
+        "Monitoring and restrictive covenant costs",
+        "Dividend income",
+        "Retained earnings"
+      ],
+      "ans": 1,
+      "exp": "Agency costs of debt arise from conflicts between debt-holders and shareholders, leading to monitoring expenses and covenant compliance costs."
+    },
+    {
+      "q": "A project requires an initial investment of ₹1,00,000 and generates annual cash inflows of ₹25,000. The payback period is:",
+      "opts": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "5 years"
+      ],
+      "ans": 2,
+      "exp": "Payback Period = Initial Outlay / Annual Cash Inflow = ₹1,00,000 / ₹25,000 = 4 years."
+    },
+    {
+      "q": "If two mutually exclusive projects have different lives, which technique is particularly useful for comparison?",
+      "opts": [
+        "Simple Payback Period",
+        "Equivalent Annual Annuity approach",
+        "Accounting Rate of Return",
+        "Average Cost Method"
+      ],
+      "ans": 1,
+      "exp": "The Equivalent Annual Annuity (EAA) or Replacement Chain method is specifically used to compare mutually exclusive projects with unequal lifespans."
+    },
+    {
+      "q": "If a project's IRR is greater than its required rate of return, the project should generally be:",
+      "opts": [
+        "Rejected",
+        "Accepted",
+        "Ignored",
+        "Deferred indefinitely"
+      ],
+      "ans": 1,
+      "exp": "When IRR exceeds the cost of capital (hurdle rate), the project's NPV is positive, meaning it should be accepted."
+    },
+    {
+      "q": "Which statement about Profitability Index (PI) is correct?",
+      "opts": [
+        "PI < 1 indicates positive NPV",
+        "PI = 1 indicates zero NPV",
+        "PI > 1 indicates negative NPV",
+        "PI is unrelated to NPV"
+      ],
+      "ans": 1,
+      "exp": "When PI = 1, PV of cash inflows equals initial investment, which corresponds exactly to an NPV of zero."
+    },
+    {
+      "q": "In capital budgeting, sensitivity analysis is mainly used to:",
+      "opts": [
+        "Eliminate business risk",
+        "Examine the effect of changes in key variables on project viability",
+        "Calculate depreciation",
+        "Determine dividend payout"
+      ],
+      "ans": 1,
+      "exp": "Sensitivity analysis assesses how sensitive the project's NPV or IRR is to changes in individual input variables (e.g., sales volume, costs, discount rate)."
+    }
+  ]
+}
