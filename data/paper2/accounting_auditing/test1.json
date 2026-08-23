@@ -1,0 +1,293 @@
+{
+  "subject": "P2_AC",
+  "topic": "Accounting and Auditing",
+  "topicIcon": "📒",
+  "questions": [
+    {
+      "q": "A and B are partners sharing profits in the ratio of 2:3. They admit C for 1/4th share in the business. The sacrificing ratio of A and B is:",
+      "opts": [
+        "3:1",
+        "1:4",
+        "2:3",
+        "1:1"
+      ],
+      "ans": 2,
+      "exp": "When a new partner is admitted without specific details on how the share is acquired, old partners sacrifice in their old profit sharing ratio (2:3)."
+    },
+    {
+      "q": "Premium on redemption of debenture is:",
+      "opts": [
+        "Personal Account",
+        "Real Account",
+        "Nominal Account",
+        "None of the above"
+      ],
+      "ans": 0,
+      "exp": "Premium on redemption of debentures is a liability payable to debenture holders, classifying it as a Representative Personal Account."
+    },
+    {
+      "q": "Direct costs are:",
+      "opts": [
+        "Traceable to the cost object",
+        "Allocated to cost object",
+        "Total cost of the cost object",
+        "None of the above"
+      ],
+      "ans": 0,
+      "exp": "Direct costs can be directly and specifically traced to a particular cost object (e.g., direct material, direct labor)."
+    },
+    {
+      "q": "A variable such as activity that causes cost over a given time is:",
+      "opts": [
+        "Cost Driver",
+        "Cost Behaviour",
+        "Cost Centre",
+        "None of the above"
+      ],
+      "ans": 0,
+      "exp": "In Activity-Based Costing (ABC), a cost driver is any activity or factor that directly causes a change in the total cost."
+    },
+    {
+      "q": "The concept of budget that requires all levels to work from scratch is:",
+      "opts": [
+        "Flexible Budget",
+        "Total Budget",
+        "Master Budget",
+        "Zero Base Budget"
+      ],
+      "ans": 3,
+      "exp": "Zero Base Budgeting (ZBB) requires all expenses to be justified for each new period starting from scratch (zero base)."
+    },
+    {
+      "q": "Accounting Standard on the 'Effect of Changes in Foreign Exchange Rates' is:",
+      "opts": [
+        "AS 11",
+        "AS 13",
+        "AS 18",
+        "None of the above"
+      ],
+      "ans": 0,
+      "exp": "AS 11 deals with The Effects of Changes in Foreign Exchange Rates. AS 13 is for Investments and AS 18 is for Related Party Disclosures."
+    },
+    {
+      "q": "Land is not depreciable asset because:",
+      "opts": [
+        "Its value always increases",
+        "There is no maintenance required",
+        "Life of land is unlimited",
+        "None of the above"
+      ],
+      "ans": 2,
+      "exp": "Depreciation is charged over the useful life of an asset. Since land generally has an infinite/unlimited useful life, it is not depreciated."
+    },
+    {
+      "q": "The sales at which a firm would earn profit after tax @ 8% of sales, if fixed cost is Rs. 45,000; selling price Rs. 50 per unit, variable cost Rs. 30 per unit and tax rate 20%:",
+      "opts": [
+        "Rs. 90,000",
+        "Rs. 1,50,000",
+        "Rs. 1,68,000",
+        "None of the above"
+      ],
+      "ans": 1,
+      "exp": "P/V ratio = (50-30)/50 = 40%. PAT = (0.40S - 45,000) * (1 - 0.20) = 0.08S => 0.32S - 36,000 = 0.08S => 0.24S = 36,000 => S = Rs. 1,50,000."
+    },
+    {
+      "q": "Which of the following is not an Accounting concept?",
+      "opts": [
+        "Matching concept",
+        "Dual Aspect concept",
+        "True and Fair concept",
+        "Going concern concept"
+      ],
+      "ans": 2,
+      "exp": "True and Fair View is an auditing requirement and fundamental qualitative characteristic, whereas Matching, Dual Aspect, and Going Concern are accounting concepts."
+    },
+    {
+      "q": "Deficiency/Surplus Account in liquidation of a company is called:",
+      "opts": [
+        "List-C",
+        "List - D",
+        "List-G",
+        "List-H"
+      ],
+      "ans": 3,
+      "exp": "Under company liquidation rules, List H in the Statement of Affairs represents the Deficiency or Surplus Account."
+    },
+    {
+      "q": "Read the following statements: (i) Marginal costing and Absorption costing are the same. (ii) For decision making, absorption costing is more suitable than marginal costing. (iii) Cost-volume-profit relationships also denote break-even point. (iv) Marginal costing is based on the distinction between fixed and variable costs.",
+      "opts": [
+        "(i) & (ii)",
+        "(ii) & (iii)",
+        "(iii) & (iv)",
+        "(iv) & (ii)"
+      ],
+      "ans": 2,
+      "exp": "Statements (iii) and (iv) are correct. Marginal costing differentiates between fixed and variable costs, and CVP analysis evaluates the break-even point."
+    },
+    {
+      "q": "Read the following statements: (i) Financial statements are only interim reports. (ii) Financial statements are prepared on the basis of realizable values. (iii) The preparation of financial statements is not an ultimate aim. (iv) Certain assumptions are necessary to prepare financial statements.",
+      "opts": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "ans": 2,
+      "exp": "Financial statements are prepared on a going concern / historical cost basis, not on liquidation/realizable values. Thus statement (ii) is false."
+    },
+    {
+      "q": "Which of the following is not a subsidiary book?",
+      "opts": [
+        "Purchase Book",
+        "Sales Book",
+        "Bills Receivables Book",
+        "Assets Book"
+      ],
+      "ans": 3,
+      "exp": "There is no separate subsidiary book called 'Assets Book'. Credit purchases of assets are recorded in the Journal Proper."
+    },
+    {
+      "q": "Accounting concepts are based on:",
+      "opts": [
+        "Certain assumptions",
+        "Certain facts and figures",
+        "Certain accounting records",
+        "Government guidelines"
+      ],
+      "ans": 0,
+      "exp": "Accounting concepts are fundamental assumptions and postulates upon which financial accounting principles and practices are built."
+    },
+    {
+      "q": "The main purpose of Cost Accounting is to:",
+      "opts": [
+        "assist management in decision making",
+        "maximise profits and minimise losses",
+        "comply norms issued by the Government",
+        "prepare cost accounts in line with accounting standards"
+      ],
+      "ans": 0,
+      "exp": "The primary objective of cost accounting is cost ascertainment, cost control, and providing relevant data to aid managerial planning and decision making."
+    },
+    {
+      "q": "Accounting Standards Board of India was established in the year:",
+      "opts": [
+        "1970",
+        "1972",
+        "1973",
+        "1977"
+      ],
+      "ans": 3,
+      "exp": "The Accounting Standards Board (ASB) was established by the ICAI on 21st April 1977."
+    },
+    {
+      "q": "X and Y are partners in a firm. They withdrew @ 1,500 and 1,000 respectively on 15th day of every months for all the twelve months during 2009. Interest on drawings is chargeable @ 10% per annum. What would be the interest on drawings respectively?",
+      "opts": [
+        "1,800 and 1,200",
+        "900 and 600",
+        "18,000 and 12,000",
+        "150 and 100"
+      ],
+      "ans": 1,
+      "exp": "For mid-month regular withdrawals, the average period is 6 months. For X: (1500 * 12) * 10% * 6/12 = Rs. 900. For Y: (1000 * 12) * 10% * 6/12 = Rs. 600."
+    },
+    {
+      "q": "If the purchase consideration is calculated by adding the various payments to be made, the method is called:",
+      "opts": [
+        "Lump-sum method",
+        "Net-worth method",
+        "Net-payments method",
+        "Value of shares method"
+      ],
+      "ans": 2,
+      "exp": "Under the Net Payments method, purchase consideration is computed by totaling the agreed payments made in shares, securities, and cash to shareholders."
+    },
+    {
+      "q": "The following relate to the shares of a company. What is the correct order?",
+      "opts": [
+        "Issue, Application, Call and Forfeiture.",
+        "Application, Call, Forfeiture and Issue.",
+        "Call, Issue, Application and Forfeiture.",
+        "Forfeiture, Application, Issue and Call."
+      ],
+      "ans": 0,
+      "exp": "Chronological order: Issue of prospectus -> Receiving Applications -> Making Calls -> Forfeiture of shares upon default."
+    },
+    {
+      "q": "The final accounts of a manufacturing company generally include the following statements: (i) Balance Sheet (ii) Manufacturing Account (iii) Profit and Loss Account (iv) Trading Account (v) Profit and Loss Appropriation Account. The correct sequence is:",
+      "opts": [
+        "(i), (ii), (iii), (iv), (v)",
+        "(ii), (iv), (iii), (v), (i)",
+        "(v), (ii), (iv), (iii), (i)",
+        "(i), (iv), (iii), (ii), (v)"
+      ],
+      "ans": 1,
+      "exp": "Sequence of preparation: Manufacturing Account -> Trading Account -> Profit & Loss Account -> P&L Appropriation Account -> Balance Sheet."
+    },
+    {
+      "q": "Which of the following accounting equations is not correct?",
+      "opts": [
+        "Assets - Liabilities = Equity",
+        "Assets - Equity = Liability",
+        "Assets + Liabilities = Equity",
+        "Liabilities + Equity = Assets"
+      ],
+      "ans": 2,
+      "exp": "The basic accounting equation is Assets = Liabilities + Equity. Hence, Assets + Liabilities = Equity is incorrect."
+    },
+    {
+      "q": "Which one of the following statements is correct?",
+      "opts": [
+        "Increases in liabilities are credits and decreases are debits.",
+        "Increases in assets are credits and decreases are debits.",
+        "Increases in capital are debits and decreases are credits.",
+        "Increases in expenses are credits and decreases are debits."
+      ],
+      "ans": 0,
+      "exp": "According to debit/credit rules, liabilities and equity have credit balances; increases are credited and decreases are debited."
+    },
+    {
+      "q": "A and B are partners in a firm sharing profit and loss in the ratio of 3: 2. They admit C into partnership for 1/4 share and the new ratio between A and B is 2: 1. The sacrificing ratio is:",
+      "opts": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "2:3"
+      ],
+      "ans": 3,
+      "exp": "A's sacrifice = 3/5 - (2/3 * 3/4) = 12/20 - 10/20 = 2/20. B's sacrifice = 2/5 - (1/3 * 3/4) = 8/20 - 5/20 = 3/20. Sacrificing ratio is 2:3."
+    },
+    {
+      "q": "Arrange the following liabilities in the order of company balance sheet. (i) Bank Overdraft (ii) Bank Loan (iii) Share Capital (iv) Provision for Taxation",
+      "opts": [
+        "i, ii, iii, iv",
+        "iv, iii, ii, i",
+        "iii, ii, i, iv",
+        "iii, ii, iv, i"
+      ],
+      "ans": 2,
+      "exp": "Order of permanence: Share Capital (iii) -> Secured/Long-term Bank Loan (ii) -> Current Liabilities/Bank Overdraft (i) -> Provisions/Taxation (iv)."
+    },
+    {
+      "q": "Intrinsic value of a share is given by:",
+      "opts": [
+        "Total net assets / No. of shares",
+        "Total assets / No. of shares",
+        "Share capital / No. of shares",
+        "Market capitalisation / No. of shares"
+      ],
+      "ans": 0,
+      "exp": "Intrinsic value (Net Asset Value per share) = Net Assets available to equity shareholders / Number of equity shares."
+    },
+    {
+      "q": "Which one of the following is not an accounting software?",
+      "opts": [
+        "Tally",
+        "Miracle",
+        "Profit",
+        "SPSS"
+      ],
+      "ans": 3,
+      "exp": "SPSS (Statistical Package for the Social Sciences) is statistical analysis software, not an accounting package."
+    }
+  ]
+}
