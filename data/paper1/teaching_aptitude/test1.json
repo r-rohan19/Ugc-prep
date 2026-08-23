@@ -1,0 +1,227 @@
+{
+  "subject": "P1_TA",
+  "topic": "Test 1 - Teaching Concepts & Evaluation",
+  "topicIcon": "👨‍🏫",
+  "questions": [
+    {
+      "q": "Which of the following is the highest level of cognitive ability according to Bloom's Taxonomy?",
+      "opts": [
+        "Analyzing",
+        "Evaluating",
+        "Creating",
+        "Applying"
+      ],
+      "ans": 2,
+      "exp": "In the revised Bloom's Taxonomy (2001), 'Creating' (synthesis) is considered the highest level of cognitive learning."
+    },
+    {
+      "q": "What is the main objective of formative evaluation?",
+      "opts": [
+        "To promote students to the next class",
+        "To enhance students' learning continuously",
+        "To grade students' final performance",
+        "To select students for scholarships"
+      ],
+      "ans": 1,
+      "exp": "Formative evaluation is conducted during the teaching-learning process to provide continuous feedback and improve student learning."
+    },
+    {
+      "q": "Which level of teaching involves the highest order of thinking skills?",
+      "opts": [
+        "Memory Level",
+        "Understanding Level",
+        "Reflective Level",
+        "Autonomous Development Level"
+      ],
+      "ans": 2,
+      "exp": "Reflective level is the highest level of teaching. It is highly thoughtful, problem-centric, and requires maximum cognitive involvement."
+    },
+    {
+      "q": "SWAYAM is an acronym that stands for:",
+      "opts": [
+        "Study Webs of Active-Learning for Young Aspiring Minds",
+        "Study World of Action-Learning for Young Aspiring Minds",
+        "Study Webs of Active-Learning for Youth Awareness Models",
+        "Social Webs of Active-Learning for Young Aspiring Minds"
+      ],
+      "ans": 0,
+      "exp": "SWAYAM stands for Study Webs of Active-Learning for Young Aspiring Minds. It is an Indian MOOC platform."
+    },
+    {
+      "q": "Who among the following propounded the 'Heuristic Method' of teaching?",
+      "opts": [
+        "John Dewey",
+        "Friedrich Froebel",
+        "H.E. Armstrong",
+        "Maria Montessori"
+      ],
+      "ans": 2,
+      "exp": "The Heuristic method was advocated by Professor H.E. Armstrong. 'Heurisko' means 'I find out', making it a discovery-based method."
+    },
+    {
+      "q": "Which of the following assessments is typically used to identify the specific learning difficulties of a student?",
+      "opts": [
+        "Placement Assessment",
+        "Summative Assessment",
+        "Formative Assessment",
+        "Diagnostic Assessment"
+      ],
+      "ans": 3,
+      "exp": "Diagnostic assessment is used to identify students' specific strengths, weaknesses, knowledge, and skills prior to instruction."
+    },
+    {
+      "q": "A teacher gives a lot of positive and negative examples to support his / her presentations in the classroom. This will be related to which level of teaching?",
+      "opts": [
+        "Autonomous development level",
+        "Memory level",
+        "Understanding level",
+        "Reflective level"
+      ],
+      "ans": 2,
+      "exp": "Giving positive and negative examples helps students understand relationships and concepts, which falls under the Understanding Level of teaching."
+    },
+    {
+      "q": "Micro-teaching is most effective for:",
+      "opts": [
+        "Preparation for teaching practice",
+        "During the teaching practice",
+        "After the teaching practice",
+        "Evaluating student performance"
+      ],
+      "ans": 0,
+      "exp": "Micro-teaching is a teacher training technique used during preparation to master specific teaching skills in a scaled-down teaching environment."
+    },
+    {
+      "q": "Which among the following is a learner-centered teaching method?",
+      "opts": [
+        "Lecture method",
+        "Demonstration method",
+        "Chalk and talk method",
+        "Project method"
+      ],
+      "ans": 3,
+      "exp": "The Project method is learner-centered. Students solve practical problems over a period of days or weeks under the teacher's guidance."
+    },
+    {
+      "q": "Which educational psychologist introduced the 'Cone of Experience' to explain the effectiveness of different learning media?",
+      "opts": [
+        "B.F. Skinner",
+        "Edgar Dale",
+        "Jean Piaget",
+        "Lev Vygotsky"
+      ],
+      "ans": 1,
+      "exp": "Edgar Dale introduced the Cone of Experience, which shows that learners retain more information by what they 'do' compared to what they 'hear' or 'read'."
+    },
+    {
+      "q": "The Choice Based Credit System (CBCS) provides a choice for students to select from the prescribed courses. Which of these is NOT a course type in CBCS?",
+      "opts": [
+        "Core Course",
+        "Elective Course",
+        "Foundation Course",
+        "Diagnostic Course"
+      ],
+      "ans": 3,
+      "exp": "CBCS includes Core, Elective, and Foundation (Ability Enhancement) courses. 'Diagnostic Course' is not a category."
+    },
+    {
+      "q": "In a Norm-Referenced Testing (NRT) model, a student's performance is compared with:",
+      "opts": [
+        "A pre-defined standard or criteria",
+        "The performance of other students",
+        "Their own previous performance",
+        "The national average only"
+      ],
+      "ans": 1,
+      "exp": "Norm-Referenced Tests (NRT) compare a student's performance against the performance of a peer group (the norm)."
+    },
+    {
+      "q": "Which teaching maxim suggests that a teacher should first teach the whole lesson and then break it down into parts?",
+      "opts": [
+        "Simple to Complex",
+        "Known to Unknown",
+        "Whole to Part",
+        "Concrete to Abstract"
+      ],
+      "ans": 2,
+      "exp": "The maxim 'Whole to Part' is based on Gestalt psychology, which states that we first perceive an object as a whole and then notice its parts."
+    },
+    {
+      "q": "What is a 'Flipped Classroom'?",
+      "opts": [
+        "A classroom where seats are arranged in a circle",
+        "Students learn instructional content at home and do activities/homework in class",
+        "A classroom entirely managed by students",
+        "Teacher teaches from the back of the classroom"
+      ],
+      "ans": 1,
+      "exp": "In a flipped classroom, traditional homework is done in class, and instructional content (like video lectures) is consumed at home."
+    },
+    {
+      "q": "Which of the following is an example of an asynchronous learning tool?",
+      "opts": [
+        "Live Zoom Webinar",
+        "Email discussion",
+        "Skype video call",
+        "Live interactive whiteboard"
+      ],
+      "ans": 1,
+      "exp": "Asynchronous learning happens on the student's schedule (not in real-time). Email and recorded videos are examples of this."
+    },
+    {
+      "q": "Which philosophy of education emphasizes the role of the environment in shaping human behavior?",
+      "opts": [
+        "Idealism",
+        "Realism",
+        "Pragmatism",
+        "Behaviorism"
+      ],
+      "ans": 3,
+      "exp": "Behaviorism, associated with psychologists like Watson and Skinner, emphasizes that learning is a conditioning process shaped by the environment."
+    },
+    {
+      "q": "The concept of 'Zone of Proximal Development' (ZPD) was given by:",
+      "opts": [
+        "Sigmund Freud",
+        "Jean Piaget",
+        "Lev Vygotsky",
+        "Albert Bandura"
+      ],
+      "ans": 2,
+      "exp": "Lev Vygotsky introduced ZPD, which is the difference between what a learner can do without help and what they can do with guidance."
+    },
+    {
+      "q": "Which of the following is considered a 'Key Behavior' contributing to effective teaching?",
+      "opts": [
+        "Using student ideas",
+        "Structuring",
+        "Instructional variety",
+        "Probing"
+      ],
+      "ans": 2,
+      "exp": "According to Gary Borich, Instructional Variety is one of the 5 key behaviors for effective teaching (along with Lesson clarity, Teacher task orientation, Engagement in learning process, and Student success rate)."
+    },
+    {
+      "q": "Which characteristic best defines an 'Adult Learner' (Andragogy)?",
+      "opts": [
+        "Dependent on the teacher for all learning",
+        "Motivated primarily by external rewards",
+        "Self-directed and brings life experience",
+        "Prefers subject-centered learning rather than problem-centered"
+      ],
+      "ans": 2,
+      "exp": "Adult learners (Andragogy) are typically self-directed, intrinsically motivated, and use their life experiences as a resource for learning."
+    },
+    {
+      "q": "What is the primary purpose of a 'Rubric' in educational assessment?",
+      "opts": [
+        "To take attendance",
+        "To provide a scoring guide with specific criteria for grading",
+        "To design the classroom seating arrangement",
+        "To record student health data"
+      ],
+      "ans": 1,
+      "exp": "A rubric is an evaluation tool or set of guidelines used to promote the consistent application of learning expectations, objectives, or standards."
+    }
+  ]
+}
