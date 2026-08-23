@@ -1,0 +1,557 @@
+{
+  "subject": "P2_BE",
+  "topic": "Business Environment & International Business",
+  "topicIcon": "💼",
+  "questions": [
+    {
+      "q": "Which of the following is not an objective of competition Act 2002?",
+      "opts": [
+        "Prohibition of abuse of dominant position",
+        "Prohibition of Restrictive Trade Practices",
+        "Prohibition of Anti Competitive Agreements",
+        "Regulation of combinations"
+      ],
+      "ans": 1,
+      "exp": "The Competition Act, 2002 focuses on Anti-Competitive Agreements, Abuse of Dominant Position, and Regulation of Combinations. MRTP Act dealt with Restrictive Trade Practices."
+    },
+    {
+      "q": "Consumers have the right: (i) to be protected against goods and services that are hazardous to life and property. (ii) to assured, wherever possible, access to a variety of goods and services at notional prices.",
+      "opts": [
+        "Both (i) and (ii) are correct",
+        "Both (i) and (ii) are wrong",
+        "Only (i) is correct",
+        "Only (ii) is correct"
+      ],
+      "ans": 0,
+      "exp": "Consumers have both the right to be protected against hazardous goods (Right to Safety) and the right to access a variety of goods at competitive/notional prices (Right to Choose)."
+    },
+    {
+      "q": "Which of the following is not an element of the micro environment of business?",
+      "opts": [
+        "Suppliers",
+        "Competitors",
+        "Trade Policy",
+        "Publics"
+      ],
+      "ans": 2,
+      "exp": "Trade Policy is a part of the macro environment (economic environment), whereas suppliers, competitors, and publics form the micro environment."
+    },
+    {
+      "q": "Match the following legislations with the year of their enactment: (a) Industries (Development and Regulation) Act (b) FEMA (c) SEBI Act (d) MRTP Act WITH (i) 1969 (ii) 1951 (iii) 1999 (iv) 1992.",
+      "opts": [
+        "(i) (iii) (iv) (ii)",
+        "(i) (iv) (iii) (ii)",
+        "(ii) (iii) (iv) (i)",
+        "(ii) (iii) (i) (iv)"
+      ],
+      "ans": 2,
+      "exp": "IDRA was enacted in 1951 (ii), FEMA in 1999 (iii), SEBI in 1992 (iv), and MRTP in 1969 (i)."
+    },
+    {
+      "q": "Which of the following is not a mode of foreign capital inflow to India?",
+      "opts": [
+        "FDI",
+        "FII",
+        "NRI Accounts",
+        "None of the above"
+      ],
+      "ans": 3,
+      "exp": "FDI, FII, and NRI accounts are all recognized modes of foreign capital inflow to India."
+    },
+    {
+      "q": "IMF has raised the quota and voting share of India which places India at the ___ place among 184 members of the organisation.",
+      "opts": [
+        "10th",
+        "11th",
+        "12th",
+        "13th"
+      ],
+      "ans": 3,
+      "exp": "At the time of this specific data release, India was placed at the 13th position in the IMF quota and voting share."
+    },
+    {
+      "q": "Foreign Trade Policy 2008-09 forecasts the share of India's trade in World Trade at:",
+      "opts": [
+        "1.2%",
+        "1.3%",
+        "1.4%",
+        "1.5%"
+      ],
+      "ans": 3,
+      "exp": "The Foreign Trade Policy 2008-09 targeted a 1.5% share of India in global trade."
+    },
+    {
+      "q": "On the basis of the size and composition of external debt, World Bank has classified India as a:",
+      "opts": [
+        "heavily indebted country",
+        "moderately indebted country",
+        "less indebted country",
+        "severely indebted country"
+      ],
+      "ans": 2,
+      "exp": "The World Bank has historically classified India as a less indebted country in terms of external debt sustainability."
+    },
+    {
+      "q": "If the amount claimed by a consumer as compensation is Rs. 89 lacs, the case under The Consumer Protection Act shall be filed with:",
+      "opts": [
+        "District Consumer Redressal Forum",
+        "State Consumer Disputes Redressal Commission",
+        "National Consumer Disputes Redressal Commission",
+        "Supreme Court"
+      ],
+      "ans": 1,
+      "exp": "Under the Consumer Protection Act, 1986, disputes claiming compensation between Rs. 20 lakhs and Rs. 1 crore were filed with the State Commission."
+    },
+    {
+      "q": "Which of the following does not fall within the jurisdiction of MRTP Commission?",
+      "opts": [
+        "Prevention of Monopolistic Trade Practices",
+        "Prevention of Restrictive Trade Practices",
+        "Prohibition of Unfair Trade Practices",
+        "Regulation of Combinations"
+      ],
+      "ans": 3,
+      "exp": "Regulation of combinations falls under the jurisdiction of the Competition Commission of India (CCI) under the Competition Act, 2002, not the MRTP Commission."
+    },
+    {
+      "q": "Which of the following is not a part of the economic environment of business?",
+      "opts": [
+        "Competitive Environment",
+        "Economic System",
+        "Changes in Patent Laws",
+        "None of these"
+      ],
+      "ans": 2,
+      "exp": "Changes in Patent Laws are a component of the Legal/Regulatory environment, not the Economic environment."
+    },
+    {
+      "q": "Laissez faire policy is adopted in:",
+      "opts": [
+        "Socialistic economic system",
+        "Capitalistic economic system",
+        "Mixed economic system",
+        "Communist economic system"
+      ],
+      "ans": 1,
+      "exp": "Laissez-faire, meaning 'leave alone' or minimal government intervention, is a core feature of a Capitalistic economic system."
+    },
+    {
+      "q": "Relaxing the restrictions and controls imposed on business and industry means:",
+      "opts": [
+        "Liberalisation",
+        "Privatisation",
+        "Globalisation",
+        "None of these"
+      ],
+      "ans": 0,
+      "exp": "Liberalisation refers to the relaxation of previous government restrictions and controls, particularly in business and industry."
+    },
+    {
+      "q": "The International Monetary Fund has estimated India's contribution to World Gross Domestic Product in PPP terms for 2007:",
+      "opts": [
+        "4.6 percent",
+        "6.4 percent",
+        "7.1 percent",
+        "8.9 percent"
+      ],
+      "ans": 0,
+      "exp": "In 2007, IMF estimated India's share of world GDP in Purchasing Power Parity (PPP) terms to be around 4.6%."
+    },
+    {
+      "q": "The World Bank is known as:",
+      "opts": [
+        "IMF",
+        "IDA",
+        "IFC",
+        "IBRD"
+      ],
+      "ans": 3,
+      "exp": "The World Bank is officially known as the International Bank for Reconstruction and Development (IBRD)."
+    },
+    {
+      "q": "\"De-coupling\" denotes:",
+      "opts": [
+        "Indian market may be cut off from global markets so that it may not be affected by global volatility",
+        "separating the birds affected by bird-flu",
+        "that markets are independent",
+        "None of the above"
+      ],
+      "ans": 2,
+      "exp": "De-coupling refers to the phenomenon where emerging markets grow independently and are less affected by economic slowdowns or volatility in advanced global markets."
+    },
+    {
+      "q": "Which of the country's banking have been brought under \"Sanctions by U.S.A. recently\"?",
+      "opts": [
+        "Iraq",
+        "North Korea",
+        "Pakistan",
+        "Iran"
+      ],
+      "ans": 3,
+      "exp": "Iran's banking sector faced severe US sanctions around that period due to its nuclear program."
+    },
+    {
+      "q": "How many member countries are there in the \"World Customs Organisation\"?",
+      "opts": [
+        "160",
+        "162",
+        "172",
+        "180"
+      ],
+      "ans": 2,
+      "exp": "The World Customs Organisation (WCO) had around 172 member countries during that timeframe."
+    },
+    {
+      "q": "The concept of Small Scale Industries (SSIs) was brought to fore by the:",
+      "opts": [
+        "Industrial Policy Resolution, 1948",
+        "Industrial Policy Resolution, 1956",
+        "Industrial Policy Statement, 1977",
+        "None of the above"
+      ],
+      "ans": 1,
+      "exp": "The Industrial Policy Resolution of 1956 gave significant emphasis to the role and development of Small Scale Industries (SSIs)."
+    },
+    {
+      "q": "Which combination of the following factors has driven globalisation in the recent past? I. Growth of MNCs. II. Internationalisation of finance. III. Increased international trade.",
+      "opts": [
+        "I and II",
+        "I and III",
+        "II and III",
+        "I, II and III"
+      ],
+      "ans": 3,
+      "exp": "The growth of MNCs, internationalisation of finance, and increased international trade are all primary drivers of globalisation."
+    },
+    {
+      "q": "Assertion (A): Privatisation process leads to change in management with change in ownership. Reason (R): Change in management is not a necessary condition for the process of privatisation.",
+      "opts": [
+        "Both (A) and (R) are correct",
+        "(A) is correct, but (R) is incorrect",
+        "(A) is incorrect, but (R) is correct",
+        "Both (A) and (R) are incorrect"
+      ],
+      "ans": 2,
+      "exp": "Change in ownership is a core feature of privatisation, but a complete change in management is not strictly necessary in every form (e.g., partial disinvestment)."
+    },
+    {
+      "q": "In which of the industrial policies were the following major changes introduced? Liberalisation of licensed capacity, Relaxation of industrial licensing, Industrialisation of backward areas.",
+      "opts": [
+        "Industrial Policy Resolution, 1956",
+        "Industrial Policy Statement, 1977",
+        "Industrial Policy of 1980",
+        "Industrial Policy of 1991"
+      ],
+      "ans": 3,
+      "exp": "The New Industrial Policy of 1991 introduced major reforms including industrial de-licensing and liberalisation of capacity."
+    },
+    {
+      "q": "In balance of payment accounts, all goods exported and imported are recorded in:",
+      "opts": [
+        "Capital Account",
+        "Visible Account",
+        "Invisible Account",
+        "Merchandise Account"
+      ],
+      "ans": 1,
+      "exp": "In Balance of Payments, all exports and imports of physical goods are recorded in the Visible Account (or Trade/Merchandise Account)."
+    },
+    {
+      "q": "The devaluation of currency of a country is done when: (i) It has adverse balance of payments. (ii) It has favourable balance of payments.",
+      "opts": [
+        "Both (i) and (ii) are correct",
+        "Both (i) and (ii) are incorrect",
+        "Only (i) is correct",
+        "Only (ii) is correct"
+      ],
+      "ans": 2,
+      "exp": "Devaluation of a currency is typically undertaken by a government to correct an adverse (deficit) balance of payments by making exports cheaper and imports costlier."
+    },
+    {
+      "q": "Match the following with the year of establishment: (a) WTO (b) Uruguay Round Negotiation (c) WTO Trade Policy Review Body (d) The Patents (Amendment) Act. WITH i. 1993 ii. 1995 iii. 1997 iv. 1999",
+      "opts": [
+        "a-i, b-ii, c-iii, d-iv",
+        "a-ii, b-i, c-iii, d-iv",
+        "a-iii, b-iv, c-i, d-ii",
+        "a-iv, b-iii, c-ii, d-i"
+      ],
+      "ans": 1,
+      "exp": "WTO was established in 1995, Uruguay Round concluded around 1993/94, TPRB in 1997, and Patents Amendment in 1999."
+    },
+    {
+      "q": "India abolished the quantitative restrictions on imports of 1429 items in 2000 and 2001 as per the commitment to which of the following?",
+      "opts": [
+        "SAFTA",
+        "GATT",
+        "WTO",
+        "NAM"
+      ],
+      "ans": 2,
+      "exp": "India removed Quantitative Restrictions (QRs) on 1429 items to comply with its commitments to the World Trade Organization (WTO)."
+    },
+    {
+      "q": "Globalization is a term used to describe the process of removal of restrictions on which of the following?",
+      "opts": [
+        "Foreign Trade",
+        "Investment",
+        "(A) and (B) above",
+        "None of the above"
+      ],
+      "ans": 2,
+      "exp": "Globalisation involves integrating the domestic economy with the global economy by removing restrictions on both foreign trade and foreign investment."
+    },
+    {
+      "q": "When a company takes over another one and clearly becomes a new owner, the action is called:",
+      "opts": [
+        "Merger",
+        "Acquisition",
+        "Strategic Alliance",
+        "None of the above"
+      ],
+      "ans": 1,
+      "exp": "An acquisition occurs when one company takes over another and establishes itself as the new owner."
+    },
+    {
+      "q": "The MRTP Act, 1969 was abolished in:",
+      "opts": [
+        "1991",
+        "2002",
+        "2006",
+        "None of the above"
+      ],
+      "ans": 1,
+      "exp": "The MRTP Act, 1969 was repealed and replaced by the Competition Act, 2002."
+    },
+    {
+      "q": "Foreign Exchange and foreign currencies in India are governed by:",
+      "opts": [
+        "SCRA Act",
+        "Banking Regulation Act",
+        "FEMA Act",
+        "SEBI Act"
+      ],
+      "ans": 2,
+      "exp": "Foreign exchange transactions in India are governed by the Foreign Exchange Management Act (FEMA), 1999."
+    },
+    {
+      "q": "The balance of payments of a country on Current Account is equal to:",
+      "opts": [
+        "Balance of trade plus short term capital flows",
+        "Balance of trade plus net invisible exports",
+        "Balance of payments minus capital flows",
+        "Balance of invisible trade plus imports"
+      ],
+      "ans": 1,
+      "exp": "The Current Account balance is the sum of the balance of trade (visible) and the net invisible exports/imports (services, transfers, income)."
+    },
+    {
+      "q": "The following table shows cost per unit of production of two goods, wheat and cloth in two countries X and Y with no transportation cost and free trade. Which one of the following will take place?",
+      "opts": [
+        "No trade will take place",
+        "X will export wheat and import cloth",
+        "X will export cloth and import wheat",
+        "There is no enough information to comment."
+      ],
+      "ans": 3,
+      "exp": "Without the data/table on cost per unit of production, it is impossible to determine comparative advantage and the direction of trade."
+    },
+    {
+      "q": "A debit balance of payments occurs due to: (i) Low imports and high exports (ii) High imports and low exports.",
+      "opts": [
+        "Both (i) and (ii) are correct",
+        "Both (i) and (ii) are incorrect",
+        "Only (i) is correct",
+        "Only (ii) is correct"
+      ],
+      "ans": 3,
+      "exp": "A debit balance (deficit) in balance of payments occurs when payments (imports) exceed receipts (exports)."
+    },
+    {
+      "q": "Match the following economic institutions with the year of their establishment: (a) World Bank (b) IFC (c) IDA (d) ADB WITH (i) 1946 (ii) 1956 (iii) 1960 (iv) 1966.",
+      "opts": [
+        "a-i, b-ii, c-iii, d-iv",
+        "a-ii, b-iii, c-iv, d-i",
+        "a-iii, b-iv, c-i, d-ii",
+        "a-iv, b-i, c-ii, d-iii"
+      ],
+      "ans": 0,
+      "exp": "World Bank (IBRD) started in 1946, IFC in 1956, IDA in 1960, and ADB in 1966."
+    },
+    {
+      "q": "Match the following components of Business Environment: (a) Economic (b) Social (c) Political (d) Legal WITH (i) Exim Policy (ii) Customs (iii) Social Values (iv) Business Law and Banking Act.",
+      "opts": [
+        "a-i, b-iii, c-ii, d-iv",
+        "a-i, b-ii, c-iii, d-iv",
+        "a-ii, b-iii, c-i, d-iv",
+        "a-iv, b-iii, c-ii, d-i"
+      ],
+      "ans": 0,
+      "exp": "Economic relates to Exim Policy, Social to Social Values, Political to Customs/Tariffs, and Legal to Business/Banking Laws."
+    },
+    {
+      "q": "Which among the following have not been opened for private sector participation?",
+      "opts": [
+        "Power Sector",
+        "Telecommunication Sector",
+        "Education Sector",
+        "Railways"
+      ],
+      "ans": 3,
+      "exp": "Railways largely remain a public sector monopoly in India and have not been fully opened for private sector participation like telecom or power."
+    },
+    {
+      "q": "VAT is imposed:",
+      "opts": [
+        "Directly on consumers",
+        "On final stage of production",
+        "On all stages from production to final sales",
+        "Value of shares method"
+      ],
+      "ans": 2,
+      "exp": "Value Added Tax (VAT) is a multi-point tax imposed on the value added at each stage from production to final sales."
+    },
+    {
+      "q": "In which of the following countries the Industrial Revolution took place first?",
+      "opts": [
+        "France",
+        "Germany",
+        "England",
+        "U.S.A."
+      ],
+      "ans": 2,
+      "exp": "The Industrial Revolution first began in Great Britain (England) in the 18th century."
+    },
+    {
+      "q": "Which type of elasticity plays a crucial role in determining international trade?",
+      "opts": [
+        "Elasticity of demand",
+        "Price elasticity of demand",
+        "Income elasticity of demand",
+        "Cross elasticity of demand"
+      ],
+      "ans": 1,
+      "exp": "Price elasticity of demand is crucial in international trade as it determines how export and import quantities respond to price changes (like devaluation)."
+    },
+    {
+      "q": "DFEC stands for:",
+      "opts": [
+        "Direct Foreign Exchange Control",
+        "Direct Finance Exchange Control",
+        "Duty Free Export Credit",
+        "Duty Free Exchange Credit"
+      ],
+      "ans": 2,
+      "exp": "DFEC stands for Duty Free Export Credit, a scheme related to export promotion."
+    },
+    {
+      "q": "Suppose a Canadian firm imports bananas of 1000 and sells them for 2000. The effect on GDP would be:",
+      "opts": [
+        "The GDP will decrease by 3000",
+        "The GDP will increase by 3000",
+        "The GDP will increase by 2000",
+        "The GDP will increase by 1000"
+      ],
+      "ans": 3,
+      "exp": "GDP measures domestic value addition. Importing for 1000 and selling for 2000 adds 1000 to the domestic economy's GDP."
+    },
+    {
+      "q": "In independent India, the first major foreign exchange crisis occurred in the year:",
+      "opts": [
+        "1955",
+        "1956",
+        "1969",
+        "1991"
+      ],
+      "ans": 3,
+      "exp": "India faced a severe Balance of Payments and foreign exchange crisis in 1991, leading to major economic reforms."
+    },
+    {
+      "q": "By which Act, the government checks restrictive trade practices?",
+      "opts": [
+        "FEMA - 1999",
+        "Consumer Protection Act, 1986",
+        "Industrial Policy Act, 1991",
+        "None of the above"
+      ],
+      "ans": 3,
+      "exp": "The MRTP Act originally checked restrictive trade practices, but since it's not in the options (FEMA, CPA, Industrial Policy), None of the above is the correct answer."
+    },
+    {
+      "q": "In which year the new Industrial Policy was announced?",
+      "opts": [
+        "1997",
+        "1951",
+        "1991",
+        "1998"
+      ],
+      "ans": 2,
+      "exp": "The New Industrial Policy, which brought massive liberalization, was announced on July 24, 1991."
+    },
+    {
+      "q": "Assertion (A): Disinvestment tends to arouse opposition from employees. Reason (R): It may increase the cost of Production.",
+      "opts": [
+        "Both (A) and (R) are true",
+        "(A) is true, but (R) is false",
+        "Both (A) and (R) are false",
+        "(A) is false, but (R) is true"
+      ],
+      "ans": 1,
+      "exp": "Disinvestment often arouses opposition from employees due to fears of job loss (A is true). It does not inherently increase the cost of production (R is false)."
+    },
+    {
+      "q": "Match Books and Authors: a. India and Economic Reforms b. Development planning c. India: Economic Development d. Fiscal Policy of Underdeveloped countries WITH i. Bhagwati. J. ii. Chakravarty. S. iii. Drenz, J and Amartya Sen iv. Chelliah, R.J.",
+      "opts": [
+        "a-i, b-ii, c-iii, d-iv",
+        "a-i, b-iii, c-ii, d-iv",
+        "a-iii, b-ii, c-iv, d-i",
+        "a-iv, b-i, c-ii, d-iii"
+      ],
+      "ans": 0,
+      "exp": "Bhagwati wrote on India and Economic Reforms, Chakravarty on Development Planning, Sen on Economic Development, and Chelliah on Fiscal Policy."
+    },
+    {
+      "q": "Which of the following is the best example of Agreement between oligopolists?",
+      "opts": [
+        "GATT",
+        "OPEC",
+        "WTO",
+        "UNIDO"
+      ],
+      "ans": 1,
+      "exp": "OPEC (Organization of the Petroleum Exporting Countries) is a classic example of an international cartel, which is an agreement among oligopolists."
+    },
+    {
+      "q": "Factor Endowment Theory of International Trade was propounded by:",
+      "opts": [
+        "David Ricardo",
+        "Bertil Ohlin",
+        "J.S. Mill",
+        "C.P. Kindleberger"
+      ],
+      "ans": 1,
+      "exp": "Factor Endowment Theory (also known as the Heckscher-Ohlin theory) of international trade was propounded by Bertil Ohlin and Eli Heckscher."
+    },
+    {
+      "q": "Assertion (A): The British established and developed Indian Railways. Reason (R): The British are keenly interested in India's economic development.",
+      "opts": [
+        "Both (A) and (R) true",
+        "Both (A) and (R) are false",
+        "(A) is true, but (R) is false",
+        "(A) is false, but (R) is true"
+      ],
+      "ans": 2,
+      "exp": "The British developed railways in India mainly to serve their own colonial and commercial interests, not primarily for India's economic development."
+    },
+    {
+      "q": "Special Economic Zones (SEZ) have been created first time in the:",
+      "opts": [
+        "EXIM Policy - 2000",
+        "EXIM Policy 2005",
+        "Industrial Policy - 1956",
+        "Industrial Policy - 1991"
+      ],
+      "ans": 0,
+      "exp": "The Special Economic Zones (SEZ) policy was first introduced in the EXIM Policy of 2000 to boost exports."
+    }
+  ]
+}
