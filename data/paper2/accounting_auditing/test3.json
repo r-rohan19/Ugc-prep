@@ -1,0 +1,799 @@
+{
+  "subject": "P2_AC",
+  "topic": "International Economic Institutions (WTO, IMF, World Bank, UNCTAD)",
+  "topicIcon": "🏛️",
+  "questions": [
+    {
+      "q": "The Bretton Woods Conference held in July 1944 led to the establishment of which twin international institutions?",
+      "opts": [
+        "International Monetary Fund (IMF) and International Bank for Reconstruction and Development (IBRD)",
+        "World Trade Organization (WTO) and United Nations (UN)",
+        "Asian Development Bank (ADB) and New Development Bank (NDB)",
+        "Bank for International Settlements (BIS) and OECD"
+      ],
+      "ans": 0,
+      "exp": "The United Nations Monetary and Financial Conference at Bretton Woods, New Hampshire (1944) created the 'Bretton Woods Twins': the IMF and the World Bank (IBRD)."
+    },
+    {
+      "q": "The headquarters of both the International Monetary Fund (IMF) and the World Bank are located in:",
+      "opts": [
+        "Geneva, Switzerland",
+        "Washington, D.C., USA",
+        "New York City, USA",
+        "Paris, France"
+      ],
+      "ans": 1,
+      "exp": "Both the IMF and the World Bank Group have their global headquarters in Washington, D.C., United States."
+    },
+    {
+      "q": "Which institution in the World Bank Group is known as the 'Soft Loan Window' because it provides interest-free loans (credits) and grants to the poorest developing countries?",
+      "opts": [
+        "International Finance Corporation (IFC)",
+        "International Development Association (IDA)",
+        "Multilateral Investment Guarantee Agency (MIGA)",
+        "International Centre for Settlement of Investment Disputes (ICSID)"
+      ],
+      "ans": 1,
+      "exp": "The International Development Association (IDA), established in 1960, provides concessional interest-free loans ('credits') with long maturities to low-income nations."
+    },
+    {
+      "q": "Which member of the World Bank Group specifically provides equity financing, long-term commercial loans, and advisory services directly to private sector enterprises in developing countries?",
+      "opts": [
+        "International Finance Corporation (IFC)",
+        "International Development Association (IDA)",
+        "International Bank for Reconstruction and Development (IBRD)",
+        "Multilateral Investment Guarantee Agency (MIGA)"
+      ],
+      "ans": 0,
+      "exp": "The IFC (established in 1956) is the private sector arm of the World Bank Group, investing directly in private sector companies in emerging markets without government guarantees."
+    },
+    {
+      "q": "The Multilateral Investment Guarantee Agency (MIGA), a member of the World Bank Group, was established in 1988 primarily to:",
+      "opts": [
+        "Promote foreign direct investment into developing countries by providing political risk insurance (guarantees) against non-commercial risks",
+        "Provide emergency short-term liquidity during balance of payment crises",
+        "Arbitrate bilateral investment disputes between private corporations",
+        "Regulate global maritime shipping freight rates"
+      ],
+      "ans": 0,
+      "exp": "MIGA promotes foreign direct investment (FDI) into developing nations by insuring cross-border investors and lenders against non-commercial / political risks (expropriation, war, transfer restrictions, breach of contract)."
+    },
+    {
+      "q": "Which institution in the World Bank Group provides international facilities for conciliation and arbitration of investment disputes between foreign investors and sovereign states?",
+      "opts": [
+        "ICSID (International Centre for Settlement of Investment Disputes)",
+        "MIGA",
+        "IFC",
+        "IDA"
+      ],
+      "ans": 0,
+      "exp": "ICSID, established in 1966 under the Washington Convention, is the premier institution for resolving legal disputes between international investors and host states."
+    },
+    {
+      "q": "India is a member of all World Bank Group institutions EXCEPT:",
+      "opts": [
+        "IBRD",
+        "IDA",
+        "IFC",
+        "ICSID"
+      ],
+      "ans": 3,
+      "exp": "India is a founding member of IBRD, IDA, IFC, and joined MIGA in 1994, but India is NOT a member of ICSID (International Centre for Settlement of Investment Disputes)."
+    },
+    {
+      "q": "The World Trade Organization (WTO) officially commenced operations on:",
+      "opts": [
+        "January 1, 1995",
+        "July 24, 1991",
+        "October 24, 1945",
+        "April 15, 1994"
+      ],
+      "ans": 0,
+      "exp": "The WTO came into operation on January 1, 1995, following the signing of the Marrakesh Agreement on April 15, 1994, replacing GATT."
+    },
+    {
+      "q": "The World Trade Organization (WTO) was established as a result of negotiations conducted during the:",
+      "opts": [
+        "Kennedy Round (1964-1967)",
+        "Tokyo Round (1973-1979)",
+        "Uruguay Round (1986-1994)",
+        "Doha Round (2001-ongoing)"
+      ],
+      "ans": 2,
+      "exp": "The 8th GATT round of multilateral trade negotiations, the Uruguay Round (1986-1994), culminated in the Marrakesh Declaration and the creation of the WTO."
+    },
+    {
+      "q": "Where is the headquarters of the World Trade Organization (WTO) located?",
+      "opts": [
+        "Geneva, Switzerland",
+        "Washington, D.C., USA",
+        "Paris, France",
+        "Vienna, Austria"
+      ],
+      "ans": 0,
+      "exp": "The headquarters of the WTO is situated at the Centre William Rappard in Geneva, Switzerland."
+    },
+    {
+      "q": "The General Agreement on Tariffs and Trade (GATT) was signed in 1947 and entered into force in:",
+      "opts": [
+        "1948",
+        "1944",
+        "1950",
+        "1955"
+      ],
+      "ans": 0,
+      "exp": "GATT was signed by 23 nations in Geneva in October 1947 and took effect on January 1, 1948, as an interim agreement pending the creation of the ITO."
+    },
+    {
+      "q": "The proposed international institution from the 1944 Bretton Woods architecture that failed to be ratified by the US Senate and was subsequently replaced by GATT was the:",
+      "opts": [
+        "International Trade Organization (ITO / Havana Charter)",
+        "Multilateral Investment Agreement (MIA)",
+        "World Customs Union (WCU)",
+        "Global Development Authority (GDA)"
+      ],
+      "ans": 0,
+      "exp": "The Havana Charter (1948) proposed the creation of the International Trade Organization (ITO), but failed ratification in the US Congress, leaving GATT as the primary trade framework until 1995."
+    },
+    {
+      "q": "What are the two foundational non-discrimination principles of the WTO / GATT system?",
+      "opts": [
+        "Most-Favoured-Nation (MFN) Principle and National Treatment Principle",
+        "Free Trade Principle and Fair Wage Principle",
+        "Absolute Cost Principle and Comparative Advantage Principle",
+        "Reciprocity Principle and Transparency Principle"
+      ],
+      "ans": 0,
+      "exp": "The non-discrimination pillar of the WTO rests on two rules: MFN (treating foreign trade partners equally without discrimination) and National Treatment (treating foreign and domestic goods/services equally once imported)."
+    },
+    {
+      "q": "Under the Most-Favoured-Nation (MFN) principle (GATT Article I), a trade concession granted by one WTO member to another member must be:",
+      "opts": [
+        "Extended immediately and unconditionally to all other WTO member countries",
+        "Restricted only to bilateral allies sharing the same continent",
+        "Charged an extra transit fee by third-party nations",
+        "Approved by a unanimous vote of the United Nations General Assembly"
+      ],
+      "ans": 0,
+      "exp": "The MFN principle requires that any advantage, favor, or privilege granted to products originating in or destined for any country must be accorded unconditionally to all other contracting parties."
+    },
+    {
+      "q": "The National Treatment Principle (GATT Article III) mandates that:",
+      "opts": [
+        "Imported goods, once they have cleared customs, must be treated no less favorably than domestically produced goods in terms of internal taxes and regulations",
+        "All national industries must be state-owned",
+        "Foreign firms must pay double the domestic corporate tax rate",
+        "Domestic citizens must be prioritized over foreign goods during shortages"
+      ],
+      "ans": 0,
+      "exp": "National Treatment prohibits internal taxes, domestic charges, or administrative regulations that discriminate against foreign imported goods after customs clearance."
+    },
+    {
+      "q": "Which WTO agreement deals with standards, availability, and enforcement of Intellectual Property Rights?",
+      "opts": [
+        "TRIPS (Trade-Related Aspects of Intellectual Property Rights)",
+        "TRIMS (Trade-Related Investment Measures)",
+        "GATS (General Agreement on Trade in Services)",
+        "AOA (Agreement on Agriculture)"
+      ],
+      "ans": 0,
+      "exp": "The TRIPS Agreement sets minimum global standards for the protection and enforcement of patents, copyrights, trademarks, industrial designs, geographical indications, and trade secrets."
+    },
+    {
+      "q": "Under the TRIPS agreement of the WTO, what is the standard minimum protection period mandated for Patents?",
+      "opts": [
+        "20 years from the filing date",
+        "10 years from the filing date",
+        "50 years after the death of the inventor",
+        "Indefinite period subject to annual registration"
+      ],
+      "ans": 0,
+      "exp": "Article 33 of TRIPS mandates that the term of protection available for patents shall not end before the expiration of a period of 20 years counted from the filing date."
+    },
+    {
+      "q": "Under TRIPS, the protection term for Copyrights (literary, artistic, and musical works) generally lasts for:",
+      "opts": [
+        "The life of the author plus at least 50 years after their death",
+        "20 years from the date of publication",
+        "10 years from creation",
+        "7 years renewable indefinitely"
+      ],
+      "ans": 0,
+      "exp": "Under TRIPS and the Berne Convention, copyright protection covers the author's lifespan plus a minimum of 50 years after death."
+    },
+    {
+      "q": "The Agreement on Trade-Related Investment Measures (TRIMS) under the WTO prohibits investment measures that violate:",
+      "opts": [
+        "National Treatment (GATT Art. III) and General Elimination of Quantitative Restrictions (GATT Art. XI)",
+        "Domestic labour strike protections",
+        "State monopoly in civil aviation",
+        "Central bank open market operations"
+      ],
+      "ans": 0,
+      "exp": "TRIMS prohibits investment requirements that restrict trade or discriminate against foreign investors, such as Local Content Requirements (LCRs) and Trade Balancing Requirements."
+    },
+    {
+      "q": "Which of the following investment measures is explicitly prohibited under the WTO TRIMS agreement?",
+      "opts": [
+        "Mandating foreign firms to use a specified proportion of locally sourced inputs (Local Content Requirement)",
+        "Requiring foreign firms to comply with national safety standards",
+        "Levying uniform corporate income taxes on foreign enterprises",
+        "Mandating environmental pollution clearances"
+      ],
+      "ans": 0,
+      "exp": "Local Content Requirements (LCRs) and export-import balancing rules are trade-distorting and violate TRIMS."
+    },
+    {
+      "q": "The General Agreement on Trade in Services (GATS) classifies international service delivery into how many distinct 'Modes of Supply'?",
+      "opts": [
+        "4 Modes (Mode 1 to Mode 4)",
+        "2 Modes",
+        "6 Modes",
+        "8 Modes"
+      ],
+      "ans": 0,
+      "exp": "GATS categorizes trade in services into 4 modes: Cross-border supply (Mode 1), Consumption abroad (Mode 2), Commercial presence (Mode 3), and Presence of natural persons (Mode 4)."
+    },
+    {
+      "q": "Match the GATS Modes of Supply with their correct definitions:\n(a) Mode 1 - (i) Consumption Abroad (e.g., medical tourism, international students)\n(b) Mode 2 - (ii) Cross-Border Supply (e.g., software/BPO services over the internet)\n(c) Mode 3 - (iii) Commercial Presence (e.g., establishing a foreign bank branch)\n(d) Mode 4 - (iv) Presence of Natural Persons (e.g., software consultants traveling abroad)",
+      "opts": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "ans": 0,
+      "exp": "Mode 1: Cross-border supply; Mode 2: Consumption abroad; Mode 3: Commercial presence (FDI); Mode 4: Movement of natural persons."
+    },
+    {
+      "q": "Under the WTO Agreement on Agriculture (AoA), which 'Box' contains agricultural subsidies that are considered trade-distorting and are subject to reduction commitments?",
+      "opts": [
+        "Amber Box",
+        "Green Box",
+        "Blue Box",
+        "White Box"
+      ],
+      "ans": 0,
+      "exp": "Amber Box covers all domestic agricultural support measures that distort international trade and production (e.g., price supports like MSP, input subsidies), subject to reduction commitments."
+    },
+    {
+      "q": "Under the WTO Agreement on Agriculture, subsidies in the 'Green Box' are:",
+      "opts": [
+        "Permitted without limit because they cause minimal or no trade-distorting effects (e.g., R&D, pest control, food security stocks, environmental programs)",
+        "Strictly prohibited under all circumstances",
+        "Subject to mandatory annual 20% tariff increases",
+        "Restricted only to African developing nations"
+      ],
+      "ans": 0,
+      "exp": "Green Box subsidies (direct income support, R&D, infrastructure, disaster relief) are non-trade-distorting and exempt from reduction commitments."
+    },
+    {
+      "q": "Under the WTO Agreement on Agriculture, 'Blue Box' subsidies refer to:",
+      "opts": [
+        "Amber box subsidies with conditions designed to reduce distortion by placing direct production-limiting requirements on farmers",
+        "Illegal subsidies subject to immediate international trade embargoes",
+        "Subsidies on ocean fisheries and maritime transport",
+        "Subsidies given exclusively for space research"
+      ],
+      "ans": 0,
+      "exp": "The Blue Box covers Amber Box supports tied to direct payments under production-limiting programs, exempt from reduction commitments."
+    },
+    {
+      "q": "The 'De Minimis' support level allowed for trade-distorting agricultural subsidies (Amber Box) under the WTO AoA is:",
+      "opts": [
+        "5% of total value of agricultural output for developed countries and 10% for developing countries",
+        "20% for developed countries and 5% for developing countries",
+        "1% for all countries universally",
+        "50% for least developed countries"
+      ],
+      "ans": 0,
+      "exp": "De Minimis thresholds allow Amber Box support up to 5% of agricultural production value for developed countries and up to 10% for developing countries."
+    },
+    {
+      "q": "The 'Peace Clause' negotiated at the WTO Bali Ministerial Conference (2013) protects developing countries like India from legal disputes regarding:",
+      "opts": [
+        "Public stockholding programs for food security purposes exceeding Amber Box subsidy limits",
+        "Exporting textile garments below factory cost",
+        "Imposing higher custom duties on digital downloads",
+        "Subsidizing commercial space satellite launches"
+      ],
+      "ans": 0,
+      "exp": "The Bali Peace Clause provides interim immunity to developing countries against challenges under the AoA for breaching agricultural subsidy limits during public food stockholding for domestic food security."
+    },
+    {
+      "q": "What is the highest decision-making body of the World Trade Organization (WTO)?",
+      "opts": [
+        "The Ministerial Conference (meeting at least once every two years)",
+        "The General Council",
+        "The Dispute Settlement Body",
+        "The Trade Policy Review Body"
+      ],
+      "ans": 0,
+      "exp": "The Ministerial Conference, composed of trade ministers from all member countries, is the supreme governing body of the WTO, meeting at least once every two years."
+    },
+    {
+      "q": "When the WTO Ministerial Conference is not in session, its day-to-day functions are carried out by the:",
+      "opts": [
+        "General Council (which also convenes as the Dispute Settlement Body and Trade Policy Review Body)",
+        "International Court of Justice",
+        "UNCTAD Trade Board",
+        "World Bank Board of Governors"
+      ],
+      "ans": 0,
+      "exp": "The General Council, based in Geneva, conducts WTO operations between Ministerial Conferences and convenes as both the DSB and the TPRB."
+    },
+    {
+      "q": "Decisions in the World Trade Organization (WTO) are generally made on the basis of:",
+      "opts": [
+        "Consensus among all member nations (one member, one vote)",
+        "Weighted voting based on financial capital quotas",
+        "Veto power reserved for the G-7 industrialized nations",
+        "Proportionate share of global population"
+      ],
+      "ans": 0,
+      "exp": "Unlike the IMF/World Bank, the WTO operates primarily on consensus, with each member country holding one vote under formal procedures."
+    },
+    {
+      "q": "Under the WTO Dispute Settlement Mechanism, if a panel report is appealed, it is heard by the:",
+      "opts": [
+        "Appellate Body (composed of 7 members)",
+        "International Court of Justice at The Hague",
+        "Secretary General of the United Nations",
+        "Permanent Court of Arbitration"
+      ],
+      "ans": 0,
+      "exp": "The WTO Appellate Body, established in 1995, consists of 7 rotating judges appointed for 4-year terms to review legal points in panel reports."
+    },
+    {
+      "q": "The United Nations Conference on Trade and Development (UNCTAD) was established in:",
+      "opts": [
+        "1964 with headquarters in Geneva",
+        "1945 with headquarters in New York",
+        "1995 with headquarters in Rome",
+        "1971 with headquarters in London"
+      ],
+      "ans": 0,
+      "exp": "UNCTAD was established in 1964 as a permanent intergovernmental body of the UN General Assembly, headquartered in Geneva, Switzerland."
+    },
+    {
+      "q": "Who was the renowned Argentine economist and structuralist who served as the first Secretary-General of UNCTAD?",
+      "opts": [
+        "Raúl Prebisch",
+        "Hans Singer",
+        "Celso Furtado",
+        "Fernando Henrique Cardoso"
+      ],
+      "ans": 0,
+      "exp": "Raúl Prebisch, co-author of the Prebisch-Singer thesis on the deteriorating terms of trade for primary commodity exporters, served as UNCTAD's first Secretary-General (1964-1969)."
+    },
+    {
+      "q": "The Prebisch-Singer Thesis argues that over the long term, developing countries face:",
+      "opts": [
+        "Deteriorating Terms of Trade because prices of primary commodity exports fall relative to prices of manufactured imports",
+        "Continuously increasing real exchange rates",
+        "Zero foreign debt obligations",
+        "Higher productivity growth than industrialized nations"
+      ],
+      "ans": 0,
+      "exp": "The Prebisch-Singer thesis posits that the net barter terms of trade secularly deteriorate for primary commodity-exporting developing nations relative to manufactured goods-exporting developed countries."
+    },
+    {
+      "q": "The Generalized System of Preferences (GSP), which allows developed countries to extend lower or zero tariff rates to goods from developing nations on a non-reciprocal basis, was instituted through:",
+      "opts": [
+        "UNCTAD (at UNCTAD II in New Delhi, 1968)",
+        "The World Bank Development Committee",
+        "The International Monetary Fund",
+        "The International Labour Organization"
+      ],
+      "ans": 0,
+      "exp": "The GSP framework was adopted in 1968 at UNCTAD II held in New Delhi, granting non-reciprocal tariff preferences to developing country exports."
+    },
+    {
+      "q": "Which annual flagship report is published by UNCTAD to track global trends in Foreign Direct Investment (FDI)?",
+      "opts": [
+        "World Investment Report (WIR)",
+        "World Development Report",
+        "World Economic Outlook",
+        "Global Financial Stability Report"
+      ],
+      "ans": 0,
+      "exp": "UNCTAD publishes the annual 'World Investment Report', analyzing global and regional trends in foreign direct investment (FDI)."
+    },
+    {
+      "q": "The 'World Development Report' (WDR) is the annual flagship publication of:",
+      "opts": [
+        "The World Bank",
+        "The International Monetary Fund",
+        "The World Trade Organization",
+        "The United Nations Development Programme"
+      ],
+      "ans": 0,
+      "exp": "The World Development Report (WDR) is published annually by the World Bank since 1978, focusing on key economic and social development topics."
+    },
+    {
+      "q": "The 'World Economic Outlook' (WEO) and the 'Global Financial Stability Report' (GFSR) are published semiannually by:",
+      "opts": [
+        "The International Monetary Fund (IMF)",
+        "The World Bank",
+        "The Bank for International Settlements",
+        "The World Economic Forum"
+      ],
+      "ans": 0,
+      "exp": "The IMF publishes both the World Economic Outlook (WEO) and the Global Financial Stability Report (GFSR) twice a year."
+    },
+    {
+      "q": "What is the primary function of the International Monetary Fund (IMF)?",
+      "opts": [
+        "To oversee international monetary stability, promote exchange rate stability, and provide short-to-medium-term balance of payments financing to member nations",
+        "To fund long-term education and health projects in low-income nations",
+        "To enforce patent registrations for pharmaceutical MNCs",
+        "To act as the global commercial lender of first resort"
+      ],
+      "ans": 0,
+      "exp": "The primary role of the IMF is macroeconomic surveillance, promoting exchange stability, fostering global trade, and providing balance of payments financial assistance."
+    },
+    {
+      "q": "The voting power and borrowing capacity of a member country in the IMF are determined primarily by its:",
+      "opts": [
+        "IMF Quota Subscription (based on relative economic size, openness, variability, and reserves)",
+        "Total land area",
+        "Total population census figures",
+        "Number of registered commercial banks"
+      ],
+      "ans": 0,
+      "exp": "An IMF member's quota determines its financial contribution, voting weight, SDR allocation, and maximum borrowing capacity."
+    },
+    {
+      "q": "Which IMF lending facility was created to provide financial assistance to member countries facing deep structural economic and balance of payments difficulties requiring medium-term macroeconomic reforms?",
+      "opts": [
+        "Extended Fund Facility (EFF)",
+        "Stand-By Arrangement (SBA)",
+        "Flexible Credit Line (FCL)",
+        "Precautionary Liquidity Line (PLL)"
+      ],
+      "ans": 0,
+      "exp": "The Extended Fund Facility (EFF), established in 1974, provides medium-to-long term assistance (3-4 years) to overcome structural balance of payments weaknesses."
+    },
+    {
+      "q": "The Poverty Reduction and Growth Facility (PRGF), now superseded by the Poverty Reduction and Growth Trust (PRGT) in the IMF, provides:",
+      "opts": [
+        "Concessional (zero-interest or low-interest) financial assistance to low-income developing nations",
+        "High-interest commercial loans to Fortune 500 companies",
+        "Equity investments in European stock markets",
+        "Funding for private speculative venture capital funds"
+      ],
+      "ans": 0,
+      "exp": "The PRGT provides concessional, low- or zero-interest financing to support low-income countries in achieving sustainable balance of payments and poverty reduction."
+    },
+    {
+      "q": "What is 'IMF Conditionality'?",
+      "opts": [
+        "Policy requirements and structural reform benchmarks that a borrowing country must implement in exchange for accessing IMF financial assistance",
+        "A rule requiring borrowing countries to change their national currency name",
+        "A requirement for borrowing countries to surrender all domestic gold mines to the IMF",
+        "Mandatory transfer of domestic central bank ownership to Washington"
+      ],
+      "ans": 0,
+      "exp": "IMF Conditionality refers to macroeconomic policy adjustments, fiscal targets, and structural reforms that borrowing nations agree to carry out to restore economic stability."
+    },
+    {
+      "q": "Chronologically arrange the following GATT/WTO trade negotiation rounds:\n(A) Kennedy Round\n(B) Geneva Round (Founding GATT)\n(C) Uruguay Round\n(D) Tokyo Round",
+      "opts": [
+        "B, A, D, C",
+        "B, D, A, C",
+        "A, B, D, C",
+        "B, A, C, D"
+      ],
+      "ans": 0,
+      "exp": "Order: 1. Geneva Round (1947) -> 2. Kennedy Round (1964-1967) -> 3. Tokyo Round (1973-1979) -> 4. Uruguay Round (1986-1994)."
+    },
+    {
+      "q": "Match the WTO Ministerial Conferences with the correct Host Cities and Years:\n(a) 1st Ministerial Conference - (i) Singapore (1996)\n(b) 4th Ministerial Conference - (ii) Doha, Qatar (2001)\n(c) 9th Ministerial Conference - (iii) Bali, Indonesia (2013)\n(d) 11th Ministerial Conference - (iv) Buenos Aires, Argentina (2017)",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "ans": 0,
+      "exp": "1st: Singapore (1996); 4th: Doha (2001 - launch of Doha Development Agenda); 9th: Bali (2013 - Bali Package/TFA); 11th: Buenos Aires (2017)."
+    },
+    {
+      "q": "The 'Singapore Issues' introduced at the 1996 WTO Singapore Ministerial Conference comprised which four subjects?\n(i) Investment\n(ii) Competition Policy\n(iii) Transparency in Government Procurement\n(iv) Trade Facilitation\n(v) Agricultural Subsidies",
+      "opts": [
+        "(i), (ii), (iii) and (iv) only",
+        "(i), (ii), (iv) and (v) only",
+        "(ii), (iii), (iv) and (v) only",
+        "(i), (iii) and (v) only"
+      ],
+      "ans": 0,
+      "exp": "The four Singapore Issues were: Investment, Competition Policy, Transparency in Government Procurement, and Trade Facilitation."
+    },
+    {
+      "q": "The Trade Facilitation Agreement (TFA), which entered into force in February 2017 following the Bali Package, aims to:",
+      "opts": [
+        "Speed up the movement, release, and clearance of cross-border goods through modern, transparent customs procedures",
+        "Ban all import tariffs globally by 2030",
+        "Abolish national patents for clean tech",
+        "Impose uniform worldwide value-added taxes"
+      ],
+      "ans": 0,
+      "exp": "The TFA contains provisions for expediting goods movement, release, and clearance, including goods in transit, by modernizing customs infrastructure."
+    },
+    {
+      "q": "Which WTO agreement establishes rules and disciplines for government purchases of goods and services above specified monetary thresholds?",
+      "opts": [
+        "Government Procurement Agreement (GPA) - Plurilateral Agreement",
+        "TRIMS Multilateral Agreement",
+        "GATS Universal Code",
+        "Agreement on Subsidies and Countervailing Measures (ASCM)"
+      ],
+      "ans": 0,
+      "exp": "The Agreement on Government Procurement (GPA) is a plurilateral agreement within the WTO framework that applies only to signatories that choose to join it."
+    },
+    {
+      "q": "A 'Plurilateral Agreement' in the WTO framework is an agreement that:",
+      "opts": [
+        "Binds only those WTO members that explicitly choose to sign and ratify it, rather than all WTO members automatically",
+        "Binds every single member of the WTO universally through a single undertaking",
+        "Applies only to sovereign states with nuclear technology",
+        "Is enforceable only during wartime"
+      ],
+      "ans": 0,
+      "exp": "Unlike multilateral WTO agreements under the 'single undertaking' rule, plurilateral agreements (e.g., GPA, Civil Aircraft) apply only to members that voluntarily sign them."
+    },
+    {
+      "q": "Under the WTO Agreement on Subsidies and Countervailing Measures (ASCM), subsidies are classified into:",
+      "opts": [
+        "Prohibited Subsidies (Red Box), Actionable Subsidies (Amber Box), and Non-actionable Subsidies (Green Box - expired)",
+        "Domestic Subsidies, Export Taxes, and Import Surcharges",
+        "Direct Taxes, Indirect Taxes, and Surcharges",
+        "Commercial Subsidies and Philanthropic Grants"
+      ],
+      "ans": 0,
+      "exp": "ASCM establishes two main categories: Prohibited subsidies (contingent on export performance or local content use) and Actionable subsidies (actionable if causing adverse trade effects)."
+    },
+    {
+      "q": "Under the WTO ASCM, 'Prohibited Subsidies' include subsidies that are contingent upon:",
+      "opts": [
+        "Export performance or the use of domestic over imported goods (local content)",
+        "General public infrastructure development",
+        "Basic university scientific research",
+        "Disaster relief compensation to natural calamity victims"
+      ],
+      "ans": 0,
+      "exp": "Export-contingent subsidies and local content-contingent subsidies are red-light / prohibited subsidies under ASCM."
+    },
+    {
+      "q": "Which WTO body conducts periodic surveillance of the national trade policies and practices of member countries to enhance transparency?",
+      "opts": [
+        "Trade Policy Review Body (TPRB)",
+        "Dispute Settlement Appellate Tribunal",
+        "International Chamber of Commerce",
+        "Committee on Regional Trading Arrangements"
+      ],
+      "ans": 0,
+      "exp": "The Trade Policy Review Mechanism (TPRM), conducted by the TPRB, regularly evaluates member trade regimes to ensure transparency and compliance."
+    },
+    {
+      "q": "In the WTO Dispute Settlement Body, what is the 'Reverse Consensus' (Negative Consensus) rule?",
+      "opts": [
+        "A panel report or appellate decision is automatically adopted UNLESS every single member country present votes against its adoption",
+        "A dispute can proceed only if all members vote in favor unanimously",
+        "The losing country can unilaterally veto the final panel report",
+        "Only the WTO Director-General has the vote"
+      ],
+      "ans": 0,
+      "exp": "Under the reverse consensus rule, panel formation, report adoption, and retaliation authorization occur automatically unless there is a unanimous consensus against them."
+    },
+    {
+      "q": "Geographical Indications (GIs) protected under the WTO TRIPS agreement identify a product as originating from a specific territory where its:",
+      "opts": [
+        "Quality, reputation, or other characteristic is essentially attributable to its geographical origin (e.g., Darjeeling Tea, Champagne, Basmati)",
+        "Manufacturing company is owned by the state",
+        "Patent duration has exceeded 100 years",
+        "Export value exceeds $1 billion annually"
+      ],
+      "ans": 0,
+      "exp": "A Geographical Indication (GI) identifies a good as originating in a specific locality where a given quality, reputation, or characteristic is essentially attributable to its geographic origin."
+    },
+    {
+      "q": "Which international convention signed in 1883 laid the foundation for the international protection of Industrial Property (Patents, Trademarks, Industrial Designs)?",
+      "opts": [
+        "Paris Convention for the Protection of Industrial Property (1883)",
+        "Berne Convention for the Protection of Literary and Artistic Works (1886)",
+        "Rome Convention (1961)",
+        "Madrid Protocol (1989)"
+      ],
+      "ans": 0,
+      "exp": "The Paris Convention (1883) was the first major international treaty protecting industrial intellectual property rights (patents, designs, trademarks)."
+    },
+    {
+      "q": "The Berne Convention of 1886 deals with the international protection of:",
+      "opts": [
+        "Literary and Artistic Works (Copyrights)",
+        "Industrial Trade Patents",
+        "Geographical Indications of Wine",
+        "Plant Breeder Varieties"
+      ],
+      "ans": 0,
+      "exp": "The Berne Convention (1886) governs the international protection of copyright for literary, dramatic, musical, and artistic works."
+    },
+    {
+      "q": "The 'Patent Cooperation Treaty' (PCT), administered by WIPO (World Intellectual Property Organization), allows inventors to:",
+      "opts": [
+        "Seek patent protection for an invention simultaneously in a large number of member countries by filing a single 'international' patent application",
+        "Get a universal patent that automatically grants protection in all UN countries with zero national examination",
+        "Circumvent payment of any national renewal fees permanently",
+        "Transfer patent ownership automatically to the United Nations"
+      ],
+      "ans": 0,
+      "exp": "The PCT (1970) streamlines the initial filing process, enabling an applicant to file one international application to reserve patent priority across member nations."
+    },
+    {
+      "q": "The Madrid System (Madrid Agreement and Madrid Protocol) provides a cost-effective mechanism for the international registration of:",
+      "opts": [
+        "Trademarks and Brand Names",
+        "Industrial Inventions (Patents)",
+        "Literary Novels (Copyrights)",
+        "Maritime Cargo Ships"
+      ],
+      "ans": 0,
+      "exp": "The Madrid System, administered by WIPO, provides a centralized system for registering and managing trademarks internationally across multiple jurisdictions."
+    },
+    {
+      "q": "The Special Drawing Right (SDR) is an interest-bearing international reserve asset created by the IMF. How is the value of 1 SDR determined?",
+      "opts": [
+        "By a weighted basket of five major currencies (US Dollar, Euro, Chinese Renminbi, Japanese Yen, British Pound)",
+        "By the market spot price of 1 ounce of pure gold in London",
+        "By the average price of crude oil per barrel",
+        "By the consumer price index of the United States"
+      ],
+      "ans": 0,
+      "exp": "The value of the SDR is calculated daily based on market exchange rates of a fixed basket of five major currencies: USD, EUR, CNY, JPY, and GBP."
+    },
+    {
+      "q": "In which year did the IMF officially include the Chinese Renminbi (Yuan) into the SDR currency valuation basket?",
+      "opts": [
+        "2016",
+        "2001",
+        "2010",
+        "1999"
+      ],
+      "ans": 0,
+      "exp": "The IMF Executive Board decided in November 2015 to include the Chinese Renminbi (CNY) into the SDR basket, effective October 1, 2016."
+    },
+    {
+      "q": "The IMF loan facility designed to provide rapid, low-access, emergency financial assistance to member countries without traditional ex-post conditionality during natural disasters or health crises is the:",
+      "opts": [
+        "Rapid Financing Instrument (RFI) / Rapid Credit Facility (RCF)",
+        "Extended Fund Facility",
+        "Structural Adjustment Facility",
+        "General Borrowing Arrangement"
+      ],
+      "ans": 0,
+      "exp": "The RFI provides rapid, low-access emergency financial support to countries facing urgent balance of payments needs without full program conditionality."
+    },
+    {
+      "q": "The Basel Committee on Banking Supervision (BCBS), which formulates international regulatory capital standards for commercial banks (Basel I, II, III), is housed at the:",
+      "opts": [
+        "Bank for International Settlements (BIS) in Basel, Switzerland",
+        "International Monetary Fund in Washington",
+        "World Bank in New York",
+        "European Central Bank in Frankfurt"
+      ],
+      "ans": 0,
+      "exp": "The BCBS is hosted and supported by the Bank for International Settlements (BIS), headquartered in Basel, Switzerland."
+    },
+    {
+      "q": "The Bank for International Settlements (BIS), founded in 1930, is often described as the:",
+      "opts": [
+        "Central Bank of Central Banks",
+        "Commercial Bank of MNCs",
+        "Development Bank of the United Nations",
+        "Arbitrator of Sovereign Debt"
+      ],
+      "ans": 0,
+      "exp": "The BIS is the world's oldest international financial institution and acts as a specialized bank and forum for national central banks."
+    },
+    {
+      "q": "The Doha Development Agenda (DDA) launched at the 4th WTO Ministerial Conference in 2001 focused primarily on:",
+      "opts": [
+        "Improving trade prospects and market access for developing nations, especially in agriculture and non-agricultural market access (NAMA)",
+        "Creating a global digital currency",
+        "Abolishing the United Nations Security Council",
+        "Banning export of all pharmaceutical medicines"
+      ],
+      "ans": 0,
+      "exp": "The Doha Round aimed to place developing nations' needs and integration (market access in agriculture, development flexibilities, special and differential treatment) at the center of WTO negotiations."
+    },
+    {
+      "q": "What is 'Special and Differential Treatment' (S&DT) under WTO provisions?",
+      "opts": [
+        "Special rights, longer transition periods, and lower commitment thresholds granted to developing and least-developed country members",
+        "Exclusive trade privileges granted only to the United States and the European Union",
+        "Higher customs duties permitted only on military exports",
+        "An exemption allowing developed countries to ignore all environmental norms"
+      ],
+      "ans": 0,
+      "exp": "S&DT provisions give developing and least-developed countries special rights, including longer implementation periods, technical assistance, and lower reduction commitments."
+    },
+    {
+      "q": "Compulsory Licensing under the WTO TRIPS Agreement allows a sovereign government to:",
+      "opts": [
+        "Authorize the domestic production or importation of a patented pharmaceutical drug without the consent of the patent owner during public health emergencies",
+        "Steal patents from foreign firms for commercial resale",
+        "Cancel all patent rights across every domestic industry permanently",
+        "Force foreign doctors to practice in government hospitals"
+      ],
+      "ans": 0,
+      "exp": "Under TRIPS Article 31 and the 2001 Doha Declaration on TRIPS and Public Health, governments can issue compulsory licenses to produce affordable generic medicines during public health crises."
+    },
+    {
+      "q": "The 'Nairobi Package' agreed upon at the 10th WTO Ministerial Conference (2015) included a historic milestone agreement regarding:",
+      "opts": [
+        "The complete elimination of agricultural export subsidies by member nations",
+        "The introduction of a global carbon tax",
+        "The complete privatization of all national postal services",
+        "The banning of cross-border container shipping"
+      ],
+      "ans": 0,
+      "exp": "The 2015 Nairobi Ministerial Conference adopted a landmark decision committing developed and developing members to eliminate agricultural export subsidies."
+    },
+    {
+      "q": "Match the following World Bank Group Institutions with their year of establishment:\n(a) IBRD - (i) 1944\n(b) IFC - (ii) 1956\n(c) IDA - (iii) 1960\n(d) MIGA - (iv) 1988",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "ans": 0,
+      "exp": "IBRD was founded in 1944; IFC in 1956; IDA in 1960; MIGA in 1988 (and ICSID in 1966)."
+    },
+    {
+      "q": "Which of the following is NOT an institution of the World Bank Group?",
+      "opts": [
+        "International Monetary Fund (IMF)",
+        "International Finance Corporation (IFC)",
+        "Multilateral Investment Guarantee Agency (MIGA)",
+        "International Development Association (IDA)"
+      ],
+      "ans": 0,
+      "exp": "The IMF is a separate Bretton Woods institution, not an agency of the World Bank Group. The World Bank Group consists of IBRD, IDA, IFC, MIGA, and ICSID."
+    },
+    {
+      "q": "In the WTO TRIPS framework, what is a 'Patent'?",
+      "opts": [
+        "An exclusive right granted for an invention (a product or process providing a new way of doing something or offering a new technical solution)",
+        "A distinctive sign identifying certain goods or services produced by an individual or enterprise",
+        "A legal term describing rights granted to creators for their literary and artistic works",
+        "A trade secret regarding internal employee compensation"
+      ],
+      "ans": 0,
+      "exp": "A patent is an exclusive legal right granted for a novel, inventive, and industrially applicable product or process for a specified period (20 years)."
+    },
+    {
+      "q": "A 'Trademark' under intellectual property law protects:",
+      "opts": [
+        "Distinctive signs, symbols, logos, words, or slogans used to distinguish goods or services of one enterprise from those of others",
+        "Novel industrial engineering inventions",
+        "Literary books and computer programming source codes",
+        "Agricultural crop plant gene sequences"
+      ],
+      "ans": 0,
+      "exp": "Trademarks protect distinctive brand identifiers (names, logos, symbols) that differentiate goods/services in the marketplace."
+    },
+    {
+      "q": "The Trade and Development Report (TDR) is an annual publication produced by:",
+      "opts": [
+        "UNCTAD",
+        "World Bank",
+        "WTO",
+        "OECD"
+      ],
+      "ans": 0,
+      "exp": "UNCTAD publishes the Trade and Development Report (TDR) annually, analyzing global macroeconomic trends and developmental policies."
+    }
+  ]
+}
