@@ -1,0 +1,898 @@
+{
+  "subject": "P2_BE",
+  "topic": "Foreign Investment, FTP & Regional Economic Integration",
+  "topicIcon": "🚢",
+  "questions": [
+    {
+      "q": "Foreign Direct Investment (FDI) differs from Foreign Portfolio Investment (FPI) primarily because FDI involves:",
+      "opts": [
+        "A long-term lasting interest and active management control (10% or more voting equity) in an enterprise resident in another economy",
+        "Short-term passive investment strictly in listed government treasury bills",
+        "Only non-repayable philanthropic grants given to foreign NGOs",
+        "Speculative day-trading in foreign currency futures contracts"
+      ],
+      "ans": 0,
+      "exp": "FDI involves establishing a lasting interest, long-term capital commitment, and significant influence or active management control (conventionally 10% or more of voting power) in an enterprise abroad."
+    },
+    {
+      "q": "Which type of foreign investment is commonly referred to as 'Hot Money' due to its high volatility and quick exit capability during market uncertainty?",
+      "opts": [
+        "Foreign Direct Investment (FDI)",
+        "Foreign Portfolio Investment (FPI)",
+        "Greenfield Equity Investment",
+        "Joint Venture Investment"
+      ],
+      "ans": 1,
+      "exp": "FPI is characterized by liquid holdings in publicly traded equities and bonds that can be rapidly liquidated and repatriated, earning it the label 'hot money'."
+    },
+    {
+      "q": "John Dunning's Eclectic Paradigm (OLI Framework) explains that international production through FDI takes place when an enterprise possesses which three advantages?",
+      "opts": [
+        "Ownership advantages, Location advantages, and Internalization advantages",
+        "Opportunity advantages, Liquidity advantages, and Innovation advantages",
+        "Organization advantages, Logistics advantages, and Infrastructure advantages",
+        "Output advantages, Labour advantages, and Investment advantages"
+      ],
+      "ans": 0,
+      "exp": "Dunning's OLI Framework posits that firms undertake FDI when they have firm-specific Ownership advantages (O), benefit from host country Location advantages (L), and gain more by Internalizing (I) operations than by licensing."
+    },
+    {
+      "q": "When a company establishes an entirely new production plant and operational infrastructure from scratch in a foreign country, the FDI is classified as:",
+      "opts": [
+        "Greenfield Investment",
+        "Brownfield Investment",
+        "Mergers and Acquisitions (M&A)",
+        "Portfolio Diversification"
+      ],
+      "ans": 0,
+      "exp": "A Greenfield investment involves constructing brand-new operational facilities (factories, offices, distribution hubs) from the ground up in a foreign target market."
+    },
+    {
+      "q": "When a multinational corporation enters a foreign country by acquiring or leasing existing operational facilities and business assets, it is undertaking a:",
+      "opts": [
+        "Greenfield Investment",
+        "Brownfield Investment (Acquisition)",
+        "Turnkey Construction Contract",
+        "Pure Portfolio Inflow"
+      ],
+      "ans": 1,
+      "exp": "Brownfield FDI involves acquiring, buying out, or repurposing existing production facilities, allowing faster market entry and access to an established customer base."
+    },
+    {
+      "q": "Horizontal Foreign Direct Investment (Horizontal FDI) occurs when a firm:",
+      "opts": [
+        "Produces the same or identical goods and services in foreign facilities as it produces in its domestic home market",
+        "Invests in foreign suppliers of raw material inputs (Backward integration)",
+        "Invests in foreign distribution and retailing networks (Forward integration)",
+        "Invests in completely unrelated foreign industries"
+      ],
+      "ans": 0,
+      "exp": "Horizontal FDI occurs when a multinational company duplicates its home-country manufacturing or service operations in a foreign country at the same stage of the value chain."
+    },
+    {
+      "q": "Vertical Foreign Direct Investment (Vertical FDI) is classified into:",
+      "opts": [
+        "Backward Vertical FDI (investing in upstream input/raw material supply) and Forward Vertical FDI (investing in downstream distribution/sales networks)",
+        "Greenfield FDI and Brownfield FDI",
+        "Inward FDI and Outward FDI",
+        "Autonomous FDI and Accommodating FDI"
+      ],
+      "ans": 0,
+      "exp": "Vertical FDI fragments the production process geographically: Backward Vertical FDI involves acquiring upstream raw material suppliers, while Forward Vertical FDI establishes downstream distribution/retail networks."
+    },
+    {
+      "q": "Conglomerate Foreign Direct Investment refers to:",
+      "opts": [
+        "An FDI where a company invests abroad in an industry completely unrelated to its core domestic business operations",
+        "An FDI where two competing firms merge into a single regional monopoly",
+        "An investment in state-owned railway transport",
+        "An investment made jointly by the World Bank and IMF"
+      ],
+      "ans": 0,
+      "exp": "Conglomerate FDI involves overseas direct investments in product lines or industries entirely unrelated to the investing firm's existing business activities."
+    },
+    {
+      "q": "Under the Consolidated FDI Policy of the Government of India, the two entry routes for FDI inflows are:",
+      "opts": [
+        "Automatic Route (no prior government or RBI approval required) and Government / Approval Route (prior clearance required via DPIIT/relevant Ministry)",
+        "IMF Route and World Bank Route",
+        "Public Route and Secret Route",
+        "Direct Cash Route and Barter Route"
+      ],
+      "ans": 0,
+      "exp": "Under India's FDI policy, foreign investments enter either through the Automatic Route (notifying RBI ex-post) or the Government Route (requiring prior administrative clearance)."
+    },
+    {
+      "q": "Following the abolition of the Foreign Investment Promotion Board (FIPB) in May 2017, proposals under the Government Route in India are processed through the:",
+      "opts": [
+        "Foreign Investment Facilitation Portal (FIFP) administered by the Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "Central Vigilance Commission",
+        "Export Promotion Council for Handicrafts",
+        "Securities and Exchange Board of India exclusively"
+      ],
+      "ans": 0,
+      "exp": "After dismantling FIPB in 2017, the Government instituted the Foreign Investment Facilitation Portal (FIFP), an online single-window managed by DPIIT under the Ministry of Commerce & Industry."
+    },
+    {
+      "q": "In which of the following sectors is Foreign Direct Investment (FDI) strictly PROHIBITED in India under both the Automatic and Government routes?\n(i) Lottery Business (including Government/private lotteries)\n(ii) Gambling and Betting (including casinos)\n(iii) Chit Funds and Nidhi Companies\n(iv) Real Estate Business or Construction of Farm Houses\n(v) Manufacturing of Cigars, Cheroots, Cigarillos and Cigarettes of Tobacco\n(vi) Atomic Energy and Railway Operations (other than permitted infrastructure)",
+      "opts": [
+        "(i), (ii), (iii), (iv), (v) and (vi)",
+        "(i), (ii) and (iv) only",
+        "(iii), (v) and (vi) only",
+        "(i), (ii) and (v) only"
+      ],
+      "ans": 0,
+      "exp": "All listed sectors (Lottery, Gambling/Casinos, Chit funds, Nidhi companies, Trading in TDRs, Real Estate Business/Farmhouses, Tobacco manufacturing, and Atomic Energy/Railway operations) are strictly prohibited for FDI in India."
+    },
+    {
+      "q": "What is an American Depository Receipt (ADR)?",
+      "opts": [
+        "A dollar-denominated negotiable security issued by a US depository bank representing specified shares of a non-US company, trading on US stock exchanges",
+        "A certificate of origin issued by the US Department of Commerce",
+        "An insurance policy against marine freight accidents in American waters",
+        "A loan document issued by the US Federal Reserve to European banks"
+      ],
+      "ans": 0,
+      "exp": "An ADR is a negotiable certificate issued by an American depository bank representing a specified number of shares of a foreign company, facilitating US investor trading in foreign equities."
+    },
+    {
+      "q": "Global Depository Receipts (GDRs) are negotiable equity certificates that are typically denominated in:",
+      "opts": [
+        "US Dollars or Euros and traded on international financial exchanges outside the United States (e.g., London Stock Exchange, Luxembourg)",
+        "Indian Rupees and traded only on the Bombay Stock Exchange",
+        "Japanese Yen and traded exclusively in Tokyo",
+        "IMF Special Drawing Rights"
+      ],
+      "ans": 0,
+      "exp": "GDRs represent underlying equity shares of a foreign company and are denominated in USD or Euros, listed and traded on international exchanges such as London and Luxembourg."
+    },
+    {
+      "q": "An Indian Depository Receipt (IDR) is an instrument denominated in:",
+      "opts": [
+        "Indian Rupees (INR) issued by a domestic Indian depository against underlying equity shares of a foreign issuing company",
+        "US Dollars issued by American Express",
+        "Euros issued by the European Investment Bank",
+        "British Pounds traded on the London Metal Exchange"
+      ],
+      "ans": 0,
+      "exp": "An IDR is a Rupee-denominated depository receipt created by an Indian depository against the underlying shares of a foreign issuing company, enabling foreign companies to raise capital from Indian investors (e.g., Standard Chartered IDR)."
+    },
+    {
+      "q": "In an 'Unsponsored ADR' program:",
+      "opts": [
+        "The ADR is created by a US depository bank in response to investor demand without the formal involvement or agreement of the foreign issuing company",
+        "The issuing company pays all listing fees and files full SEC disclosures",
+        "The US Federal Government guarantees all dividend payouts",
+        "The shares are completely backed by physical gold bars"
+      ],
+      "ans": 0,
+      "exp": "An Unsponsored ADR is initiated and set up directly by a depository bank without formal corporate sponsorship or legal participation from the foreign company whose shares are held."
+    },
+    {
+      "q": "Arrange the stages of Regional Economic Integration in increasing order of economic integration (from lowest to highest level of integration):\n(A) Common Market\n(B) Free Trade Area (FTA)\n(C) Preferential Trade Agreement (PTA)\n(D) Economic Union\n(E) Customs Union",
+      "opts": [
+        "C, B, E, A, D",
+        "C, E, B, A, D",
+        "B, C, E, A, D",
+        "C, B, A, E, D"
+      ],
+      "ans": 0,
+      "exp": "The progressive levels of economic integration are: 1. PTA -> 2. Free Trade Area (FTA) -> 3. Customs Union (CU) -> 4. Common Market (CM) -> 5. Economic Union (EU) -> 6. Political Union."
+    },
+    {
+      "q": "A Free Trade Area (FTA) is characterized by:",
+      "opts": [
+        "Elimination of internal tariffs and trade barriers among member countries, while each member maintains its own independent external tariffs against non-members",
+        "A common external tariff applied uniformly against all non-member countries",
+        "Free cross-border movement of labour and capital across all member states",
+        "A single common currency and unified central bank"
+      ],
+      "ans": 0,
+      "exp": "In an FTA (e.g., NAFTA/USMCA, SAFTA), internal tariffs among members are removed, but each nation retains sovereign authority to set its own independent tariff schedules against non-members."
+    },
+    {
+      "q": "What distinguishes a Customs Union from a Free Trade Area?",
+      "opts": [
+        "A Customs Union adopts a Common External Tariff (CET) against imports from non-member nations, whereas an FTA allows each member to set its own external tariffs",
+        "A Customs Union introduces a single supranational parliament",
+        "A Customs Union permits unrestricted migration of workers",
+        "A Customs Union bans all domestic indirect taxation"
+      ],
+      "ans": 0,
+      "exp": "A Customs Union goes beyond an FTA by harmonizing external trade policies and establishing a Common External Tariff (CET) on goods entering from third-party non-member states."
+    },
+    {
+      "q": "A 'Common Market' level of economic integration involves:",
+      "opts": [
+        "Elimination of internal trade tariffs, adoption of a Common External Tariff, AND free mobility of factors of production (labour and capital) among member states",
+        "Elimination of internal tariffs only, with zero mobility of workers",
+        "Complete unification of national tax systems and military forces",
+        "A system where member nations agree to use gold as sole legal tender"
+      ],
+      "ans": 0,
+      "exp": "A Common Market combines the features of a Customs Union with the free movement of productive factors (labour, services, and capital) among member countries."
+    },
+    {
+      "q": "An 'Economic Union' includes all the features of a Common Market PLUS:",
+      "opts": [
+        "Harmonization and integration of macroeconomic, fiscal, and monetary policies, often including a common currency and unified central bank",
+        "Mandatory dissolution of all private commercial banks",
+        "Abolition of all national constitutions",
+        "Restricting foreign travel to neighboring nations"
+      ],
+      "ans": 0,
+      "exp": "An Economic Union (e.g., European Union) involves common market factor mobility along with deep harmonisation of monetary, fiscal, and regulatory policies, typically featuring a single currency (Euro) and unified monetary authority (ECB)."
+    },
+    {
+      "q": "The concepts of 'Trade Creation' and 'Trade Diversion' in the theory of Customs Unions were introduced by:",
+      "opts": [
+        "Jacob Viner (1950)",
+        "Paul Krugman",
+        "David Ricardo",
+        "Bela Balassa"
+      ],
+      "ans": 0,
+      "exp": "Jacob Viner formulated the theory of customs unions in his 1950 seminal work 'The Customs Union Issue', introducing the concepts of Trade Creation (welfare-enhancing) and Trade Diversion (welfare-reducing)."
+    },
+    {
+      "q": "According to Jacob Viner, 'Trade Creation' occurs when:",
+      "opts": [
+        "Higher-cost domestic production is replaced by lower-cost imports from a member country within the customs union, improving economic efficiency and consumer welfare",
+        "Low-cost imports from an efficient non-member country are replaced by higher-cost imports from a member partner due to preferential tariffs",
+        "Domestic government bans all manufactured imports",
+        "A country stops exporting agricultural products"
+      ],
+      "ans": 0,
+      "exp": "Trade creation shifts production from an inefficient, high-cost domestic producer to a more efficient, lower-cost partner within the union, increasing national and global welfare."
+    },
+    {
+      "q": "According to Jacob Viner, 'Trade Diversion' occurs when:",
+      "opts": [
+        "Low-cost imports from an efficient non-member country are replaced by higher-cost imports from a member nation due to preferential tariff discrimination, reducing global economic efficiency",
+        "Inefficient domestic production is replaced by cheaper partner imports",
+        "A country increases its exports of high-tech machinery",
+        "A customs union abolishes all domestic income taxes"
+      ],
+      "ans": 0,
+      "exp": "Trade diversion occurs when tariff preferences cause trade to shift from a low-cost, efficient global producer outside the union to a less efficient, higher-cost producer inside the union."
+    },
+    {
+      "q": "The Treaty of Rome, signed in 1957 by six founding nations (France, West Germany, Italy, Belgium, Netherlands, Luxembourg), established the:",
+      "opts": [
+        "European Economic Community (EEC)",
+        "North Atlantic Treaty Organization (NATO)",
+        "World Trade Organization (WTO)",
+        "Council of Mutual Economic Assistance (COMECON)"
+      ],
+      "ans": 0,
+      "exp": "The 1957 Treaty of Rome created the European Economic Community (EEC) and the European Atomic Energy Community (Euratom)."
+    },
+    {
+      "q": "The Maastricht Treaty, signed in 1992 and entering into force on November 1, 1993, officially established the:",
+      "opts": [
+        "European Union (EU) and laid the foundation for the single European currency (Euro)",
+        "North American Free Trade Agreement (NAFTA)",
+        "Association of Southeast Asian Nations (ASEAN)",
+        "United Nations Development Programme"
+      ],
+      "ans": 0,
+      "exp": "The Maastricht Treaty (Treaty on European Union) created the European Union, established the three-pillar structure, and set the roadmap for the Economic and Monetary Union (EMU) and the Euro."
+    },
+    {
+      "q": "The official common currency of the Eurozone, the Euro (€), was introduced in non-physical (electronic/accounting) form on January 1, 1999, and in physical banknotes and coins on:",
+      "opts": [
+        "January 1, 2002",
+        "January 1, 1995",
+        "July 1, 2005",
+        "January 1, 2010"
+      ],
+      "ans": 0,
+      "exp": "The Euro was launched as an electronic accounting currency on January 1, 1999, and physical Euro cash (banknotes and coins) entered public circulation on January 1, 2002."
+    },
+    {
+      "q": "The European Free Trade Association (EFTA), founded in 1960 by the Stockholm Convention, currently comprises which four countries?",
+      "opts": [
+        "Iceland, Liechtenstein, Norway, and Switzerland",
+        "United Kingdom, France, Germany, and Italy",
+        "Sweden, Denmark, Finland, and Norway",
+        "Austria, Switzerland, Belgium, and Netherlands"
+      ],
+      "ans": 0,
+      "exp": "EFTA currently consists of four non-EU member European countries: Iceland, Liechtenstein, Norway, and Switzerland."
+    },
+    {
+      "q": "The North American Free Trade Agreement (NAFTA), which took effect on January 1, 1994, established a free trade area comprising which three nations?",
+      "opts": [
+        "United States, Canada, and Mexico",
+        "United States, United Kingdom, and Canada",
+        "United States, Mexico, and Brazil",
+        "Canada, Mexico, and Panama"
+      ],
+      "ans": 0,
+      "exp": "NAFTA was signed by the United States, Canada, and Mexico to eliminate trade and investment barriers among the three North American nations."
+    },
+    {
+      "q": "On July 1, 2020, NAFTA was formally modernized, updated, and replaced by the:",
+      "opts": [
+        "USMCA (United States-Mexico-Canada Agreement)",
+        "CPTPP",
+        "MERCOSUR Accord",
+        "Transatlantic Trade and Investment Partnership (TTIP)"
+      ],
+      "ans": 0,
+      "exp": "The USMCA (United States-Mexico-Canada Agreement) entered into force on July 1, 2020, replacing NAFTA with modern chapters on digital trade, labor, IP, and automotive rules of origin."
+    },
+    {
+      "q": "The Association of Southeast Asian Nations (ASEAN) was established on August 8, 1967, by the signing of the:",
+      "opts": [
+        "Bangkok Declaration (ASEAN Declaration)",
+        "Manila Agreement",
+        "Jakarta Concord",
+        "Singapore Resolution"
+      ],
+      "ans": 0,
+      "exp": "ASEAN was founded in 1967 in Bangkok, Thailand, by its five founding members: Indonesia, Malaysia, Philippines, Singapore, and Thailand."
+    },
+    {
+      "q": "Which of the following is NOT a member state of the 10-nation ASEAN grouping?",
+      "opts": [
+        "India",
+        "Vietnam",
+        "Cambodia",
+        "Brunei Darussalam"
+      ],
+      "ans": 0,
+      "exp": "The 10 ASEAN member states are Indonesia, Malaysia, Philippines, Singapore, Thailand, Brunei, Vietnam, Laos, Myanmar, and Cambodia. India is a strategic dialogue partner, not a member."
+    },
+    {
+      "q": "The South Asian Association for Regional Cooperation (SAARC) was established in December 1985 in Dhaka with its permanent Secretariat located at:",
+      "opts": [
+        "Kathmandu, Nepal",
+        "New Delhi, India",
+        "Islamabad, Pakistan",
+        "Colombo, Sri Lanka"
+      ],
+      "ans": 0,
+      "exp": "The SAARC Secretariat was set up in Kathmandu, Nepal, on January 16, 1987."
+    },
+    {
+      "q": "Which country was admitted as the 8th member state of SAARC at the 14th SAARC Summit held in New Delhi in 2007?",
+      "opts": [
+        "Afghanistan",
+        "Myanmar",
+        "Mauritius",
+        "Iran"
+      ],
+      "ans": 0,
+      "exp": "Afghanistan joined SAARC as its 8th member in April 2007 during the 14th Summit in New Delhi. The 8 members are: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka."
+    },
+    {
+      "q": "The South Asian Free Trade Area (SAFTA) agreement was signed in 2004 during the 12th SAARC Summit in Islamabad and came into force on:",
+      "opts": [
+        "January 1, 2006",
+        "January 1, 2000",
+        "July 1, 2010",
+        "August 15, 2004"
+      ],
+      "ans": 0,
+      "exp": "The SAFTA agreement was signed in January 2004 and entered into force on January 1, 2006, aiming to reduce customs duties on all traded goods among SAARC members."
+    },
+    {
+      "q": "MERCOSUR (Southern Common Market) was created in March 1991 through the signing of the:",
+      "opts": [
+        "Treaty of Asunción (signed by Argentina, Brazil, Paraguay, and Uruguay)",
+        "Treaty of Bogota",
+        "Lima Accord",
+        "Santiago Declaration"
+      ],
+      "ans": 0,
+      "exp": "MERCOSUR was established on March 26, 1991, by the Treaty of Asunción signed by Argentina, Brazil, Paraguay, and Uruguay."
+    },
+    {
+      "q": "The BRICS economic grouping originally comprised Brazil, Russia, India, and China (BRIC), and became BRICS with the formal induction of South Africa in:",
+      "opts": [
+        "2010",
+        "2006",
+        "2014",
+        "2018"
+      ],
+      "ans": 0,
+      "exp": "South Africa was formally invited to join BRIC in December 2010, attending the 3rd BRICS Summit in Sanya, China, in April 2011."
+    },
+    {
+      "q": "The New Development Bank (NDB), established by the BRICS member nations at the 6th BRICS Summit in Fortaleza (2014), is headquartered in:",
+      "opts": [
+        "Shanghai, China",
+        "New Delhi, India",
+        "Moscow, Russia",
+        "Johannesburg, South Africa"
+      ],
+      "ans": 0,
+      "exp": "The NDB is headquartered in Shanghai, China, with its first President being K.V. Kamath of India."
+    },
+    {
+      "q": "The Regional Comprehensive Economic Partnership (RCEP), signed in November 2020 as the world's largest free trade agreement, includes 10 ASEAN members and five Asia-Pacific FTA partners EXCEPT:",
+      "opts": [
+        "India (which opted out in November 2019 to safeguard domestic industries)",
+        "China",
+        "Japan",
+        "Australia"
+      ],
+      "ans": 0,
+      "exp": "RCEP comprises 15 nations (10 ASEAN + China, Japan, South Korea, Australia, New Zealand). India withdrew in 2019 over concerns regarding import surges, tariff differentials, and trade deficits."
+    },
+    {
+      "q": "Under India's Foreign Trade Policy, what is the core objective of the Export Promotion Capital Goods (EPCG) Scheme?",
+      "opts": [
+        "To facilitate the import of capital goods for producing quality goods and services and enhance India's manufacturing competitiveness at zero customs duty, subject to an export obligation",
+        "To provide direct cash subsidies into exporters' bank accounts without audits",
+        "To prohibit the import of all second-hand machinery",
+        "To exempt exporters from paying domestic personal income taxes"
+      ],
+      "ans": 0,
+      "exp": "The EPCG Scheme allows import of capital goods (pre-production, production, and post-production) at zero customs duty, subject to an export obligation equivalent to 6 times of duty saved over 6 years."
+    },
+    {
+      "q": "What is the standard Export Obligation under the zero-duty EPCG Scheme in India's Foreign Trade Policy?",
+      "opts": [
+        "Export obligation equivalent to 6 times of duty saved on capital goods, to be fulfilled within 6 years from the date of license issuance",
+        "Export obligation equivalent to 2 times of duty saved within 10 years",
+        "Export obligation equivalent to 20 times of duty saved within 1 year",
+        "Zero export obligation"
+      ],
+      "ans": 0,
+      "exp": "Under the zero-duty EPCG scheme, the authorization holder must fulfill an export obligation equal to 6 times the actual duties saved within a block of 6 years."
+    },
+    {
+      "q": "The Advance Authorization Scheme under India's Foreign Trade Policy allows:",
+      "opts": [
+        "Duty-free import of raw materials, components, and inputs physically incorporated into the final export product (with minimum 15% value addition)",
+        "Import of luxury passenger cars for company directors at zero tax",
+        "Export of food items without phytosanitary inspection",
+        "Duty-free import of consumer electronics for domestic retail sale"
+      ],
+      "ans": 0,
+      "exp": "The Advance Authorization Scheme permits duty-free import of inputs (raw materials, consumables, packaging) used in export production, requiring a minimum 15% value addition (unless specified otherwise)."
+    },
+    {
+      "q": "What is the Duty Free Import Authorization (DFIA) Scheme?",
+      "opts": [
+        "A post-export duty exemption scheme where transferable authorizations are issued for duty-free import of inputs with a minimum value addition requirement of 20%",
+        "A non-transferable pre-export license for capital goods",
+        "A scheme that provides cash compensation for transport freight",
+        "A direct credit subsidy provided to foreign shipping companies"
+      ],
+      "ans": 0,
+      "exp": "DFIA is a post-export scheme issued on a transferable basis after fulfilling export obligations, allowing duty-free import of inputs with a minimum required value addition of 20%."
+    },
+    {
+      "q": "The Remission of Duties and Taxes on Exported Products (RoDTEP) scheme was notified by the Government of India in 2021 to replace which WTO-inconsistent scheme?",
+      "opts": [
+        "Merchandise Exports from India Scheme (MEIS)",
+        "Advance Authorization Scheme",
+        "EPCG Scheme",
+        "Towns of Export Excellence Scheme"
+      ],
+      "ans": 0,
+      "exp": "RoDTEP replaced the MEIS scheme (which was challenged at the WTO as an export subsidy) to ensure WTO compliance by refunding un-rebated central, state, and local taxes/duties incurred in product manufacturing and distribution."
+    },
+    {
+      "q": "India established Asia's FIRST Export Processing Zone (EPZ) in 1965 at:",
+      "opts": [
+        "Kandla, Gujarat",
+        "Santacruz (SEEPZ), Mumbai",
+        "Cochin, Kerala",
+        "Noida, Uttar Pradesh"
+      ],
+      "ans": 0,
+      "exp": "Asia's very first Export Processing Zone (EPZ) was established by the Government of India in 1965 at Kandla, Gujarat."
+    },
+    {
+      "q": "The Special Economic Zones (SEZ) Act was enacted by the Indian Parliament in 2005 and the SEZ Rules came into effect on:",
+      "opts": [
+        "February 10, 2006",
+        "January 1, 2001",
+        "April 1, 2008",
+        "August 15, 2005"
+      ],
+      "ans": 0,
+      "exp": "The SEZ Act, 2005, received Presidential assent in June 2005 and came into effect alongside the SEZ Rules on February 10, 2006."
+    },
+    {
+      "q": "Under the SEZ Act 2005, an SEZ unit in India is required to achieve:",
+      "opts": [
+        "Positive Net Foreign Exchange (NFE) earnings cumulatively calculated over a block period of five years",
+        "Zero foreign trade with Asian nations",
+        "100% sales strictly into the Domestic Tariff Area (DTA)",
+        "Negative net foreign exchange earnings"
+      ],
+      "ans": 0,
+      "exp": "SEZ units must be Net Foreign Exchange (NFE) positive cumulatively over a 5-year block period from the date of commercial production: $\\text{NFE} = \\text{FOB Value of Exports} - \\text{CIF Value of Imports} > 0$."
+    },
+    {
+      "q": "When an SEZ unit in India sells its goods into the Domestic Tariff Area (DTA / domestic market outside the SEZ), such sales are:",
+      "opts": [
+        "Treated as normal imports into India and are subject to payment of applicable customs duties (Basic Customs Duty, IGST)",
+        "Completely tax-free and exempt from all taxes",
+        "Banned under criminal penalty",
+        "Subject to state sales tax only"
+      ],
+      "ans": 0,
+      "exp": "SEZs are treated as foreign territory for tariff purposes; hence, any sale by an SEZ unit into the Domestic Tariff Area (DTA) is treated as an import and attracts standard customs duties."
+    },
+    {
+      "q": "The Export-Import Bank of India (EXIM Bank) was established as a statutory apex financial institution in:",
+      "opts": [
+        "1982 under the Export-Import Bank of India Act, 1981",
+        "1947 under the Reserve Bank of India Act",
+        "1991 under the New Industrial Policy",
+        "1965 under the EPZ Regulations"
+      ],
+      "ans": 0,
+      "exp": "EXIM Bank of India was set up on January 1, 1982, as the principal financial institution for coordinating the working of institutions engaged in financing export and import trade."
+    },
+    {
+      "q": "The Export Credit Guarantee Corporation of India (ECGC Ltd.) was established by the Government of India primarily to:",
+      "opts": [
+        "Provide credit risk insurance coverage to Indian exporters against commercial and political risks of overseas buyer defaults",
+        "Provide ship chartering services for maritime transport",
+        "Print currency notes for overseas transactions",
+        "Manage customs bonded warehouses across ports"
+      ],
+      "ans": 0,
+      "exp": "ECGC (established in 1957) is a premier export credit agency providing credit insurance protection to exporters against payment defaults by foreign buyers due to commercial or political risks."
+    },
+    {
+      "q": "In export trade finance, 'Pre-shipment Finance' (Packing Credit) refers to:",
+      "opts": [
+        "Working capital loan extended by commercial banks to an exporter for purchasing raw materials, processing, manufacturing, and packing goods prior to export shipment",
+        "Credit extended after goods have already been dispatched overseas",
+        "A loan given to foreign buyers to purchase real estate",
+        "A long-term mortgage loan for building airport runways"
+      ],
+      "ans": 0,
+      "exp": "Packing Credit / Pre-shipment finance is working capital credit granted to an exporter for financing the purchase, processing, manufacturing, or packaging of goods prior to shipment."
+    },
+    {
+      "q": "Post-shipment Export Finance is credit extended to an exporter:",
+      "opts": [
+        "From the date of shipment of goods up to the date of realization of export sales proceeds from the overseas buyer",
+        "Before raw materials are purchased",
+        "Only when the ship sinks in international waters",
+        "Exclusively in domestic gold certificates"
+      ],
+      "ans": 0,
+      "exp": "Post-shipment finance is credit granted to an exporter after the date of shipping the goods until actual receipt of export payment from the overseas buyer (e.g., negotiation of export bills, advances against duty drawback)."
+    },
+    {
+      "q": "What is 'Forfaiting' in international trade finance?",
+      "opts": [
+        "The non-recourse discounting and purchase of medium-to-long-term export receivables/promissory notes guaranteed by a bank, relieving the exporter of all default risk",
+        "A short-term invoice factoring arrangement with full recourse to the seller",
+        "The confiscation of illegal contraband goods by customs authorities",
+        "A maritime insurance claim settlement for total cargo loss"
+      ],
+      "ans": 0,
+      "exp": "Forfaiting is a specialized trade finance technique where a forfaiter buys medium-to-long term trade receivables (bills of exchange/promissory notes) from an exporter on a 100% 'without recourse' basis."
+    },
+    {
+      "q": "What is the key difference between International Factoring and Forfaiting?",
+      "opts": [
+        "Factoring is typically short-term (under 180 days) for consumer/industrial goods and can be with/without recourse; Forfaiting is medium-to-long term for capital goods and is strictly without recourse",
+        "Factoring is strictly without recourse; Forfaiting is always with recourse",
+        "Factoring is used only for air freight; Forfaiting only for railways",
+        "There is no legal or financial difference between them"
+      ],
+      "ans": 0,
+      "exp": "Factoring handles short-term trade debts (with/without recourse), while forfaiting finances large capital goods exports over medium-to-long terms strictly on a non-recourse basis."
+    },
+    {
+      "q": "In international shipping and trade documentation, a 'Bill of Lading' (B/L) serves as:",
+      "opts": [
+        "A Document of Title to the goods, a Receipt of Cargo issued by the carrier, and Evidence of the Contract of Carriage",
+        "An official certification of corporate income tax payment",
+        "An export subsidy disbursement certificate",
+        "A personal passport of the ship's captain"
+      ],
+      "ans": 0,
+      "exp": "A Bill of Lading (B/L) is a vital maritime shipping document that functions simultaneously as: (1) a receipt of cargo, (2) evidence of the carriage contract, and (3) a document of title to the goods."
+    },
+    {
+      "q": "A 'Clean Bill of Lading' indicates that:",
+      "opts": [
+        "The carrier received the goods on board in apparent good condition without any defective remarks or damaged packaging notations",
+        "The ship has been thoroughly sanitized for plague",
+        "The exporter has paid all customs duties in advance",
+        "The goods were transported on a solar-powered cargo vessel"
+      ],
+      "ans": 0,
+      "exp": "A Clean B/L contains no clauses or notations declaring a defective condition of the goods or packaging when received by the carrier."
+    },
+    {
+      "q": "A 'Claused' (or Dirty / Foul) Bill of Lading indicates that:",
+      "opts": [
+        "The carrier has noted defects, damages, or discrepancies in the condition of the goods or their packaging upon receipt",
+        "The shipment violates WTO environmental laws",
+        "The ship's captain refused to sail due to bad weather",
+        "The cargo consists of toxic chemicals"
+      ],
+      "ans": 0,
+      "exp": "A Claused/Dirty B/L contains explicit notations made by the carrier stating that packages were received broken, leaking, damaged, or insufficient."
+    },
+    {
+      "q": "What is a 'Mate's Receipt' in export shipping procedure?",
+      "opts": [
+        "A preliminary receipt issued by the Chief Officer (Mate) of the vessel acknowledging receipt of cargo on board, which is later exchanged for the regular Bill of Lading at the shipping company's office",
+        "A marriage certificate required for maritime sailors",
+        "A receipt issued by the customs port commissioner confirming duty collection",
+        "A sales invoice sent to the foreign importer"
+      ],
+      "ans": 0,
+      "exp": "A Mate's Receipt is issued by the ship's mate (chief officer) when cargo is loaded on board. The port shipper/clearing agent exchanges this receipt for the formal Bill of Lading after paying freight charges."
+    },
+    {
+      "q": "An 'Air Waybill' (AWB) differs from a Marine Bill of Lading because an Air Waybill is:",
+      "opts": [
+        "A non-negotiable receipt and transport document that does NOT confer document of title to the goods",
+        "A negotiable instrument transferable by blank endorsement",
+        "A document that guarantees zero customs duty on air cargo",
+        "A document issued only by the International Monetary Fund"
+      ],
+      "ans": 0,
+      "exp": "Unlike a Marine Bill of Lading, an Air Waybill (AWB) is a non-negotiable contract of carriage and receipt of goods; it is not a document of title."
+    },
+    {
+      "q": "What is a 'Certificate of Origin' in international trade?",
+      "opts": [
+        "An official document certifying the specific country in which the exported goods were manufactured, used to claim preferential tariff concessions under FTAs",
+        "A certificate establishing the educational qualification of the exporter",
+        "A document detailing the geological age of the shipping vessel",
+        "A declaration verifying the birth city of the corporate promoter"
+      ],
+      "ans": 0,
+      "exp": "A Certificate of Origin (issued by Chambers of Commerce / authorized agencies) certifies the country of manufacture, crucial for determining applicable customs duties and trade preferences."
+    },
+    {
+      "q": "In a Letter of Credit (L/C) transaction, match the key parties with their designated roles:\n(a) Applicant - (i) The Buyer / Importer who requests the bank to issue the L/C\n(b) Issuing Bank - (ii) The Buyer's bank that issues the L/C and undertakes the primary payment obligation\n(c) Beneficiary - (ii) The Seller / Exporter in whose favor the L/C is opened\n(d) Confirming Bank - (iv) A bank in the exporter's country that adds its own definitive guarantee to the L/C",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "ans": 0,
+      "exp": "Applicant: Buyer/Importer; Issuing Bank: Importer's bank; Beneficiary: Seller/Exporter; Confirming Bank: Adds payment confirmation/guarantee."
+    },
+    {
+      "q": "An 'Irrevocable Letter of Credit' is an L/C that:",
+      "opts": [
+        "Cannot be amended, modified, or canceled without the explicit agreement of all parties (Issuing Bank, Confirming Bank, and Beneficiary)",
+        "Can be canceled unilaterally by the buyer at any time without notice",
+        "Expires automatically after 24 hours of issuance",
+        "Applies only to transactions involving military weapons"
+      ],
+      "ans": 0,
+      "exp": "An Irrevocable L/C provides a legally binding payment undertaking that cannot be altered or revoked without the unanimous consent of all contracting parties."
+    },
+    {
+      "q": "A 'Confirmed Letter of Credit' provides the highest degree of security to an exporter because:",
+      "opts": [
+        "A second bank (usually the Confirming Bank in the exporter's home country) adds its independent undertaking to pay the exporter if the issuing bank defaults",
+        "The United Nations guarantees payment directly from its budget",
+        "The importer pays 100% cash in advance before manufacturing begins",
+        "The goods are shipped without any customs checks"
+      ],
+      "ans": 0,
+      "exp": "In a Confirmed L/C, a confirming bank adds its own irrevocable guarantee alongside the issuing bank, protecting the exporter against issuing bank failure or country/political risk."
+    },
+    {
+      "q": "What is a 'Red Clause Letter of Credit'?",
+      "opts": [
+        "An L/C containing a special clause (historically typed in red ink) authorizing the advising/negotiating bank to provide an unsecured pre-shipment cash advance to the exporter before shipping the goods",
+        "An L/C issued strictly for dangerous hazardous chemicals",
+        "An L/C that has been banned by the central bank",
+        "An L/C that charges penalty interest rates on all transactions"
+      ],
+      "ans": 0,
+      "exp": "A Red Clause L/C allows the beneficiary (exporter) to receive pre-shipment advances from the advising bank to purchase raw materials and prepare goods for shipment."
+    },
+    {
+      "q": "What distinguishes a 'Green Clause Letter of Credit' from a Red Clause L/C?",
+      "opts": [
+        "A Green Clause L/C provides pre-shipment advances AND also covers storage, warehousing, and insurance costs at the port of shipment against warehouse receipts",
+        "A Green Clause L/C applies only to organic agricultural produce",
+        "A Green Clause L/C is an environmental tax document",
+        "A Green Clause L/C has zero financial validity"
+      ],
+      "ans": 0,
+      "exp": "A Green Clause L/C extends the Red Clause by granting pre-shipment advances plus storage/warehousing financing at the port against proof of warehousing (warehouse receipts)."
+    },
+    {
+      "q": "A 'Back-to-Back Letter of Credit' is used when:",
+      "opts": [
+        "An intermediary/middleman exporter uses the primary L/C received from the foreign buyer as security to open a second, separate L/C in favor of the actual manufacturer/supplier",
+        "Two shipments are dispatched on the same cargo vessel",
+        "An L/C is renewed automatically every month",
+        "An exporter pays double customs duty"
+      ],
+      "ans": 0,
+      "exp": "In a Back-to-Back L/C arrangement, a trader/intermediary uses the master L/C received from the ultimate buyer as collateral to open a secondary L/C to pay their domestic supplier."
+    },
+    {
+      "q": "A 'Standby Letter of Credit' (SBLC) operates primarily as a:",
+      "opts": [
+        "Financial guarantee / safety net where the issuing bank pays the beneficiary ONLY if the applicant fails to perform contractual obligations or defaults on payment",
+        "Primary payment mechanism for standard everyday container shipping",
+        "Discounted bill of exchange",
+        "Government export incentive voucher"
+      ],
+      "ans": 0,
+      "exp": "An SBLC acts as a secondary payment guarantee of last resort, invoked only upon default or non-performance by the applicant."
+    },
+    {
+      "q": "The standard rules governing documentary credits globally, known as the 'Uniform Customs and Practice for Documentary Credits' (UCP 600), are formulated and published by the:",
+      "opts": [
+        "International Chamber of Commerce (ICC), Paris",
+        "World Trade Organization (WTO)",
+        "International Monetary Fund (IMF)",
+        "United Nations General Assembly"
+      ],
+      "ans": 0,
+      "exp": "The UCP 600 is a set of standardized rules regarding letters of credit established by the International Chamber of Commerce (ICC) in Paris."
+    },
+    {
+      "q": "Under the INCOTERMS 2020 rules published by the International Chamber of Commerce, what does 'EXW' (Ex Works) mean?",
+      "opts": [
+        "The seller delivers goods by making them available at their own premises (factory/warehouse); the buyer bears all costs, risks, and transport logistics from that point onward",
+        "The seller pays all freight, insurance, and import duties to the buyer's doorstep",
+        "The seller loads the cargo onto the overseas vessel at the destination port",
+        "The carrier takes 100% financial liability for damaged cargo"
+      ],
+      "ans": 0,
+      "exp": "EXW represents minimum obligation for the seller. The seller merely makes goods available at their factory/warehouse; the buyer bears all subsequent transport costs, risks, export/import clearance."
+    },
+    {
+      "q": "Under INCOTERM 'FOB' (Free on Board - maritime transport):",
+      "opts": [
+        "The seller delivers the goods on board the vessel nominated by the buyer at the named port of shipment; risk of loss/damage transfers to the buyer once goods are on board",
+        "The seller pays ocean freight and marine insurance to the destination port",
+        "The seller is responsible for import customs clearance in the destination country",
+        "The buyer bears zero shipping risk"
+      ],
+      "ans": 0,
+      "exp": "Under FOB, the seller completes delivery and transfers risk to the buyer when the goods are safely loaded on board the vessel at the designated port of shipment."
+    },
+    {
+      "q": "Under INCOTERM 'CIF' (Cost, Insurance, and Freight - maritime transport):",
+      "opts": [
+        "The seller pays the cost of goods, ocean freight charges, and procures minimum marine insurance to the named port of destination; however, risk of loss transfers to the buyer once goods are loaded on board at the origin port",
+        "The seller pays all import duties and taxes in the buyer's home country",
+        "The buyer pays the ocean freight and shipping insurance",
+        "Risk remains with the seller until the goods reach the buyer's inland warehouse"
+      ],
+      "ans": 0,
+      "exp": "Under CIF, the seller pays for freight and cargo insurance to the destination port, but the risk of loss/damage passes to the buyer as soon as the goods are loaded on board the vessel at the port of origin."
+    },
+    {
+      "q": "Under INCOTERMS 2020, which term imposes the MAXIMUM obligation, costs, and risk on the seller?",
+      "opts": [
+        "DDP (Delivered Duty Paid)",
+        "EXW (Ex Works)",
+        "FOB (Free on Board)",
+        "FAS (Free Alongside Ship)"
+      ],
+      "ans": 0,
+      "exp": "DDP represents maximum obligation for the seller: the seller bears all risks and costs including transport, export clearance, ocean/air freight, and payment of import customs duties and taxes at destination."
+    },
+    {
+      "q": "Match the INCOTERMS 2020 with their correct full forms:\n(a) CIP - (i) Carriage and Insurance Paid to\n(b) CFR - (ii) Cost and Freight\n(c) DAP - (iii) Delivered at Place\n(d) FAS - (iv) Free Alongside Ship",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+      ],
+      "ans": 0,
+      "exp": "CIP: Carriage and Insurance Paid to; CFR: Cost and Freight; DAP: Delivered at Place; FAS: Free Alongside Ship."
+    },
+    {
+      "q": "Under India's Foreign Trade Policy 2023, what is the ambitious long-term target set for India's total exports of goods and services by the year 2030?",
+      "opts": [
+        "USD 2 Trillion",
+        "USD 500 Billion",
+        "USD 1 Trillion",
+        "USD 5 Trillion"
+      ],
+      "ans": 0,
+      "exp": "The Foreign Trade Policy (FTP) 2023 sets an ambitious roadmap to achieve USD 2 Trillion in total exports (USD 1 Trillion in merchandise + USD 1 Trillion in services) by 2030."
+    },
+    {
+      "q": "Under the Status Holder Scheme in India's Foreign Trade Policy, exporters are categorized into One Star to Five Star Export Houses based on:",
+      "opts": [
+        "Cumulative export performance achieved during current and previous financial years in terms of US Dollar value (FOB/FOR)",
+        "Total number of factory workers employed",
+        "Corporate income tax paid to the state government",
+        "Total land area of manufacturing plants"
+      ],
+      "ans": 0,
+      "exp": "Exporters are recognized as Status Holders (1-Star to 5-Star Export Houses) based on their export performance thresholds in US Dollars across specified financial years."
+    },
+    {
+      "q": "What is the primary objective of the 'Districts as Export Hubs' (DEH) initiative under India's Foreign Trade Policy?",
+      "opts": [
+        "To identify, promote, and scale up products and services with export potential in every district of India, decentralizing export promotion",
+        "To ban private exporting firms from operating in rural districts",
+        "To eliminate all district commercial banks",
+        "To mandate that districts only export agricultural grains"
+      ],
+      "ans": 0,
+      "exp": "The 'Districts as Export Hubs' initiative focuses on identifying unique local products/services in each district and creating institutional mechanisms to scale up regional exports."
+    },
+    {
+      "q": "Under the 'Towns of Export Excellence' (TEE) scheme in India's Foreign Trade Policy, recognized industrial towns with high export concentration receive:",
+      "opts": [
+        "Financial assistance under Market Access Initiative (MAI) and prioritized common service provider infrastructure support",
+        "Total exemption from national environmental laws",
+        "Free air cargo transport to all foreign destinations",
+        "Cash subsidies for corporate dividend distribution"
+      ],
+      "ans": 0,
+      "exp": "Towns producing goods of Rs. 750 Cr or more (Rs. 150 Cr for handloom/handicrafts/agriculture) are designated as Towns of Export Excellence (TEE) for fiscal and infrastructure support."
+    },
+    {
+      "q": "Which of the following documents is filed by an importer or customs broker with customs authorities for the purpose of customs valuation, tariff assessment, and clearance of imported goods into India?",
+      "opts": [
+        "Bill of Entry",
+        "Shipping Bill",
+        "Mate's Receipt",
+        "GR Form"
+      ],
+      "ans": 0,
+      "exp": "A Bill of Entry is a statutory legal document filed by an importer/agent with customs to clear imported goods for home consumption or warehousing."
+    },
+    {
+      "q": "A 'Shipping Bill' is the primary customs document filed by an exporter for:",
+      "opts": [
+        "Obtaining customs export clearance and permission to load cargo on board the departing vessel / aircraft",
+        "Claiming personal health insurance benefits",
+        "Paying municipal house tax",
+        "Withdrawing foreign currency from the IMF"
+      ],
+      "ans": 0,
+      "exp": "A Shipping Bill is filed by an exporter with customs to declare export particulars, enable cargo assessment, and secure the 'Let Export Order' (LEO)."
+    },
+    {
+      "q": "The 'Let Export Order' (LEO) is passed by the Customs Officer when:",
+      "opts": [
+        "All export goods have been duly inspected, verified, and cleared for loading onto the transport vessel",
+        "The vessel arrives at the destination country",
+        "The importer pays the final bill of exchange",
+        "The exporter files for bankruptcy"
+      ],
+      "ans": 0,
+      "exp": "The Let Export Order (LEO) is the final customs clearance granted after verifying the Shipping Bill and cargo inspection, authorizing loading onto the carrier."
+    },
+    {
+      "q": "What is the function of the Directorate General of Foreign Trade (DGFT) in India?",
+      "opts": [
+        "Formulating, implementing, and administering India's Foreign Trade Policy and issuing Importer-Exporter Codes (IEC)",
+        "Managing the monetary policy and interest rate benchmarks of India",
+        "Regulating equity trading on the National Stock Exchange",
+        "Operating international passenger airports"
+      ],
+      "ans": 0,
+      "exp": "The DGFT (attached office of the Ministry of Commerce & Industry) is the nodal agency responsible for administering the Foreign Trade Policy and issuing IEC licenses."
+    },
+    {
+      "q": "An Importer-Exporter Code (IEC) issued by the DGFT in India is a mandatory requirement for:",
+      "opts": [
+        "Carrying out any commercial import or export transactions in India (with the IEC number integrated with the business entity's PAN)",
+        "Opening a basic domestic savings bank account",
+        "Registering a domestic marriage",
+        "Filing personal consumer grievance petitions"
+      ],
+      "ans": 0,
+      "exp": "The 10-digit Importer-Exporter Code (IEC), which is aligned with the entity's PAN, is a mandatory requirement for conducting international trade in India."
+    }
+  ]
+}
