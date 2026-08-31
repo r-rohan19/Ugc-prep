@@ -1,0 +1,1580 @@
+{
+  "subject": "P2_BE",
+  "topic": "Business Environment, Policies & CSR",
+  "topicIcon": "🏢",
+  "questions": [
+    {
+      "q": "Match the following components of Business Environment:\n(a) Economic Environment - (i) Exim Policy\n(b) Social Environment - (ii) Customs\n(c) Political Environment - (iii) Social Values\n(d) Legal Environment - (iv) Business Law and Banking Act",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+      ],
+      "ans": 0,
+      "exp": "Economic Environment relates to Exim Policy; Social Environment relates to Customs; Political Environment relates to Social Values; Legal Environment relates to Business Law and Banking Act."
+    },
+    {
+      "q": "Which among the following have not been opened for private sector participation?",
+      "opts": [
+        "Power Sector",
+        "Telecommunication Sector",
+        "Education Sector",
+        "Railways"
+      ],
+      "ans": 3,
+      "exp": "Indian Railways (IR) is a statutory public sector body under the Ministry of Railways, Government of India, reserved predominantly under government ownership."
+    },
+    {
+      "q": "VAT is imposed:",
+      "opts": [
+        "Directly on consumers",
+        "On final stage of production",
+        "On all stages from production to final sales",
+        "None of the above"
+      ],
+      "ans": 2,
+      "exp": "Value Added Tax (VAT) is imposed on the value added to each commodity by a firm during all stages of production and distribution."
+    },
+    {
+      "q": "In which of the following countries the Industrial Revolution took place first?",
+      "opts": [
+        "France",
+        "Germany",
+        "England",
+        "U.S.A."
+      ],
+      "ans": 2,
+      "exp": "The first Industrial Revolution began in Great Britain (England) during the mid-18th century (1700s)."
+    },
+    {
+      "q": "Suppose a Canadian firm imports bananas of $1000 and sells them for $2000. The effect on GDP would be:",
+      "opts": [
+        "The GDP will decrease by $3000",
+        "The GDP will increase by $3000",
+        "The GDP will increase by $2000",
+        "The GDP will increase by $1000"
+      ],
+      "ans": 3,
+      "exp": "Value addition to GDP = Final Selling Price ($2000) - Import Cost ($1000) = $1000."
+    },
+    {
+      "q": "In which year the new Industrial Policy was announced in India?",
+      "opts": [
+        "1997",
+        "1951",
+        "1991",
+        "1998"
+      ],
+      "ans": 2,
+      "exp": "The New Industrial Policy was announced in July 1991, introducing LPG (Liberalization, Privatization, and Globalization) reforms."
+    },
+    {
+      "q": "Assertion (A): Disinvestment tends to arouse opposition from employees.\nReason (R): It may increase the cost of production.",
+      "opts": [
+        "Both (A) and (R) are true",
+        "(A) is true, but (R) is false",
+        "Both (A) and (R) are false",
+        "(A) is false, but (R) is true"
+      ],
+      "ans": 1,
+      "exp": "Disinvestment generates opposition due to fears of job insecurity and retrenchment, but it is implemented to reduce inefficiencies and losses, not to raise production costs."
+    },
+    {
+      "q": "Match the following Authors with their Books:\n(a) Bhagwati, J. - (i) India: Economic Reforms\n(b) Chakravarty, S. - (ii) Development Planning: The Indian Experience\n(c) Dreze, J. and Amartya Sen - (iii) India: Economic Development and Social Opportunity\n(d) Chelliah, R.J. - (iv) Fiscal Policy of Underdeveloped Countries",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
+      "ans": 0,
+      "exp": "Bhagwati -> India: Economic Reforms; Chakravarty -> Development Planning; Dreze & Sen -> India: Economic Development and Social Opportunity; Chelliah -> Fiscal Policy of Underdeveloped Countries."
+    },
+    {
+      "q": "Assertion (A): The British established and developed Indian Railways.\nReason (R): The British were keenly interested in India's economic development.",
+      "opts": [
+        "Both (A) and (R) are true",
+        "Both (A) and (R) are false",
+        "(A) is true, but (R) is false",
+        "(A) is false, but (R) is true"
+      ],
+      "ans": 2,
+      "exp": "The British built the railways primarily for administrative control, military troop mobilization, and raw material extraction, not for indigenous welfare."
+    },
+    {
+      "q": "India has been witnessing high rate of inflation because:",
+      "opts": [
+        "Public expenditure and money supply both are continuously increasing",
+        "The agricultural and industrial sectors have not performed adequately",
+        "Both agricultural and administered prices have been hiked",
+        "All of the above"
+      ],
+      "ans": 3,
+      "exp": "Both demand-pull (expansion of money supply and public spending) and cost-push factors (supply bottlenecks and price hikes) drive inflation in India."
+    },
+    {
+      "q": "Which of the following denote the structural changes in Indian economy?",
+      "opts": [
+        "Primary sector contribution has gone down",
+        "Service sector contribution has gone up",
+        "Secondary sector has not changed much",
+        "All of the above"
+      ],
+      "ans": 3,
+      "exp": "Structural change in the Indian economy involves a falling share of agriculture (primary sector), a rapid expansion of the tertiary (service) sector, and a stagnant secondary sector share."
+    },
+    {
+      "q": "Which one is not an element of legal environment of business?",
+      "opts": [
+        "Act of Parliamentarians in Lok Sabha",
+        "Indian Contract Act, 1872",
+        "Indian Partnership Act, 1932",
+        "Negotiable Instruments Act, 1881"
+      ],
+      "ans": 0,
+      "exp": "Passed statutes and acts constitute the legal framework. Parliamentary debates/actions represent political processes until enacted as law."
+    },
+    {
+      "q": "Out of the following, which are dimensions of Human Development Index (HDI)?\n(i) Life Expectancy (ii) Literacy Level (iii) Success Rate of Marriages (iv) Standard of Living (v) Crime Rate (vi) Corruption Level (vii) Economic Entitlement (viii) Foreign Visits",
+      "opts": [
+        "(i), (ii), (vi) and (viii)",
+        "(i), (ii), (iv) and (vii)",
+        "(ii), (iii), (vi) and (vii)",
+        "(iii), (v), (vii) and (viii)"
+      ],
+      "ans": 1,
+      "exp": "HDI dimensions focus on standard of living, education/literacy, health/life expectancy, and economic entitlements."
+    },
+    {
+      "q": "Public Enterprise is defined as:",
+      "opts": [
+        "An organisation run by joint efforts of Centre and State Governments",
+        "An organisation which caters to the needs relating to public utilities",
+        "An organisation in which capital is invested by public",
+        "An organisation owned and managed by public authorities for definite set of public purposes"
+      ],
+      "ans": 3,
+      "exp": "A Public Enterprise is an entity owned, controlled, and managed by public authorities to achieve designated social and economic goals."
+    },
+    {
+      "q": "Assertion (A): Internal factors of business environment are controllable factors.\nReason (R): The company can alter or modify such factors to suit the environment.",
+      "opts": [
+        "Both (A) and (R) are correct",
+        "(A) is correct, but (R) is incorrect",
+        "Both (A) and (R) are incorrect",
+        "(A) is incorrect"
+      ],
+      "ans": 0,
+      "exp": "Internal environmental factors (organization structure, policies, financial resources, personnel) are within the direct control of the firm."
+    },
+    {
+      "q": "The concept of 'Rolling Plan' in India was introduced by the:",
+      "opts": [
+        "BJP Government",
+        "Janta Government",
+        "Congress Government",
+        "All of the above"
+      ],
+      "ans": 1,
+      "exp": "The Rolling Plan (1978–83) was introduced by the Janata Party Government led by Morarji Desai."
+    },
+    {
+      "q": "The flagship project of Government of India launched for generating guaranteed employment in rural areas is known as:",
+      "opts": [
+        "PMRY",
+        "MNREGA",
+        "JRY",
+        "NREP"
+      ],
+      "ans": 1,
+      "exp": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) guarantees 100 days of wage employment per financial year."
+    },
+    {
+      "q": "GDP at factor cost is calculated as:",
+      "opts": [
+        "P(Q) + P(S)",
+        "GDP(MP) - Indirect Taxes + Subsidies",
+        "GDP(MP) + Direct Taxes + Subsidies",
+        "GDP(MP) - Direct Taxes + Subsidies"
+      ],
+      "ans": 1,
+      "exp": "GDP at Factor Cost = GDP at Market Price - Indirect Taxes + Subsidies."
+    },
+    {
+      "q": "Which one is not the main objective of fiscal policy in India?",
+      "opts": [
+        "To increase liquidity in the economy",
+        "To promote price stability",
+        "To minimize the inequalities of income and wealth",
+        "To promote employment opportunities"
+      ],
+      "ans": 0,
+      "exp": "Regulating liquidity and money supply is the primary function of Monetary Policy (RBI), not Fiscal Policy."
+    },
+    {
+      "q": "Which one is not an element of internal environment?",
+      "opts": [
+        "Marketing capability",
+        "Operational capability",
+        "Money and Capital market",
+        "Personnel capability"
+      ],
+      "ans": 2,
+      "exp": "Money and capital markets are macro-economic external environmental factors."
+    },
+    {
+      "q": "Environmental degradation does not consist of:",
+      "opts": [
+        "Land degradation and soil erosion",
+        "Problem of overgrazing and ecological degradation",
+        "Floods",
+        "None of the above"
+      ],
+      "ans": 3,
+      "exp": "Soil erosion, overgrazing, ecological damage, and floods are all forms/manifestations of environmental degradation."
+    },
+    {
+      "q": "Which one of the following is not a benefit of privatisation?",
+      "opts": [
+        "Encourage entrepreneurship",
+        "Concentration of economic power",
+        "Better management of enterprise",
+        "Freedom from bureaucracy"
+      ],
+      "ans": 1,
+      "exp": "Concentration of economic power into private hands is a major demerit/consequence of privatisation, not a benefit."
+    },
+    {
+      "q": "Which one of the following is not an element of internal environment?",
+      "opts": [
+        "Mission/Objectives",
+        "Human Resources",
+        "Customers",
+        "Shareholders' values"
+      ],
+      "ans": 2,
+      "exp": "Customers belong to the micro-external task environment."
+    },
+    {
+      "q": "Match the items of List-I with List-II:\n(i) Private ownership and Free Enterprise - (A) Secondary Market\n(ii) Government ownership and Central Authority - (B) Capitalism\n(iii) The market for the sale and purchase of previously issued securities - (C) Primary Market\n(iv) The market for new long term capital - (D) Socialism",
+      "opts": [
+        "(i)-(B), (ii)-(D), (iii)-(A), (iv)-(C)",
+        "(i)-(A), (ii)-(B), (iii)-(C), (iv)-(D)",
+        "(i)-(B), (ii)-(D), (iii)-(C), (iv)-(A)",
+        "(i)-(A), (ii)-(C), (iii)-(B), (iv)-(D)"
+      ],
+      "ans": 0,
+      "exp": "Private ownership -> Capitalism; Government ownership -> Socialism; Previously issued securities -> Secondary Market; New capital -> Primary Market."
+    },
+    {
+      "q": "Who was the Chairman of the 13th Finance Commission of India?",
+      "opts": [
+        "Dr. C. Rangarajan",
+        "Mr. Vimal Jalan",
+        "Dr. Vijay C. Kelkar",
+        "None of the above"
+      ],
+      "ans": 2,
+      "exp": "Dr. Vijay C. Kelkar served as the Chairman of the 13th Finance Commission."
+    },
+    {
+      "q": "Under the provisions of the Industries (Development and Regulation) Act, 1951, a license is necessary for:",
+      "opts": [
+        "Changing the location of an existing industrial undertaking",
+        "Producing or manufacturing a 'new article' in an existing industrial undertaking",
+        "Establishing a new undertaking",
+        "All of the above"
+      ],
+      "ans": 3,
+      "exp": "Under IDRA 1951, licensing was compulsory for setting up, location changing, and expanding into new products."
+    },
+    {
+      "q": "Match the items of List-I with List-II:\n(A) Political and Legal Environment - (i) Close relationship with the economic system and economic policy\n(B) Demographic Environment - (ii) Occupational and spatial mobilities of population\n(C) Economic Environment - (iii) Important for industries directly depending on imports or exports\n(D) Geographical and Ecological Environment - (iv) Related to natural resources",
+      "opts": [
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(i), (B)-(iv), (C)-(iii), (D)-(ii)",
+        "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)",
+        "(A)-(ii), (B)-(iv), (C)-(i), (D)-(iii)"
+      ],
+      "ans": 3,
+      "exp": "Political/Legal aligns with economic policy framework; Demographic with population mobility; Economic with industry and trade dependence; Geographical with natural resources."
+    },
+    {
+      "q": "Out of the following, which are the components of food security?\n(i) Food availability\n(ii) Food market\n(iii) Food accessibility\n(iv) Food utilization\n(v) Food credit",
+      "opts": [
+        "(iii), (iv) and (v)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)"
+      ],
+      "ans": 1,
+      "exp": "The three standard pillars of Food Security are Availability, Accessibility, and Utilization."
+    },
+    {
+      "q": "Match List-I with List-II:\n(a) National Manufacturing Competitiveness Council (NMCC) - (i) Industrial Licensing Policy\n(b) National Investment Fund (NIF) - (ii) Eleventh Five Year Plan\n(c) The Industries (Development and Regulation) Act (IDRA), 1951 - (iii) The Competition Act, 2002\n(d) Increase in Employment - (iv) Public Sector Undertakings",
+      "opts": [
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "ans": 1,
+      "exp": "NMCC -> Competition Act; NIF -> PSU Disinvestment channelization; IDRA 1951 -> Industrial Licensing; Employment -> 11th Plan target."
+    },
+    {
+      "q": "Kyoto Protocol pertains to:",
+      "opts": [
+        "Capital formulation",
+        "Globalisation",
+        "Environmental protection",
+        "Unemployment reduction"
+      ],
+      "ans": 2,
+      "exp": "The Kyoto Protocol is an international agreement linked to the UNFCCC committing industrialized nations to limit greenhouse gas emissions."
+    },
+    {
+      "q": "The present regime of subsidies can be improved by focusing on:\n(i) Reducing overall scale of subsidies\n(ii) Making subsidies as transparent as possible\n(iii) Giving specific amounts to Members of Parliament\n(iv) Setting clear limits on duration of subsidy schemes\n(v) Eliminating periodic review\n(vi) Using subsidies for well-defined economic objectives",
+      "opts": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii), (iv) and (v)",
+        "(i), (iii), (iv) and (vi)",
+        "(i), (ii), (iv) and (vi)"
+      ],
+      "ans": 3,
+      "exp": "Effective subsidy reform mandates scaling down non-merit subsidies, increasing transparency, sunset clauses (durations), and targeted objectives."
+    },
+    {
+      "q": "The freedom of private enterprise in a free market economy is characterized by which assumptions?\n(i) Factors of production privately owned\n(ii) Income received in monetary form by sale of factor services\n(iii) Freedom of choice in consumption, occupation, savings\n(iv) Not centrally planned or controlled by the government\n(v) Prone to corruption",
+      "opts": [
+        "(i), (ii) and (iii)",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii), (iii), (iv) and (v)",
+        "(ii), (iii), (iv) and (v)"
+      ],
+      "ans": 1,
+      "exp": "A capitalist/free market system is defined by private ownership, voluntary exchange, consumer sovereignty, and minimal state regulation."
+    },
+    {
+      "q": "The important responsibilities of a business to the customers are:\n(i) To ensure family welfare of customers\n(ii) To understand customer needs and take measures to satisfy them\n(iii) To ensure health condition of customers\n(iv) To ensure product supplied has no adverse effect on customers\n(v) To provide opportunity for being heard and redress genuine grievances",
+      "opts": [
+        "(i), (ii), (iii), (iv) and (v)",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iv) and (v)",
+        "(ii), (iii), (iv) and (v)"
+      ],
+      "ans": 2,
+      "exp": "Customer-directed responsibilities focus on satisfying demand, delivering safe quality products, and offering prompt grievance redressal."
+    },
+    {
+      "q": "The rationale of the expanding role of the public sector stems mainly from which factors?\n(i) Failure of private sector in crucial capital areas\n(ii) Exploitation of society by private sector\n(iii) Central Government revenue needs\n(iv) Demand of economic justice\n(v) Accelerating pace of economic growth",
+      "opts": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii), (iv) and (v)",
+        "(i), (iii), (iv) and (v)",
+        "(i), (ii), (iv) and (v)"
+      ],
+      "ans": 3,
+      "exp": "Public sector expansion historically aimed at building heavy infrastructure, reducing inequalities, preventing private monopolies, and rapid industrialisation."
+    },
+    {
+      "q": "Which of the following factors may lead to a sick industrial unit?\n(i) Shortage of funds and faulty financial management\n(ii) Investment by FIIs in Indian industries\n(iii) Unauthorized FDI\n(iv) Lack of experience on the part of promoters\n(v) Obsolete or improper technology",
+      "opts": [
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii), (iv) and (v)",
+        "(i), (iv) and (v)",
+        "(i), (ii) and (iii)"
+      ],
+      "ans": 2,
+      "exp": "Industrial sickness primarily arises from poor financial control, promoter incompetence, and technical obsolescence."
+    },
+    {
+      "q": "There is acute shortage of electricity in some of the states in India. This reflects a problem in which type of business environment?",
+      "opts": [
+        "Economic",
+        "Demographic",
+        "Politico-legal",
+        "Socio-cultural"
+      ],
+      "ans": 0,
+      "exp": "Infrastructure including power, water, roads, and logistics belongs to the economic environment."
+    },
+    {
+      "q": "Match List-I with List-II:\n(a) Economic liberalization - (i) IT-enabled services\n(b) Outsourcing - (ii) SFIO\n(c) Corporate frauds - (iii) Macroeconomic stability\n(d) Second generation reforms - (iv) Increased competition",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "ans": 3,
+      "exp": "Liberalization -> Increased competition; Outsourcing -> ITES; Corporate frauds -> Serious Fraud Investigation Office (SFIO); 2nd generation reforms -> Macroeconomic stability."
+    },
+    {
+      "q": "Match the following items:\n(a) BIS - (i) Quality of manufactured products\n(b) CERC - (ii) Comparative product testing\n(c) CACP - (iii) Minimum support price for agricultural products\n(d) PCI - (iv) Print Media",
+      "opts": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "ans": 2,
+      "exp": "BIS standards product quality; CERC conducts product testing; CACP recommends agricultural MSPs; PCI regulates print media."
+    },
+    {
+      "q": "Which one among the following is not the salient feature of industrial policy since 1991?",
+      "opts": [
+        "Enormous expansion of the private sector",
+        "Redefining the role of public sector",
+        "Limited exposure of Indian industry to foreign competition",
+        "Pruning of the list of items reserved for SSI units"
+      ],
+      "ans": 2,
+      "exp": "The 1991 reforms greatly increased (rather than limited) exposure of domestic industries to foreign competition."
+    },
+    {
+      "q": "Which of the legislations do not form part of the current legal environment of business in India (having been replaced)?",
+      "opts": [
+        "The Drugs and Cosmetics Act, 1940",
+        "The Prevention of Food Adulteration Act, 1954",
+        "The Monopolies and Restrictive Trade Practices Act, 1969",
+        "Both (b) and (c) above"
+      ],
+      "ans": 3,
+      "exp": "PFA Act was replaced by FSSAI Act 2006 and MRTP Act was replaced by the Competition Act 2002."
+    },
+    {
+      "q": "Business conglomerates have different names in different countries. Which country's large conglomerates are called 'Chaebols'?",
+      "opts": [
+        "Japan",
+        "South Korea",
+        "Germany",
+        "China"
+      ],
+      "ans": 1,
+      "exp": "South Korean business conglomerates (such as Samsung, LG, Hyundai) are known as Chaebols. In Japan they are termed Keiretsu."
+    },
+    {
+      "q": "The responsibility of the organization to the workers includes:\n(i) The payment of fair wages\n(ii) The installation of an efficient grievance handling system\n(iii) Arrangement of proper training and education\n(iv) Welfare of family members\n(v) The provision of the best possible working conditions",
+      "opts": [
+        "(i), (ii), (iii) and (v)",
+        "(ii), (iii), (iv) and (v)",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii), (iv) and (v)"
+      ],
+      "ans": 0,
+      "exp": "Direct organizational obligations to employees encompass fair compensation, safety, training, and grievance mechanisms."
+    },
+    {
+      "q": "Match the Acts with their year of enactment:\n(a) Industries Development Regulation Act - (i) 1951\n(b) Import and Export Control Act - (ii) 1947\n(c) Foreign Exchange Management Act - (iii) 1999\n(d) Factories Act - (iv) 1948",
+      "opts": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "ans": 2,
+      "exp": "IDRA was enacted in 1951, Import-Export Act in 1947, FEMA in 1999, and Factories Act in 1948."
+    },
+    {
+      "q": "Which among the following is not a correct sequential combination?",
+      "opts": [
+        "Macro Environment -> Economic Environment -> National Income -> Pattern of Income Distribution",
+        "Business Environment -> Internal Environment -> Business Ethics -> Payment of Fair Wages",
+        "Business Environment -> External Environment -> Micro Environment -> Suppliers",
+        "Macro Environment -> External Environment -> Customers -> Prospects of Business Development"
+      ],
+      "ans": 3,
+      "exp": "Customers belong directly to the Micro (operating) Environment, not the Macro Environment."
+    },
+    {
+      "q": "Which among the following is an incorrect combination regarding Industrial Policy statements?",
+      "opts": [
+        "Industrial Policy - 1948",
+        "Industrial Policy Statement - 1977",
+        "Industrial Policy Statement - 1980",
+        "Industrial Policy Statement - 1991"
+      ],
+      "ans": 3,
+      "exp": "1991 was titled 'New Industrial Policy, 1991', whereas 1977 and 1980 were designated as Policy Statements."
+    },
+    {
+      "q": "Statement I: The industrial policy of the Government of India is aimed at increasing the tempo of industrial development.\nStatement II: After the New Industrial Policy 1991, the Balance of Trade for India has always been positive.",
+      "opts": [
+        "Statement (I) is correct, but (II) is incorrect",
+        "Statement (II) is correct, but (I) is incorrect",
+        "Both Statements (I) and (II) are correct",
+        "Both Statements (I) and (II) are incorrect"
+      ],
+      "ans": 0,
+      "exp": "Statement I is true. Statement II is false because India has consistently run a merchandise trade deficit post-1991."
+    },
+    {
+      "q": "Assertion (A): The industrial growth in India has been hampered by the burden of many controls and regulations.\nReason (R): The New Industrial Policy seeks to liberate the industry from the shackles of the Licensing System.",
+      "opts": [
+        "Assertion (A) is correct, but Reason (R) is not correct",
+        "Assertion (A) is correct and Reason (R) is right explanation of (A)",
+        "Both Assertion (A) and Reason (R) are correct",
+        "Both Assertion (A) and Reason (R) are incorrect"
+      ],
+      "ans": 0,
+      "exp": "Bureaucratic controls impeded past growth (Assertion A is correct). The official key marks (a) as the primary option."
+    },
+    {
+      "q": "Internal environment of a business includes:\n(i) Business ethics and moral standards\n(ii) Business and managerial policies\n(iii) Prospects of business development\n(iv) Government rules and regulations\n(v) Industrial relations",
+      "opts": [
+        "(i), (ii), (iv) and (v)",
+        "(ii), (iii), (iv) and (v)",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii), (iii) and (v)"
+      ],
+      "ans": 3,
+      "exp": "Government rules and regulations are external macro-environment factors (Political/Legal)."
+    },
+    {
+      "q": "Identify the incorrect pair regarding Finance Commission Chairmen:",
+      "opts": [
+        "1st - 1951/1953 - K.C. Neogi",
+        "7th - 1977/1978 - J.M. Shelat",
+        "11th - 1998/2000 - N.K.P. Salve",
+        "13th - 2007/2009 - V.L. Kelkar"
+      ],
+      "ans": 2,
+      "exp": "The 11th Finance Commission Chairman was Prof. A.M. Khusro. N.K.P. Salve chaired the 9th Finance Commission."
+    },
+    {
+      "q": "The Human Development Index (HDI) is introduced by:",
+      "opts": [
+        "UNDP",
+        "UNICEF",
+        "IMF",
+        "World Bank"
+      ],
+      "ans": 0,
+      "exp": "UNDP has published the HDI in its annual Human Development Report since 1990."
+    },
+    {
+      "q": "Statement (I): The key strategy behind acquiring a company is to create shareholder's value.\nStatement (II): Conglomeration is a merger between two companies that have common business areas.\nStatement (III): MRTP Act got replaced by the Competition Act, 2002 in India.",
+      "opts": [
+        "All the three statements are correct",
+        "Statements (I) and (II) only are correct",
+        "Statements (I) and (III) only are correct",
+        "Statement (II) only is correct"
+      ],
+      "ans": 2,
+      "exp": "Conglomerate mergers involve completely unrelated business areas, making Statement II incorrect."
+    },
+    {
+      "q": "From the following, identify the tools of fiscal policy:\n(i) Public expenditure\n(ii) Open market operations\n(iii) Deficit financing\n(iv) Taxation\n(v) Reserve requirements",
+      "opts": [
+        "(i), (iii), (iv) and (v)",
+        "(i), (ii), (iv) and (v)",
+        "(ii) and (v)",
+        "(i), (iii) and (iv)"
+      ],
+      "ans": 3,
+      "exp": "Fiscal Policy employs taxation, public spending, and deficit financing. OMO and Reserve ratios belong to monetary policy."
+    },
+    {
+      "q": "Narayana Murthy Committee revised recommendations on Corporate Governance (October 2004) covered:\n(i) Independence of Directors\n(ii) Whistle Blower Policy\n(iii) Performance evaluation of Non-Executive Directors\n(iv) Mandatory training of Non-Executive Directors",
+      "opts": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "All (i), (ii), (iii) and (iv)"
+      ],
+      "ans": 3,
+      "exp": "SEBI revised Clause 49 incorporating all four governance aspects based on the Narayana Murthy Committee recommendations."
+    },
+    {
+      "q": "GNP at market prices minus Indirect taxes plus Subsidies is referred to as:",
+      "opts": [
+        "GNP at factor cost",
+        "GDP at factor cost",
+        "NNP at factor cost",
+        "NDP at factor cost"
+      ],
+      "ans": 0,
+      "exp": "GNP at Factor Cost = GNP at Market Price - Net Indirect Taxes + Subsidies."
+    },
+    {
+      "q": "Match List-I with List-II:\n(a) Carroll Model - (i) Social responsibility of business\n(b) Corlett Hague Rule - (ii) Principles of taxation\n(c) Heckscher Ohlin Theorem - (iii) International trade\n(d) Knut Wicksell's Theory - (iv) Interest rate",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "ans": 0,
+      "exp": "Carroll Model -> CSR; Corlett-Hague -> Optimal taxation; Heckscher-Ohlin -> International trade; Wicksell -> Interest rate."
+    },
+    {
+      "q": "Environmental degradation does not consist of:",
+      "opts": [
+        "Land degradation and soil erosion",
+        "Problem of overgrazing and ecological degradation",
+        "Floods",
+        "None of the above"
+      ],
+      "ans": 3,
+      "exp": "All listed options are direct components/consequences of environmental degradation."
+    },
+    {
+      "q": "Which of the following is not the main objective of 'Fiscal Policy of India'?",
+      "opts": [
+        "To increase liquidity in the economy",
+        "To promote price stability",
+        "To minimize inequality in income and wealth",
+        "To promote employment opportunities"
+      ],
+      "ans": 0,
+      "exp": "Liquidity management is controlled by the Reserve Bank of India via Monetary Policy instruments."
+    },
+    {
+      "q": "Liberalization of an economy means:",
+      "opts": [
+        "Reducing number of reserved industries from 17 to 8",
+        "Liberating the industry from licensing",
+        "Opening up economy to the world by attaining international competitiveness and removing controls",
+        "Free determination of interest rate"
+      ],
+      "ans": 2,
+      "exp": "Liberalization involves dismantling bureaucratic regulations and integrating the domestic economy with competitive market forces."
+    },
+    {
+      "q": "Assertion (A): Industrialization of an economy is considered synonymous with growth.\nReason (R): The transfer of resources from agrarian to industrial may be capital or labour or both.",
+      "opts": [
+        "Both (A) and (R) are true and (R) is correct explanation of (A)",
+        "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+        "(A) is true but (R) is false",
+        "(A) is false but (R) is true"
+      ],
+      "ans": 1,
+      "exp": "Both statements are economically valid, but resource transfer explains structural shift rather than explaining why industrialization is equivalent to growth."
+    },
+    {
+      "q": "Statement I: Legal agreements between two countries govern how both countries tax earnings.\nStatement II: International Law may determine how and whether companies can operate in a certain locale.",
+      "opts": [
+        "Both the statements are true",
+        "Both the statements are false",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "ans": 0,
+      "exp": "Bilateral tax treaties (DTAAs) and international law set operational and tax rules across sovereign jurisdictions."
+    },
+    {
+      "q": "Industry boundaries are blurring as companies recognize that new opportunities lie at intersections of industries. This is called:",
+      "opts": [
+        "Globalization",
+        "Customization",
+        "Industry convergence",
+        "Acquisition"
+      ],
+      "ans": 2,
+      "exp": "Industry convergence describes the merging of distinct industries due to overlapping technology and consumer demands."
+    },
+    {
+      "q": "Assertion (A): Liberalization means corporatisation of departmental undertakings and public undertakings.\nReason (R): Freedom to public sector undertakings to access capital market.",
+      "opts": [
+        "Both (A) and (R) are true and (R) is correct explanation of (A)",
+        "Both (A) and (R) are true but (R) is not a correct explanation of (A)",
+        "(A) is true but (R) is false",
+        "(A) is false but (R) is true"
+      ],
+      "ans": 0,
+      "exp": "Autonomy to PSUs and access to capital markets form the foundation of public sector corporate liberalization."
+    },
+    {
+      "q": "Match List-I with List-II:\n(A) Fiscal Policy - (i) Fiscal Federalism\n(B) Technology Policy - (ii) Mitigation of National hazards\n(C) Macro-Economic Policy - (iii) Balance of Payment\n(D) Monetary Policy - (iv) Inflation",
+      "opts": [
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(iv), (B)-(iii), (C)-(i), (D)-(ii)",
+        "(A)-(ii), (B)-(i), (C)-(iv), (D)-(iii)"
+      ],
+      "ans": 1,
+      "exp": "Fiscal Policy -> Fiscal federalism; Technology -> Hazard mitigation; Macroeconomic -> BOP; Monetary -> Inflation control."
+    },
+    {
+      "q": "Which factor is not directly responsible for slowing down the growth of infrastructure?",
+      "opts": [
+        "High level of perceived political risk",
+        "High level of sunk cost",
+        "High probability of time and cost over-run",
+        "Introduction of competition in all sectors"
+      ],
+      "ans": 3,
+      "exp": "Introducing competition enhances efficiency, brings private capital, and accelerates infrastructure growth."
+    },
+    {
+      "q": "Which of the following is not a major component of Gross Domestic Product (GDP)?",
+      "opts": [
+        "Personal Consumption Expenditure",
+        "Gross Private Domestic Investment",
+        "Net Personal Income",
+        "Net Exports"
+      ],
+      "ans": 2,
+      "exp": "GDP = C + I + G + (X - M). Net Personal Income is an income concept, not an expenditure component of GDP."
+    },
+    {
+      "q": "Which of following was not classified as a 'Maharatna' enterprise in India?",
+      "opts": [
+        "CIL",
+        "SAIL",
+        "OIL",
+        "GAIL"
+      ],
+      "ans": 2,
+      "exp": "Oil India Limited (OIL) was a Navratna company, whereas CIL, SAIL, and GAIL were Maharatna CPSEs."
+    },
+    {
+      "q": "Match List-I with List-II:\n(a) Exchange control - (i) Domestic firms\n(b) Price control - (ii) Mass consumption product\n(c) Import control - (iii) Adverse BOP\n(d) Legislative control - (iv) Industrial location",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+      ],
+      "ans": 3,
+      "exp": "Exchange control regulates firms; Price control protects consumers of essential goods; Import controls address BOP; Legislative rules guide industrial locations."
+    },
+    {
+      "q": "Assertion (A): Corporate culture is generally considered as either closed and threatening or open and participatory.\nReason (R): Corporate culture and top management style are key determinants of the internal environment.",
+      "opts": [
+        "(A) is correct, but (R) is incorrect",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct, but (R) is not the correct explanation of (A)",
+        "(R) is correct, but (A) is incorrect"
+      ],
+      "ans": 1,
+      "exp": "Managerial philosophy and leadership behavior directly shape the internal cultural environment of an organization."
+    },
+    {
+      "q": "Statement I: If workers develop non-cooperation with Management, a repressive system may be needed to set right industrial disorder.\nStatement II: Fulfilling social responsibilities toward stakeholders enhances economic growth and corporate image.",
+      "opts": [
+        "Statement I is correct, but II is incorrect",
+        "Both statements I and II are correct",
+        "Statement II is correct but I is incorrect",
+        "Both statements are incorrect"
+      ],
+      "ans": 1,
+      "exp": "Both statements represent established management and CSR principles."
+    },
+    {
+      "q": "Match the Committee/Body with its respective establishment/report year:\n(A) Planning Commission - (i) 1951\n(B) Competition Act - (ii) 2002\n(C) Adrian Cadbury Committee - (iii) 1991\n(D) Rangarajan Committee on Disinvestment - (iv) 1993",
+      "opts": [
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)",
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)"
+      ],
+      "ans": 2,
+      "exp": "Planning Commission (1951), Competition Act (2002), Cadbury Committee (1991), Rangarajan Disinvestment Committee (1993)."
+    },
+    {
+      "q": "From which Five Year Plan was the focus 'Growth with Social Justice and Equity' explicitly emphasized?",
+      "opts": [
+        "Ninth Plan",
+        "Sixth Plan",
+        "Seventh Plan",
+        "Tenth Plan"
+      ],
+      "ans": 0,
+      "exp": "'Growth with Social Justice and Equity' was the core objective of the 9th Five-Year Plan (1997–2002)."
+    },
+    {
+      "q": "Assertion (A): Revenue from indirect taxes was the major source of tax revenue till tax reforms in the 1990s.\nReason (R): Traditionally India's tax regime relied heavily on indirect taxes including customs and excise.",
+      "opts": [
+        "(A) and (R) both are correct, but (R) is not the correct explanation of (A)",
+        "(A) is correct, but (R) is not correct",
+        "(A) and (R) both are correct and (R) is the correct explanation of (A)",
+        "(A) and (R) both are incorrect"
+      ],
+      "ans": 2,
+      "exp": "Pre-1991 tax structures derived over 75% of revenue from customs and union excise duties."
+    },
+    {
+      "q": "Match List-I with List-II:\n(A) Indian Railways - (i) Departmental Undertaking\n(B) Unit Trust of India - (ii) Statutory Corporation\n(C) Bharat Heavy Electricals Ltd. - (iii) Government Company",
+      "opts": [
+        "(A)-(i), (B)-(ii), (C)-(iii)",
+        "(A)-(i), (B)-(ii), (C)-(iii)",
+        "(A)-(ii), (B)-(i), (C)-(iii)",
+        "(A)-(iii), (B)-(ii), (C)-(i)"
+      ],
+      "ans": 1,
+      "exp": "Railways is a departmental undertaking; UTI was formed by statute; BHEL is registered as a government company under Companies Act."
+    },
+    {
+      "q": "Statement I: Working in harmony with community and environment brings long-term profits and shareholder value.\nStatement II: According to Mahatma Gandhi, capitalist class owns wealth as trustees of the society.",
+      "opts": [
+        "Statement I is correct, but II is incorrect",
+        "Statement II is correct, but I is incorrect",
+        "Both statements I and II are incorrect",
+        "Both statements I and II are correct"
+      ],
+      "ans": 3,
+      "exp": "Both statements represent CSR sustainability perspectives and Gandhi's Trusteeship doctrine."
+    },
+    {
+      "q": "Match List-I with List-II relating to corporate ethics:\n(A) Utilitarian theory - (i) Evaluation of plans with its consequences\n(B) Code - (ii) Behavior guiding statements\n(C) Whistle blowing - (iii) Making public known about unethical practices\n(D) Pluralistic society - (iv) Society with varied interest groups",
+      "opts": [
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(iv), (B)-(ii), (C)-(iii), (D)-(i)",
+        "(A)-(iii), (B)-(i), (C)-(ii), (D)-(iv)"
+      ],
+      "ans": 1,
+      "exp": "Utilitarianism judges by consequences; Codes guide conduct; Whistleblowing exposes wrongdoing; Pluralistic societies feature diverse stakeholder groups."
+    },
+    {
+      "q": "Assertion (A): Industrial liberalisation became an imperative condition for the growth of competition and high efficiency in Indian industries.\nReason (R): Industrial development and curbing of poverty is only possible through government intervention.",
+      "opts": [
+        "(A) and (R) both are not correct",
+        "(A) is correct but (R) is not the correct explanation of (A)",
+        "(A) is correct and (R) is correct explanation of (A)",
+        "(A) is not correct but (R) is correct"
+      ],
+      "ans": 1,
+      "exp": "Assertion (A) is correct regarding 1991 liberalization. Reason (R) is a socialist argument that does not explain market-led efficiency."
+    },
+    {
+      "q": "Which of the following statements are NOT correct regarding sustainable development?\nStatement (I): Sustainable development balances economic growth and conservation of environment.\nStatement (II): Sustainable development means meeting industrial needs without import-export balancing.\nStatement (III): Sustainable development means creation of sufficient surplus budgets through capital assets.",
+      "opts": [
+        "Statements (I) and (III)",
+        "Statements (II) and (III)",
+        "Statements (I) and (II)",
+        "Statements (I), (II) and (III)"
+      ],
+      "ans": 1,
+      "exp": "Statements II and III misrepresent sustainable development, which focuses on meeting present needs without compromising future generations."
+    },
+    {
+      "q": "Match List-I with List-II:\n(a) Economic environment - (i) Trade and transport policies\n(b) Political and government environment - (ii) Judiciary powers\n(c) Socio-cultural environment - (iii) Ethical issues\n(d) Demographic environment - (iv) Economic stratification of population",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "ans": 0,
+      "exp": "Economic -> trade policies; Political -> judicial/state powers; Socio-cultural -> ethical values; Demographic -> population stratification."
+    },
+    {
+      "q": "For which basic reason was the 'Structural Adjustment Programme' undertaken in India in 1991?",
+      "opts": [
+        "Curbing competition among private sector",
+        "Establishing predominant role of public sector",
+        "Establishing a free market economy",
+        "Regional balancing through planning and licensing"
+      ],
+      "ans": 2,
+      "exp": "The SAP was aimed at establishing a market-driven, competitive economic order by decontrolling industries and promoting globalization."
+    },
+    {
+      "q": "Match List-I with List-II:\n(a) Micro external environment - (i) Input suppliers\n(b) Macro external environment - (ii) Economic and political factors\n(c) Non price competition - (iii) Sponsoring of events like sports\n(d) Desire competition - (iv) Competition among diverse products targeting disposable income",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+      ],
+      "ans": 0,
+      "exp": "Suppliers -> Micro env; Macro -> Macroeconomic/Political; Sponsorship -> Non-price competition; Desire competition -> Broad consumer spending choices."
+    },
+    {
+      "q": "Assertion (A): Buyers, for several industries, are potential competitors - they may integrate backwards.\nReason (R): They have different degrees of bargaining power.",
+      "opts": [
+        "(A) and (R) are correct and (R) is the correct reasoning of (A)",
+        "(A) and (R) are correct but (R) is not the correct reasoning of (A)",
+        "(A) is incorrect while (R) is a correct statement",
+        "Both (A) and (R) are incorrect"
+      ],
+      "ans": 0,
+      "exp": "Porter's Five Forces highlights that strong buyer bargaining power enables the threat of backward integration."
+    },
+    {
+      "q": "Match the roles played by Government in an economy:\n(a) Regulatory role - (i) Imposing high import duty\n(b) Promotional role - (ii) Measures to control and cover risk in priority sectors\n(c) Entrepreneurial role - (iii) Capital intensive projects of public sector\n(d) Planning role - (iv) Deciding timing and usage of resources",
+      "opts": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "ans": 2,
+      "exp": "Regulatory -> Import duties/tariffs; Promotional -> Sectoral risk cover; Entrepreneurial -> Public sector units; Planning -> Resource allocation."
+    },
+    {
+      "q": "Which of the following statements on normative ethics are correct?\nStatement (I): Virtue ethics (Aristotle) stresses virtuous principles and character.\nStatement (II): Utilitarianism conforms to utility where happiness is maximized.\nStatement (III): Deontological ethics judges action rightness independent of consequences.",
+      "opts": [
+        "(I), (II) and (III)",
+        "(I) and (II)",
+        "(I) and (III)",
+        "(II) and (III)"
+      ],
+      "ans": 2,
+      "exp": "Statements I and III accurately capture Aristotelian Virtue ethics and Kantian Deontology."
+    },
+    {
+      "q": "Which one of the following is NOT a characteristic of capitalism?",
+      "opts": [
+        "Individuals behave with profit motive",
+        "Major means of production owned and controlled by Government",
+        "Producers and consumers compete freely",
+        "Price mechanism (invisible hand) allocates resources"
+      ],
+      "ans": 1,
+      "exp": "State ownership of productive assets is a central tenet of socialism, not capitalism."
+    },
+    {
+      "q": "Which of the following is not a salient feature of industrial policy developments since 1991?",
+      "opts": [
+        "Enormous expansion of the private sector",
+        "Divestment in public sector enterprises",
+        "Domestic industry exposed to foreign competition",
+        "Monopoly for public sector in commanding heights of economy"
+      ],
+      "ans": 3,
+      "exp": "The 1991 policy dismantled public sector monopolies, restricting mandatory reservation to atomic energy and railway transport."
+    },
+    {
+      "q": "Which of the following statements is NOT correct relating to consumerism?",
+      "opts": [
+        "Consumerism manifests the failure of business to protect consumer rights",
+        "The government does not have any role in consumer protection as it belongs to business alone",
+        "Consumers should accept consumerism to assert rights",
+        "Consumerism indicates enlightened marketing"
+      ],
+      "ans": 1,
+      "exp": "Government plays a statutory role through legislation (Consumer Protection Act) and regulatory bodies."
+    },
+    {
+      "q": "Which one of the following is NOT covered in the approach adopted by NITI Aayog?",
+      "opts": [
+        "Five-year planning approach",
+        "Three-year action agenda",
+        "Seven-year strategy",
+        "Fifteen-year vision"
+      ],
+      "ans": 0,
+      "exp": "NITI Aayog replaced Five-Year Plans with 15-Year Vision, 7-Year Strategy, and 3-Year Action Agenda documents."
+    },
+    {
+      "q": "Match List-I with List-II:\n(A) Rival firms - (i) External Environment\n(B) Technology - (ii) Global Environment\n(C) Improving Quality - (iii) Internal Environment\n(D) Ethics in Business - (iv) Social and Cultural Environment",
+      "opts": [
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(ii), (B)-(iv), (C)-(i), (D)-(iii)",
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(iv), (B)-(i), (C)-(ii), (D)-(iii)"
+      ],
+      "ans": 2,
+      "exp": "Rival firms -> External Micro; Tech -> Global/Macro; Quality improvement -> Internal capability; Business ethics -> Socio-cultural."
+    },
+    {
+      "q": "The Industrial Policy Resolution of 1956 was prompted by which combination of developments?\n(i) Adoption of the Constitution of India\n(ii) Implementation of Economic Planning\n(iii) Acceleration of Economic Growth and Industrialisation\n(iv) Availability of Sufficient Funds for Investment in Public Sector",
+      "opts": [
+        "Only (i) and (ii)",
+        "Only (i), (ii) and (iv)",
+        "Only (ii), (iii) and (iv)",
+        "Only (ii) and (iv)"
+      ],
+      "ans": 2,
+      "exp": "The 1956 IPR aimed at establishing a socialist pattern of society through rapid industrialization and public sector leadership."
+    },
+    {
+      "q": "Indicate the most popular route of privatisation adopted by the Government of India in recent decades:",
+      "opts": [
+        "Management-Employee Buyout",
+        "Spontaneous Privatisation",
+        "Cross Holdings",
+        "Strategic sale"
+      ],
+      "ans": 3,
+      "exp": "Strategic sale involves transferring majority equity and management control to private buyers."
+    },
+    {
+      "q": "Second generation economic reforms in India do not comprise:",
+      "opts": [
+        "Exploiting knowledge-based global economy",
+        "Growing Indian transnational corporations",
+        "Population control measures",
+        "Clean environment"
+      ],
+      "ans": 2,
+      "exp": "Second-generation economic reforms target structural factor-market reforms (labour, land, legal, fiscal) rather than demographic population control programs."
+    },
+    {
+      "q": "Statement I: Most infrastructure services provided by public monopolies suffer from low productivity and over-employment.\nStatement II: Private sector participation in infrastructure brings better risk sharing, accountability, and management.",
+      "opts": [
+        "Both I and II are correct",
+        "Both I and II are incorrect",
+        "I is incorrect, but II is correct",
+        "I is correct, but II is incorrect"
+      ],
+      "ans": 0,
+      "exp": "Both statements describe standard economic rationales for Public-Private Partnerships (PPP) in infrastructure."
+    },
+    {
+      "q": "Which of the following are important ethical principles a business should follow?\n(A) Action for development of industry\n(B) Pay taxes and discharge obligations promptly\n(C) Best utilization of human resources\n(D) Refrain from secret kickbacks or bribes\n(E) Ensure payment of fair wages and fair treatment",
+      "opts": [
+        "(C), (D) and (E)",
+        "(B), (D) and (E)",
+        "(A), (B) and (C)",
+        "(A), (C) and (E)"
+      ],
+      "ans": 1,
+      "exp": "Paying statutory taxes, avoiding illicit bribery/kickbacks, and ensuring fair labor compensation are core business ethics."
+    },
+    {
+      "q": "Match List-I with List-II:\n(A) Fiscal, Monetary and industrial policies - (i) Economic policies\n(B) Social obligations towards stakeholders - (ii) Social responsibilities\n(C) Consumers, shareholders, suppliers, creditors - (iii) Stakeholders interest group\n(D) Moral principles defining right or wrong - (iv) Business ethics",
+      "opts": [
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(ii), (B)-(i), (C)-(iv), (D)-(iii)",
+        "(A)-(iii), (B)-(iv), (C)-(ii), (D)-(i)",
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)"
+      ],
+      "ans": 3,
+      "exp": "Policies -> Economic policies; Obligations -> CSR; Consumers/suppliers -> Stakeholders; Moral principles -> Ethics."
+    },
+    {
+      "q": "Which one among the following is odd in the context of business environment?",
+      "opts": [
+        "Economic Policies",
+        "Economic Planning",
+        "Socio-cultural factors",
+        "Macroeconomic scenario"
+      ],
+      "ans": 2,
+      "exp": "Socio-cultural factors belong to the Non-Economic environment, while the other three form the Economic Environment."
+    },
+    {
+      "q": "Match List-I with List-II:\n(a) Size of market - (i) Macro-economic environment\n(b) Demographic environment - (ii) Non-economic environment\n(c) Export oriented units - (iii) Foreign trade policy\n(d) Multinational corporations - (iv) Globalization of business",
+      "opts": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+      ],
+      "ans": 3,
+      "exp": "Market size -> Macro environment; Demographics -> Non-economic; EOUs -> Foreign trade policy; MNCs -> Globalization."
+    },
+    {
+      "q": "Which of the following are part of Corporate Social Responsibility (CSR) to consumers?\n(A) Proper promotion channels for staff\n(B) Supplying goods at fair prices even in sellers' market\n(C) Improving factory efficiency\n(D) Providing opportunity of being heard and redressing genuine grievances",
+      "opts": [
+        "(A) and (B)",
+        "(B) and (D)",
+        "(B) and (C)",
+        "(A) and (C)"
+      ],
+      "ans": 1,
+      "exp": "CSR to consumers specifically includes fair pricing during shortages and prompt customer dispute resolution."
+    },
+    {
+      "q": "Which of the following business legislations affect modern corporate organizations?\n(a) Incorporation and Bankruptcy laws\n(b) Environmental Protection Laws\n(c) Occupational Health and Safety Laws\n(d) Competition Laws",
+      "opts": [
+        "All (a), (b), (c), and (d)",
+        "(a) only",
+        "(a) and (d) only",
+        "(b) and (c) only"
+      ],
+      "ans": 0,
+      "exp": "Business entities are subject to company/IBC laws, environmental compliance, safety norms, and antitrust/competition acts."
+    },
+    {
+      "q": "As per Archie Carroll's Model, the four levels of Corporate Social Responsibility (CSR) are:",
+      "opts": [
+        "Physical, economic, social and legal",
+        "Physical, economic, legal and ethical",
+        "Philanthropic, economic, legal and ethical",
+        "Philanthropic, economic, social and ethical"
+      ],
+      "ans": 2,
+      "exp": "Carroll's CSR pyramid consists of Economic, Legal, Ethical, and Philanthropic responsibilities."
+    },
+    {
+      "q": "Statement (I): Monetary policy causes deliberate changes in government revenue and expenditure to influence national output.\nStatement (II): Fiscal Policy regulates money supply and the cost of credit.",
+      "opts": [
+        "Both Statement (I) and Statement (II) are correct",
+        "Both Statement (I) and Statement (II) are incorrect",
+        "Statement (I) is correct but Statement (II) is incorrect",
+        "Statement (I) is incorrect but Statement (II) is correct"
+      ],
+      "ans": 1,
+      "exp": "The definitions are interchanged: Statement I describes Fiscal Policy while Statement II describes Monetary Policy."
+    },
+    {
+      "q": "Which of the following policies has undergone structural transformation consequent to the implementation of GST in India?",
+      "opts": [
+        "Monetary policy",
+        "Fiscal policy",
+        "Trade policy",
+        "Exim Policy"
+      ],
+      "ans": 1,
+      "exp": "GST harmonized indirect tax structures across States and the Centre, fundamentally transforming India's Fiscal Federalism and fiscal policy."
+    },
+    {
+      "q": "Who coined the metaphor 'Invisible Hand' in 'The Theory of Moral Sentiments' and 'The Wealth of Nations'?",
+      "opts": [
+        "Milton Friedman",
+        "David Ricardo",
+        "Michael Porter",
+        "Adam Smith"
+      ],
+      "ans": 3,
+      "exp": "Adam Smith introduced the 'Invisible Hand' to explain how individual self-interest leads to optimal social resource allocation."
+    },
+    {
+      "q": "The defenders of the sustainability approach toward Corporate Social Responsibility (CSR) point out that:",
+      "opts": [
+        "All economic activity exists within a biosphere that supports all life",
+        "The success of business must be judged only against profitability",
+        "Customer service is most important",
+        "Business sole responsibility is to maximize shareholder wealth"
+      ],
+      "ans": 0,
+      "exp": "Ecological sustainability asserts that the economic system is a subsystem of the finite global biosphere."
+    },
+    {
+      "q": "The objective of energy management and audit in a business enterprise includes:\n(A) Minimising cost of energy consumption\n(B) Minimising waste in energy consumption\n(C) Scaling harmful impacts of pollution\n(D) Minimising environmental degradation",
+      "opts": [
+        "A, B and C only",
+        "B, C and D only",
+        "A, B and D only",
+        "A, B, C and D only"
+      ],
+      "ans": 2,
+      "exp": "Energy audits seek to reduce power waste, save operational energy costs, and minimize environmental emissions."
+    },
+    {
+      "q": "Which describe government interventions in the Indian MSME space in response to Covid-19?\n(A) Collateral free automatic loans of Rs. 3 lakh crore (ECLGS)\n(B) 100% credit guarantee coverage for NBFC lending\n(C) Composite criteria (Investment + Turnover) for MSME definition\n(D) Loan write-offs for all large borrowers",
+      "opts": [
+        "A, B and C only",
+        "B, C and D only",
+        "C, D and E only",
+        "A, C and D only"
+      ],
+      "ans": 0,
+      "exp": "Under the Atmanirbhar Bharat package, the government launched ECLGS, credit guarantees, and updated MSME definition thresholds."
+    },
+    {
+      "q": "Which industry sectors received significant growth boosts amid Covid-19 lockdowns?\n(A) Online education, gaming, and streaming entertainment\n(B) E-Commerce and digital payments\n(C) Pharmaceuticals and healthcare supply\n(D) International airline travel",
+      "opts": [
+        "A, B and D only",
+        "A, C and D only",
+        "A, B and C only",
+        "C and D only"
+      ],
+      "ans": 2,
+      "exp": "Digital technology, e-commerce, streaming, and pharmaceutical sectors saw surging demand during lockdowns."
+    },
+    {
+      "q": "Arrange the CSR eligibility thresholds and rules under the Indian Companies Act, 2013:\n(A) Net worth of Rs. 500 crores or more\n(B) Turnover of Rs. 1,000 crores or more\n(C) Net profit of Rs. 5 crores or more\n(D) Spending 2% of average net profit\n(E) Mandatory penal disclosure for non-compliance",
+      "opts": [
+        "E, B, D, C, A",
+        "B, E, A, C, D",
+        "A, B, C, D, E",
+        "C, B, A, D, E"
+      ],
+      "ans": 2,
+      "exp": "Criteria: Net Worth (>=500 Cr) -> Turnover (>=1000 Cr) -> Net Profit (>=5 Cr) -> 2% CSR Spending -> Penal action on non-compliance."
+    },
+    {
+      "q": "Which is the most potent driver of business transformation during recent disruptions?",
+      "opts": [
+        "Ethical consciousness",
+        "Scale economies",
+        "Technology adoption and digital innovation",
+        "Supply chain protectionism"
+      ],
+      "ans": 2,
+      "exp": "Rapid cloud adoption, automation, and AI/digital platforms have driven widespread business transformations."
+    },
+    {
+      "q": "Corporate Social Responsibility (CSR) represents a continuing commitment by business to behave ethically and contribute to:\n(A) Profiteering and market cornering\n(B) Public health, education, and literacy\n(C) Ecological balance and environmental protection\n(D) Sponsoring social charity and community development",
+      "opts": [
+        "A, B and D only",
+        "B, C and D only",
+        "C, D and A only",
+        "A, B and C only"
+      ],
+      "ans": 1,
+      "exp": "CSR encompasses education, public health, ecological sustainability, and inclusive societal welfare."
+    },
+    {
+      "q": "Which among the following statements is true regarding Indian economic structure?",
+      "opts": [
+        "India has higher trade with European countries than Asia",
+        "MSE is the largest stock exchange in the world",
+        "Indian primary sector is contributing less to GDP as compared to other sectors",
+        "India attracts highest FDI from USA"
+      ],
+      "ans": 2,
+      "exp": "Agriculture (primary sector) contributes around 15–18% of GDP, which is lower than services (over 50%) and industry."
+    },
+    {
+      "q": "The Comptroller and Auditor General (CAG) has reported variations in fiscal statistics regarding:",
+      "opts": [
+        "GDP growth rate",
+        "Fiscal Deficit estimates",
+        "Foreign Direct Investment",
+        "Liquidity of private banks"
+      ],
+      "ans": 1,
+      "exp": "CAG audits frequently highlight off-budget borrowings that impact official fiscal deficit accounting."
+    },
+    {
+      "q": "Which of the following macro indicators reflects population distribution and trends?",
+      "opts": [
+        "GDP growth",
+        "Demographics",
+        "Monetary velocity",
+        "Interest rate spread"
+      ],
+      "ans": 1,
+      "exp": "Demographic environment studies population size, age structure, literacy, urbanization, and workforce composition."
+    },
+    {
+      "q": "Which of the following is not a true feature of a purely consumption-driven economy?",
+      "opts": [
+        "Increasing population with expanding consumption",
+        "It naturally prompts more exports than imports",
+        "Significant indirect tax revenue contribution",
+        "High vulnerability to demand shocks"
+      ],
+      "ans": 1,
+      "exp": "Consumption-heavy economies often experience higher import demand, frequently leading to trade deficits."
+    },
+    {
+      "q": "Sustainable Consumption and Production (SCP) entails:\n(A) Using services/products responding to basic needs with high quality of life\n(B) Minimizing toxic resources, pollution, and emissions\n(C) Preserving natural capital for future generations",
+      "opts": [
+        "A and B only",
+        "A, B and C",
+        "B and C only",
+        "A and C only"
+      ],
+      "ans": 1,
+      "exp": "SCP aims to decouple economic growth from environmental degradation while improving life standards."
+    },
+    {
+      "q": "Which of the following is most desirable to consolidate non-inflationary long-term growth?",
+      "opts": [
+        "Excessive suppression of demand",
+        "Frequent interest rate hikes",
+        "Stimulating productive capacity and additional supply",
+        "Currency depreciation"
+      ],
+      "ans": 2,
+      "exp": "Expanding aggregate supply via investments and infrastructure cures supply-side bottlenecks without triggering inflation."
+    },
+    {
+      "q": "Which of the following are primary metrics used to measure inflation in an economy?\n(A) Phillips curve\n(B) Consumer Price Index (CPI)\n(C) Misery Index\n(D) GDP Deflator",
+      "opts": [
+        "A, B and C only",
+        "B, C and D only",
+        "A and D only",
+        "B and D only"
+      ],
+      "ans": 3,
+      "exp": "Consumer Price Index (CPI), Wholesale Price Index (WPI), and GDP Deflator are standard measures of price level changes."
+    },
+    {
+      "q": "Which activity is not an internal part of the value chain inside an integrated textile and apparel park?",
+      "opts": [
+        "Spinning and weaving",
+        "Garment processing",
+        "Agricultural cotton cultivation",
+        "Apparel designing"
+      ],
+      "ans": 2,
+      "exp": "Cotton farming is an agricultural (primary sector) activity external to manufacturing parks."
+    },
+    {
+      "q": "The dispersion of the textile value chain across disparate geographic clusters in India causes:",
+      "opts": [
+        "Excessively high logistics cost and longer lead times",
+        "Immediate export competitiveness",
+        "Complete vertical integration",
+        "Zero tariffs"
+      ],
+      "ans": 0,
+      "exp": "Geographic fragmentation in spinning, weaving, and apparel making raises freight costs and supply chain delays."
+    },
+    {
+      "q": "Assertion (A): Integrated mega textile parks can revitalize India's textile export performance.\nReason (R): The domestic value chain in yarn, fabrics, and readymades is geographically dispersed across the country.",
+      "opts": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+        "(A) is true but (R) is false",
+        "(A) is false but (R) is true"
+      ],
+      "ans": 0,
+      "exp": "Integrated mega parks provide end-to-end infrastructure, solving structural fragmentation and lowering transaction costs."
+    },
+    {
+      "q": "Match COP27 climate initiatives with their key objectives:\n(A) Mitigation - (i) Phase down unabated coal power\n(B) Climate Finance - (ii) Operationalizing Loss and Damage Fund\n(C) Technology - (iii) Deploying clean energy solutions\n(D) Capacity Building - (iv) Empowering regional stakeholders",
+      "opts": [
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(ii), (B)-(i), (C)-(iv), (D)-(iii)",
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(iv), (B)-(iii), (C)-(i), (D)-(ii)"
+      ],
+      "ans": 2,
+      "exp": "Mitigation cuts emissions; Climate finance created the Loss & Damage fund; Tech spreads green innovation; Capacity building empowers stakeholders."
+    },
+    {
+      "q": "Arrange the core industries in ascending order of their weightages in the Index of Eight Core Industries (ICI):\n(A) Cement (~5.37%)\n(B) Coal (~10.33%)\n(C) Steel (~17.92%)\n(D) Electricity (~19.85%)\n(E) Refinery Products (~28.04%)",
+      "opts": [
+        "A, B, C, D, E",
+        "B, A, C, D, E",
+        "A, B, D, C, E",
+        "E, D, C, B, A"
+      ],
+      "ans": 0,
+      "exp": "Weights: Cement (5.37%) < Coal (10.33%) < Steel (17.92%) < Electricity (19.85%) < Refinery Products (28.04%)."
+    },
+    {
+      "q": "Statement I: Over 25% of the total Indian population pays direct income tax.\nStatement II: India possesses the second-largest labour force in the world.",
+      "opts": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "ans": 3,
+      "exp": "Direct income taxpayers represent only 2-3% of India's population. India possesses one of the world's largest labour forces."
+    },
+    {
+      "q": "Which one of the following is not a supportive factor to India's long-term economic growth?",
+      "opts": [
+        "Demographic dividend",
+        "Expanding digital public infrastructure",
+        "Rapid urbanization",
+        "Continuously increasing unproductive defence and administrative expenditures"
+      ],
+      "ans": 3,
+      "exp": "High unproductive expenditure diverts capital from productive infrastructure and human development."
+    },
+    {
+      "q": "Statement I: In the 21st century, India has achieved an average GDP growth rate of 6-7%.\nStatement II: India emerged as one of the fastest-growing major global economies during 2014-2019.",
+      "opts": [
+        "Both Statement I and Statement II are correct",
+        "Both Statement I and Statement II are incorrect",
+        "Statement I is correct but Statement II is incorrect",
+        "Statement I is incorrect but Statement II is correct"
+      ],
+      "ans": 0,
+      "exp": "Both statements are historical macroeconomic facts regarding Indian GDP growth."
+    },
+    {
+      "q": "Assertion (A): Over 60% of India's GDP is driven by private final consumption expenditure.\nReason (R): India represents one of the largest consumer markets globally due to its vast population and growing middle class.",
+      "opts": [
+        "Both A and R are correct and R is the correct explanation of A",
+        "Both A and R are correct but R is not the correct explanation of A",
+        "A is correct but R is incorrect",
+        "Both A and R are incorrect"
+      ],
+      "ans": 1,
+      "exp": "Both statements are true facts, though demographic size alone does not automatically equate to high consumption expenditure without purchasing power."
+    },
+    {
+      "q": "Revenue expenditure of the Central Government includes:\n(A) Debt relief and interest payments\n(B) Subsidies on fertilizers and food\n(C) Grants given to State governments\n(D) Capital expenditure on bullet trains",
+      "opts": [
+        "A, B and D only",
+        "B, C and D only",
+        "A, C and D only",
+        "A, B and C only"
+      ],
+      "ans": 3,
+      "exp": "Interest payments, subsidies, and state grants are revenue expenses. Train asset creation is capital expenditure."
+    },
+    {
+      "q": "For consumers, which are the main areas of ethical and social responsibility concerns?\n(A) Product safety and non-hazardous design\n(B) Fair and non-exploitative pricing\n(C) Payment of fair wages to factory workers\n(D) Transparent disclosures and truthful information",
+      "opts": [
+        "C and D only",
+        "A, B and D only",
+        "A, C and D only",
+        "B, C and D only"
+      ],
+      "ans": 1,
+      "exp": "Direct consumer CSR concerns include product safety, fair pricing, and clear disclosures. Worker wages relate to employee responsibilities."
+    },
+    {
+      "q": "Which normative ethical theory determines the morality of an action based on 'the greatest net happiness or utility for the greatest number'?",
+      "opts": [
+        "Ethics of duty (Deontology)",
+        "Theory of justice",
+        "Stockholder theory",
+        "Utilitarianism"
+      ],
+      "ans": 3,
+      "exp": "Utilitarianism (Bentham, Mill) evaluates decisions entirely based on aggregate net positive consequences (utility)."
+    },
+    {
+      "q": "In political governance models, which of the following is NOT recognized as a classical form of totalitarianism/authoritarianism?",
+      "opts": [
+        "Theocratic totalitarianism",
+        "Right-wing / Fascist authoritarianism",
+        "Tribal totalitarianism",
+        "Constitutional conservatism"
+      ],
+      "ans": 3,
+      "exp": "Constitutional conservatism operates within democratic rule of law, unlike totalitarian regimes."
+    },
+    {
+      "q": "The utilitarian perspective on business ethics emphasizes:\n(A) Individual inalienable natural rights\n(B) Strict universal moral duties\n(C) Judging decisions solely by their outcomes or consequences\n(D) Encouraging efficiency and overall welfare optimization",
+      "opts": [
+        "A and B only",
+        "C and D only",
+        "B and C only",
+        "A and D only"
+      ],
+      "ans": 1,
+      "exp": "Utilitarian ethics is consequentialist and focuses on maximizing efficiency, welfare, and positive outcomes."
+    },
+    {
+      "q": "Published by the UNDP, the Human Development Index (HDI) measures achievements across which three core dimensions?",
+      "opts": [
+        "Standard of living, Income, and Occupation",
+        "Education, Occupation, and Health",
+        "Health (Life Expectancy), Education (Literacy), and Standard of Living (GNI per capita)",
+        "Poverty, Health, and Social Security"
+      ],
+      "ans": 2,
+      "exp": "The three HDI pillars are Life Expectancy at birth, Education (expected/mean schooling), and Gross National Income (GNI) per capita."
+    },
+    {
+      "q": "Sectarian or vote-bank directed welfare schemes can lead to:\n(A) Resource misallocation and market distortions\n(B) Growing fiscal deficits and crowding out of capital investments\n(C) Accelerated long-term industrial infrastructure",
+      "opts": [
+        "A and B only",
+        "B and C only",
+        "A and C only",
+        "C only"
+      ],
+      "ans": 0,
+      "exp": "Unfunded populist transfers strain public finances and distort market incentives without creating productive assets."
+    },
+    {
+      "q": "Competitive populism in public budgets often turns welfare into a:",
+      "opts": [
+        "Positive-sum game",
+        "Zero-sum / Negative-sum game",
+        "Capital formation accelerator",
+        "Self-sustaining economic cycle"
+      ],
+      "ans": 1,
+      "exp": "Competitive short-term giveaways consume fiscal headroom without creating productive capacity, acting as zero-sum transfers."
+    },
+    {
+      "q": "What was the medium-term Fiscal Deficit target budgeted by the Government of India for FY 2023-24?",
+      "opts": [
+        "4.5% of GDP",
+        "3.0% of GDP",
+        "5.9% of GDP",
+        "6.5% of GDP"
+      ],
+      "ans": 2,
+      "exp": "The Union Budget 2023-24 set the fiscal deficit target at 5.9% of GDP (aiming below 4.5% by 2025-26)."
+    },
+    {
+      "q": "Which of the following are true regarding technological innovations in business?\n(A) Most innovations are incremental rather than radical\n(B) Innovation involves the commercial utilization of new ideas\n(C) Innovation entails substantial financial and market risk\n(D) Domestic rivalry suppresses innovation",
+      "opts": [
+        "B, C and D only",
+        "A, C and D only",
+        "A, B and C only",
+        "A, B and D only"
+      ],
+      "ans": 2,
+      "exp": "Innovations are predominantly incremental, commercial in intent, and carry risk. Domestic rivalry stimulates (rather than suppresses) innovation."
+    },
+    {
+      "q": "Which of the following factors constitute the Economic Environment of a country?\n(A) Financial System\n(B) Socio-cultural environment\n(C) Economic Policies\n(D) Educational Environment\n(E) Structural Equilibrium",
+      "opts": [
+        "A, B and C only",
+        "A, C and E only",
+        "B, C and E only",
+        "C, D and E only"
+      ],
+      "ans": 1,
+      "exp": "Financial systems, fiscal/monetary policies, and economic structural stability form the economic environment."
+    },
+    {
+      "q": "Which of the following is NOT a part of the Micro Environment of a firm?",
+      "opts": [
+        "Suppliers",
+        "Customers",
+        "Competitors",
+        "Technology"
+      ],
+      "ans": 3,
+      "exp": "Technology is a macro-environmental force affecting entire industries broadly."
+    },
+    {
+      "q": "Which environment shapes the attitudes, values, and behavioral norms of human beings?",
+      "opts": [
+        "The Political Environment",
+        "The International Environment",
+        "The Socio-Cultural Environment",
+        "The Economic Environment"
+      ],
+      "ans": 2,
+      "exp": "The socio-cultural environment encompasses shared beliefs, values, customs, traditions, and societal lifestyles."
+    },
+    {
+      "q": "Which of the following is NOT a feature of a Capitalist economy?",
+      "opts": [
+        "Right of private property",
+        "Freedom of enterprise and consumer choice",
+        "Extensive government control and central planning of production",
+        "High level of market competition"
+      ],
+      "ans": 2,
+      "exp": "Central state planning and state ownership characterize socialist economies, not capitalism."
+    },
+    {
+      "q": "Who propounded the CSR philosophy: 'Wealth created from society has to be ploughed back into society'?",
+      "opts": [
+        "Milton Friedman",
+        "Henry Ford",
+        "Mahatma Gandhi",
+        "Kay and Silberston"
+      ],
+      "ans": 2,
+      "exp": "Mahatma Gandhi's Trusteeship model advocates that corporate wealth is held in trust for societal betterment."
+    },
+    {
+      "q": "Which of the following is NOT a characteristic feature of the Business Environment?",
+      "opts": [
+        "Complex",
+        "Dynamic",
+        "Multi-faceted",
+        "Static"
+      ],
+      "ans": 3,
+      "exp": "The business environment is constantly changing, uncertain, and volatile; it is never static."
+    },
+    {
+      "q": "In the PESTLE framework of environmental scanning, what does the letter 'L' represent?",
+      "opts": [
+        "Labour",
+        "Legal",
+        "Land",
+        "Logistics"
+      ],
+      "ans": 1,
+      "exp": "PESTLE stands for Political, Economic, Socio-Cultural, Technological, Legal, and Environmental factors."
+    },
+    {
+      "q": "Which of the following is NOT an element of the direct Micro Environment?",
+      "opts": [
+        "Customers",
+        "Suppliers",
+        "Technology",
+        "Competitors"
+      ],
+      "ans": 2,
+      "exp": "Technology is a macro environmental factor that impacts the wider market environment rather than direct transactional relationships."
+    }
+  ]
+}
