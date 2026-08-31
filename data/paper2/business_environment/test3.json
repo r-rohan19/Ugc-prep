@@ -1,0 +1,975 @@
+{
+  "subject": "P2_BE",
+  "topic": "Balance of Payments, Foreign Exchange & Risk Management",
+  "topicIcon": "💱",
+  "questions": [
+    {
+      "q": "Balance of Payments (BOP) of a country is a systematic record of:",
+      "opts": [
+        "All economic transactions between residents of the country and the rest of the world during a given period of time",
+        "Only export and import of visible physical goods",
+        "Only cross-border capital inflows and foreign direct investment",
+        "Government tax revenue and budgetary expenditures"
+      ],
+      "ans": 0,
+      "exp": "The Balance of Payments (BOP) is a comprehensive accounting statement summarizing all economic transactions between residents of a country and the rest of the world during a specific financial year."
+    },
+    {
+      "q": "The Current Account of Balance of Payments includes which of the following transactions?\n(i) Merchandise export and import (Visible Trade)\n(ii) Services export and import (Invisible Trade)\n(iii) Foreign Direct Investment (FDI)\n(iv) Unilateral transfers (Gifts, Remittances, Grants)\n(v) External Commercial Borrowings (ECB)",
+      "opts": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(iii) and (v) only",
+        "(i), (iii) and (v) only"
+      ],
+      "ans": 0,
+      "exp": "The Current Account records visible trade (goods), invisible trade (services), income flows (profits, dividends, interest), and unilateral transfers (gifts, remittances). FDI and ECB belong to the Capital Account."
+    },
+    {
+      "q": "The Capital Account of Balance of Payments comprises:\n(i) Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI)\n(ii) External Commercial Borrowings and NRI Deposits\n(iii) Banking capital and official loan assistance\n(iv) Net Factor Income from Abroad",
+      "opts": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "ans": 0,
+      "exp": "The Capital Account reflects changes in international assets and liabilities including FDI, FPI, external loans, commercial borrowings, and NRI bank accounts."
+    },
+    {
+      "q": "Which of the following is considered an autonomous transaction in the Balance of Payments?",
+      "opts": [
+        "Transactions undertaken for private economic considerations like profit maximization",
+        "Compensatory financing by the Central Bank to cover BOP deficit",
+        "Drawing on SDRs from the IMF to bridge reserve deficits",
+        "Official adjustments in foreign exchange reserves"
+      ],
+      "ans": 0,
+      "exp": "Autonomous items ('Above the Line' items) are international transactions made independently for individual profit motives, regardless of the overall BOP status."
+    },
+    {
+      "q": "Accommodating transactions in the Balance of Payments are also known as:",
+      "opts": [
+        "Above the line items",
+        "Below the line items",
+        "Autonomous capital movements",
+        "Commercial transfers"
+      ],
+      "ans": 1,
+      "exp": "Accommodating items ('Below the Line' items) are compensatory transactions undertaken by monetary authorities (central banks) to settle deficits or surpluses resulting from autonomous flows."
+    },
+    {
+      "q": "When does a country experience a deficit in its Balance of Payments?",
+      "opts": [
+        "When autonomous receipts are greater than autonomous payments",
+        "When autonomous payments exceed autonomous receipts",
+        "When total exports equal total imports",
+        "When the capital account balance is strictly zero"
+      ],
+      "ans": 1,
+      "exp": "A BOP deficit occurs when autonomous debits (payments to foreigners) exceed autonomous credits (receipts from foreigners), necessitating accommodating reserve drawdowns."
+    },
+    {
+      "q": "The 'J-Curve Effect' in international economics describes the phenomenon where following a currency devaluation/depreciation:",
+      "opts": [
+        "The trade balance immediately improves and then deteriorates permanently",
+        "The trade balance initially deteriorates before improving in the medium to long run",
+        "Domestic inflation drops to zero immediately",
+        "Foreign capital immediately flees the domestic financial market"
+      ],
+      "ans": 1,
+      "exp": "Due to short-run price rigidities and delivery contracts, import costs rise immediately while export volumes take time to expand, causing the trade balance to worsen initially (forming a 'J' shape) before improving."
+    },
+    {
+      "q": "According to the Marshall-Lerner Condition, currency devaluation will successfully improve a country's trade balance only if:",
+      "opts": [
+        "Sum of price elasticities of demand for exports and imports is greater than 1 ($|e_x + e_m| > 1$)",
+        "Sum of price elasticities of demand for exports and imports is equal to 1 ($|e_x + e_m| = 1$)",
+        "Sum of price elasticities of demand for exports and imports is less than 1 ($|e_x + e_m| < 1$)",
+        "Elasticity of demand for exports is zero"
+      ],
+      "ans": 0,
+      "exp": "The Marshall-Lerner condition states that devaluation/depreciation improves the balance of trade only if the sum of export and import demand elasticities exceeds unity ($e_x + e_m > 1$)."
+    },
+    {
+      "q": "Which type of foreign exchange exposure refers to the risk that existing contractual cash flows (receivables or payables denominated in foreign currency) will fluctuate due to unexpected exchange rate changes?",
+      "opts": [
+        "Translation / Accounting Exposure",
+        "Transaction Exposure",
+        "Operating / Economic Exposure",
+        "Political Exposure"
+      ],
+      "ans": 1,
+      "exp": "Transaction exposure measures the sensitivity of settled or pending contracted cash flows denominated in foreign currencies to unexpected exchange rate movements."
+    },
+    {
+      "q": "Translation Exposure (Accounting Exposure) arises from:",
+      "opts": [
+        "Converting day-to-day foreign trade invoices into cash",
+        "Consolidating the financial statements of foreign subsidiaries into the parent company's home currency",
+        "Long-term structural shifts in competitive market positioning",
+        "Physical changes in factory machinery"
+      ],
+      "ans": 1,
+      "exp": "Translation exposure is the accounting risk of consolidating financial statements (balance sheet and P&L) of foreign subsidiaries into the parent company's reporting currency."
+    },
+    {
+      "q": "Operating Exposure (Economic Exposure) measures the impact of unexpected exchange rate fluctuations on:",
+      "opts": [
+        "Current accounting book values of fixed assets",
+        "The present value of a firm's future operational cash flows and competitive market position",
+        "Immediate customs clearance duties on imported inputs",
+        "Short-term outstanding accounts payable only"
+      ],
+      "ans": 1,
+      "exp": "Operating (Economic) exposure reflects the long-term impact of exchange rate shifts on a firm's future operational cash flows, pricing power, sales volumes, and market competitiveness."
+    },
+    {
+      "q": "What is 'Leading' as an internal hedging strategy against foreign exchange risk?",
+      "opts": [
+        "Delaying the payment of foreign currency payables expecting currency depreciation",
+        "Advancing / accelerating the timing of foreign currency payments or collections before an anticipated currency devaluation or appreciation",
+        "Borrowing in domestic money markets to buy gold",
+        "Entering into an exchange-traded futures contract"
+      ],
+      "ans": 1,
+      "exp": "Leading involves paying foreign currency liabilities early before the foreign currency appreciates (or collecting foreign receivables early before the currency depreciates)."
+    },
+    {
+      "q": "What is 'Lagging' as an internal hedging technique?",
+      "opts": [
+        "Deliberately delaying the settlement of foreign currency payables or receivables to take advantage of expected favorable exchange rate movements",
+        "Paying all debts strictly on the invoice issue date",
+        "Matching assets and liabilities across unrelated third parties",
+        "Buying put options on foreign currency"
+      ],
+      "ans": 0,
+      "exp": "Lagging involves deliberately delaying collections or payments expecting exchange rate changes that will benefit the firm (e.g., delaying receipt if the foreign currency is appreciating)."
+    },
+    {
+      "q": "The internal risk management technique of consolidating and canceling out inter-company payments between multinational subsidiaries, leaving only the net balance to be transferred, is called:",
+      "opts": [
+        "Netting",
+        "Leading",
+        "Matching",
+        "Arbitrage"
+      ],
+      "ans": 0,
+      "exp": "Multilateral Netting consolidates intra-group cash flows across global affiliates to settle only the net remaining balances, drastically reducing transaction costs and forex exposure."
+    },
+    {
+      "q": "A 'Forward Contract' in the foreign exchange market is:",
+      "opts": [
+        "A standardized contract traded on recognized public stock exchanges with daily margin calls",
+        "A customized over-the-counter (OTC) agreement between two parties to buy/sell a currency at a specified price on a specified future date",
+        "An option contract providing the right but not the obligation to trade",
+        "A spot trade settled within two working days"
+      ],
+      "ans": 1,
+      "exp": "A Forward contract is an OTC, customized contractual agreement between two counterparties to exchange currencies at a fixed forward rate on an agreed future date."
+    },
+    {
+      "q": "The standard settlement period for a 'Spot' foreign exchange transaction is:",
+      "opts": [
+        "Same-day settlement (Value Today / Cash)",
+        "Settlement on the next business day (Value Tomorrow / Tom)",
+        "Settlement on the second business day after the trade date ($T+2$)",
+        "Settlement strictly after 30 business days"
+      ],
+      "ans": 2,
+      "exp": "In the global interbank foreign exchange market, standard spot settlement takes place on the second business day following the deal date ($T+2$)."
+    },
+    {
+      "q": "What is a 'Currency Swap' in international financial management?",
+      "opts": [
+        "A simultaneous spot purchase and forward sale (or spot sale and forward purchase) of a currency against another",
+        "The purchase of call options on gold bullion",
+        "A complete repudiation of foreign debt",
+        "The illegal exchange of currency notes at border checkpoints"
+      ],
+      "ans": 0,
+      "exp": "A FX/Currency swap entails simultaneously buying and selling equal amounts of a currency for two different settlement dates (e.g., spot buy combined with forward sell) to manage cash flows without taking open exchange risk."
+    },
+    {
+      "q": "The Purchasing Power Parity (PPP) Theory was developed in its modern systematic form by:",
+      "opts": [
+        "Gustav Cassel",
+        "Irving Fisher",
+        "John Maynard Keynes",
+        "Milton Friedman"
+      ],
+      "ans": 0,
+      "exp": "Swedish economist Gustav Cassel formalized the Purchasing Power Parity (PPP) theory in 1918, asserting that exchange rates adjust to equate the purchasing power of currencies."
+    },
+    {
+      "q": "The Law of One Price (LOOP), which underpins Purchasing Power Parity, states that:",
+      "opts": [
+        "In the absence of trade barriers and transportation costs, an identical commodity should sell for the same price everywhere when expressed in a common currency",
+        "All countries must impose identical uniform tariff rates",
+        "Interest rates across all central banks must be equal",
+        "Monopolists always charge identical prices across different consumer groups"
+      ],
+      "ans": 0,
+      "exp": "The Law of One Price states that friction-free international trade and commodity arbitrage ensure homogeneous goods command identical prices across nations after currency conversion."
+    },
+    {
+      "q": "According to the Relative Form of Purchasing Power Parity (Relative PPP), the percentage change in the exchange rate between two currencies over a period is approximately equal to:",
+      "opts": [
+        "The difference in inflation rates between the two countries",
+        "The difference in gross domestic product growth rates",
+        "The sum of their trade balances",
+        "The ratio of foreign direct investment inflows"
+      ],
+      "ans": 0,
+      "exp": "Relative PPP states: \\% \\Delta S \\approx \\pi_{\\text{domestic}} - \\pi_{\\text{foreign}}$, meaning the currency of the country with higher inflation will depreciate by an amount equal to the inflation differential."
+    },
+    {
+      "q": "The 'Fisher Effect' states that the nominal interest rate ($i$) in an economy equals:",
+      "opts": [
+        "Real interest rate ($r$) minus Expected inflation ($\\pi^e$)",
+        "Real interest rate ($r$) plus Expected inflation ($\\pi^e$)",
+        "Inflation rate multiplied by the exchange rate",
+        "Nominal GDP divided by the money supply"
+      ],
+      "ans": 1,
+      "exp": "Irving Fisher formulated that nominal interest rate incorporates real return and anticipated inflation: $i = r + \\pi^e$."
+    },
+    {
+      "q": "The 'International Fisher Effect' (IFE) hypothesizes that the expected percentage change in the spot exchange rate between two currencies is driven by:",
+      "opts": [
+        "The differential in nominal interest rates between the two countries",
+        "The differential in unemployment rates",
+        "Direct central bank foreign exchange market interventions",
+        "The difference in statutory corporate tax rates"
+      ],
+      "ans": 0,
+      "exp": "IFE combines the Fisher Effect and Relative PPP, asserting that currencies with higher nominal interest rates will depreciate relative to currencies with lower interest rates by the interest differential."
+    },
+    {
+      "q": "Interest Rate Parity (IRP) theory establishes that the forward premium or discount on a foreign currency equals:",
+      "opts": [
+        "The interest rate differential between the domestic and foreign financial markets",
+        "The difference between export duties and import quotas",
+        "The growth rate of gross national product",
+        "The absolute ratio of foreign exchange reserves held by central banks"
+      ],
+      "ans": 0,
+      "exp": "Covered Interest Rate Parity states that: $\\frac{F - S}{S} \\approx i_d - i_f$, equating the forward margin to the interest rate spread between two nations."
+    },
+    {
+      "q": "When an investor borrows in a low-interest-rate currency, converts it, and invests in high-yielding foreign financial assets without forward cover, the strategy is called a:",
+      "opts": [
+        "Currency Carry Trade",
+        "Covered Interest Arbitrage",
+        "Triangular Arbitrage",
+        "Locational Arbitrage"
+      ],
+      "ans": 0,
+      "exp": "A Carry Trade involves borrowing cheaply in a low-rate funding currency (e.g., Japanese Yen) and investing in a high-interest target asset (e.g., Indian Rupee) to capture the yield spread."
+    },
+    {
+      "q": "Simultaneously exploiting exchange rate discrepancies among three different currencies in the foreign exchange market to lock in riskless profit is known as:",
+      "opts": [
+        "Triangular Arbitrage",
+        "Locational Arbitrage",
+        "Covered Interest Arbitrage",
+        "Speculative Hedging"
+      ],
+      "ans": 0,
+      "exp": "Triangular arbitrage occurs when cross-exchange rates between three currencies are misaligned, enabling zero-risk profit by routing currency conversions through all three."
+    },
+    {
+      "q": "What is 'Locational Arbitrage' in the forex market?",
+      "opts": [
+        "Exploiting price differences for the same currency pair quoted across two different banks or locations",
+        "Borrowing in a tax haven to buy treasury bills",
+        "Trading cross-border stock options",
+        "Buying land in an export processing zone"
+      ],
+      "ans": 0,
+      "exp": "Locational arbitrage occurs when a single currency pair is priced differently by two banks/dealers at different locations, allowing simultaneous buying low at one and selling high at the other."
+    },
+    {
+      "q": "A European Currency Option differs from an American Currency Option in that the European option can be exercised:",
+      "opts": [
+        "Only at the exact expiration maturity date",
+        "At any time up to and including the expiration date",
+        "Only during European market trading hours",
+        "Exclusively in Swiss Francs or Euros"
+      ],
+      "ans": 0,
+      "exp": "European options can be exercised strictly on the expiration date, whereas American options can be exercised on any business day up to expiration."
+    },
+    {
+      "q": "A 'Call Option' on a foreign currency gives the buyer the:",
+      "opts": [
+        "Right, but not the obligation, to buy the specified currency at the strike price",
+        "Obligation to buy the specified currency at the prevailing spot rate",
+        "Right, but not the obligation, to sell the specified currency at the strike price",
+        "Obligation to deliver physical currency to the central bank"
+      ],
+      "ans": 0,
+      "exp": "A Call Option gives the holder the right (not obligation) to buy underlying currency at the strike price, protecting importers against currency appreciation."
+    },
+    {
+      "q": "A 'Put Option' on a foreign currency gives the holder the:",
+      "opts": [
+        "Right, but not the obligation, to sell the specified currency at the strike price",
+        "Right to buy the currency at zero price",
+        "Obligation to deliver sovereign gold bonds",
+        "Obligation to sell only at market spot rate"
+      ],
+      "ans": 0,
+      "exp": "A Put Option grants the right (not obligation) to sell currency at the strike price, protecting exporters against currency depreciation."
+    },
+    {
+      "q": "In a direct foreign exchange quote (e.g., $1 = ₹83.00$ in India):",
+      "opts": [
+        "The domestic currency is the variable price unit and the foreign currency is the fixed base unit",
+        "The foreign currency is the variable price unit and domestic currency is the fixed unit",
+        "Both currencies fluctuate against IMF Special Drawing Rights",
+        "No conversion rate is specified"
+      ],
+      "ans": 0,
+      "exp": "In a direct quotation, the price of 1 unit of foreign currency is quoted in terms of variable units of home currency ($1\\ \\text{Foreign Unit} = X\\ \\text{Home Currency Units}$)."
+    },
+    {
+      "q": "An indirect quotation in foreign exchange expresses:",
+      "opts": [
+        "The number of units of foreign currency required to purchase one unit of domestic currency",
+        "The units of local currency required to purchase one dollar",
+        "The price of bullion gold in London",
+        "The average bank lending rate"
+      ],
+      "ans": 0,
+      "exp": "An indirect quotation defines the number of foreign currency units received for 1 unit of domestic currency (e.g., $₹1 = \\$0.012$)."
+    },
+    {
+      "q": "The difference between the bank's Ask rate (selling price) and Bid rate (buying price) is termed the:",
+      "opts": [
+        "Bid-Ask Spread",
+        "Forward margin",
+        "Swap points",
+        "Risk premium"
+      ],
+      "ans": 0,
+      "exp": "The Bid-Ask Spread represents dealer/market maker compensation: $\\text{Spread} = \\text{Ask Price} - \\text{Bid Price}$."
+    },
+    {
+      "q": "When the forward exchange rate for a foreign currency is higher than its spot exchange rate, the foreign currency is said to be trading at a:",
+      "opts": [
+        "Forward Premium",
+        "Forward Discount",
+        "Spot Parity",
+        "Negative Spread"
+      ],
+      "ans": 0,
+      "exp": "If $F > S$, the foreign currency trades at a forward premium. If $F < S$, it trades at a forward discount."
+    },
+    {
+      "q": "Special Drawing Rights (SDRs) created by the IMF in 1969 are also popularly called:",
+      "opts": [
+        "Paper Gold",
+        "Eurocurrency",
+        "Petrodollars",
+        "Crypto Sovereign Bonds"
+      ],
+      "ans": 0,
+      "exp": "SDRs are supplementary international reserve assets created by the IMF, historically nicknamed 'Paper Gold'."
+    },
+    {
+      "q": "Which of the following five currencies currently constitute the IMF Special Drawing Right (SDR) valuation basket?",
+      "opts": [
+        "US Dollar, Euro, Chinese Renminbi, Japanese Yen, British Pound Sterling",
+        "US Dollar, Euro, Indian Rupee, Russian Ruble, Japanese Yen",
+        "US Dollar, Swiss Franc, Euro, British Pound, Canadian Dollar",
+        "US Dollar, Euro, Australian Dollar, Japanese Yen, Gold"
+      ],
+      "ans": 0,
+      "exp": "The SDR basket consists of 5 currencies: US Dollar, Euro, Chinese Renminbi (included in 2016), Japanese Yen, and British Pound Sterling."
+    },
+    {
+      "q": "Under the Bretton Woods International Monetary System (1944-1971), currencies were pegged to:",
+      "opts": [
+        "The US Dollar, which in turn was convertible into gold at $35 per ounce",
+        "A basket of British Pound and French Franc",
+        "SDRs issued by the World Bank",
+        "Floating free market supply and demand"
+      ],
+      "ans": 0,
+      "exp": "Bretton Woods was an adjustable peg Gold-Exchange Standard where currencies were pegged to the US Dollar, and the US Dollar was fixed to gold at $35/ounce."
+    },
+    {
+      "q": "The Bretton Woods fixed exchange rate system collapsed in 1971 following the:",
+      "opts": [
+        "Nixon Shock (suspension of gold convertibility of the US Dollar)",
+        "Asian Financial Crisis",
+        "Establishment of the European Central Bank",
+        "Dissolution of the Soviet Union"
+      ],
+      "ans": 0,
+      "exp": "In August 1971, US President Richard Nixon unilaterally announced the suspension of the US dollar's convertibility into gold, ending the Bretton Woods par value system."
+    },
+    {
+      "q": "The Plaza Accord of September 1985 was a joint agreement among G-5 nations aimed at:",
+      "opts": [
+        "Depreciating the heavily overvalued US Dollar against the Japanese Yen and German Deutsche Mark",
+        "Banning the issuance of Eurobonds",
+        "Re-establishing the Gold Standard",
+        "Fixing global oil prices"
+      ],
+      "ans": 0,
+      "exp": "The 1985 Plaza Accord (US, UK, France, West Germany, Japan) orchestrated concerted central bank currency market interventions to depreciate the overvalued US dollar."
+    },
+    {
+      "q": "The Louvre Accord signed in February 1987 aimed to:",
+      "opts": [
+        "Halt the continuous decline of the US Dollar and stabilize international exchange rates around prevailing levels",
+        "Dissolve the International Monetary Fund",
+        "Create the North American Free Trade Area",
+        "Mandate uniform interest rates across Europe"
+      ],
+      "ans": 0,
+      "exp": "The Louvre Accord brought G-6 nations together to halt the steep post-Plaza dollar depreciation and stabilize exchange rates."
+    },
+    {
+      "q": "The 'Impossible Trinity' (Trilemma) in international macroeconomics states that a country cannot simultaneously maintain:",
+      "opts": [
+        "Fixed exchange rate, Free capital movement, and Independent monetary policy",
+        "High economic growth, Zero unemployment, and Low inflation",
+        "Budget surplus, Trade surplus, and Free trade agreements",
+        "Direct taxes, Indirect taxes, and Subsidies"
+      ],
+      "ans": 0,
+      "exp": "The Mundell-Fleming Trilemma proves that a sovereign country can choose only two of the following three: (1) Fixed exchange rate, (2) Open capital account, (3) Autonomous monetary policy."
+    },
+    {
+      "q": "A 'Money Market Hedge' against a foreign currency account payable involves:",
+      "opts": [
+        "Borrowing in the domestic currency, converting to foreign currency at the spot rate, and investing in a foreign money market instrument until the payment date",
+        "Buying put options on currency futures",
+        "Asking the supplier to waive invoice payments",
+        "Lending domestic currency to the World Bank"
+      ],
+      "ans": 0,
+      "exp": "A Money Market Hedge for a payable entails borrowing domestic funds, converting at the spot rate, and placing funds in foreign money markets so principal plus interest precisely matches the payable at maturity."
+    },
+    {
+      "q": "A 'Money Market Hedge' against a foreign currency account receivable entails:",
+      "opts": [
+        "Borrowing foreign currency today, converting it into domestic currency at the spot rate, and repaying the foreign loan with the receivable proceeds upon collection",
+        "Entering into a cross-currency interest swap",
+        "Buying call options at a discount",
+        "Refusing overseas customers credit terms"
+      ],
+      "ans": 0,
+      "exp": "For a receivable, the firm borrows the discounted present value in foreign currency, converts to domestic cash at the spot rate, and settles the foreign debt with the invoice proceeds."
+    },
+    {
+      "q": "In a Currency Futures contract, mark-to-market settlement takes place:",
+      "opts": [
+        "On a daily basis through the exchange clearing house",
+        "Strictly once a year",
+        "Only at maturity",
+        "At the discretion of the commercial bank dealer"
+      ],
+      "ans": 0,
+      "exp": "Exchange-traded futures contracts are marked-to-market daily, with daily margin adjustments settling gains and losses."
+    },
+    {
+      "q": "What is the key structural difference between a Currency Forward Contract and a Currency Futures Contract?",
+      "opts": [
+        "Forwards are customized OTC contracts with default risk; Futures are standardized exchange-traded contracts with clearinghouse guarantees",
+        "Forwards trade only on public stock exchanges; Futures are negotiated over the counter",
+        "Forwards require daily margin; Futures require zero collateral",
+        "There is no difference between them"
+      ],
+      "ans": 0,
+      "exp": "Forward contracts are customized, unstandardized OTC instruments with counterparty risk, whereas Futures are standardized, exchange-traded, and settled through central clearing houses."
+    },
+    {
+      "q": "Which type of BOP disequilibrium occurs due to regular swings and phases in the global trade business cycle (boom, recession, depression, recovery)?",
+      "opts": [
+        "Cyclical Disequilibrium",
+        "Secular Disequilibrium",
+        "Structural Disequilibrium",
+        "Accidental Disequilibrium"
+      ],
+      "ans": 0,
+      "exp": "Cyclical disequilibrium is caused by periodic phases of the business cycle that alter relative national income and demand for imports/exports."
+    },
+    {
+      "q": "Structural Disequilibrium in the Balance of Payments is caused by:",
+      "opts": [
+        "Fundamental shifts in consumer demand, technological obsolescence, depletion of natural resources, or changes in factor supplies",
+        "Temporary harvest failures in agriculture",
+        "Quarterly shifts in central bank interest rates",
+        "Day-to-day speculation by forex traders"
+      ],
+      "ans": 0,
+      "exp": "Structural disequilibrium arises from deep structural changes in the economy, including shifts in domestic/foreign demand, production methods, or trade patterns."
+    },
+    {
+      "q": "Secular (Long-term) Disequilibrium in the Balance of Payments usually occurs due to:",
+      "opts": [
+        "Long-term developmental trends where a developing country consistently imports heavy capital goods during its initial growth phases",
+        "Sudden seasonal crop losses",
+        "Weekly fluctuations in commodity futures",
+        "Currency note demonetization"
+      ],
+      "ans": 0,
+      "exp": "Secular disequilibrium occurs over extended developmental horizons as developing countries invest heavily in foreign capital and technology, running persistent current account deficits."
+    },
+    {
+      "q": "Monetary measures to correct an adverse Balance of Payments deficit include:\n(i) Currency Devaluation / Depreciation\n(ii) Monetary Contraction / Deflation (Interest rate hikes)\n(iii) Foreign Exchange Control\n(iv) Imposing Import Quotas and Tariffs",
+      "opts": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "ans": 0,
+      "exp": "Devaluation, monetary deflation, and exchange control are monetary mechanisms. Tariffs and import quotas are non-monetary trade policy tools."
+    },
+    {
+      "q": "Non-monetary measures for correcting a Balance of Payments deficit include:\n(i) Import tariffs and custom duties\n(ii) Import quotas and licensing\n(iii) Export promotion subsidies and tax incentives\n(iv) Domestic currency devaluation",
+      "opts": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "ans": 0,
+      "exp": "Import duties, quotas, and export incentives are non-monetary trade instruments. Devaluation is a monetary policy measure."
+    },
+    {
+      "q": "An 'Expenditure-Switching' policy to address a BOP deficit is designed to:",
+      "opts": [
+        "Switch domestic and foreign demand away from foreign imports toward domestically produced goods (e.g., via devaluation or tariffs)",
+        "Reduce aggregate national income and employment",
+        "Directly transfer tax revenue to foreign banks",
+        "Switch from public education to military spending"
+      ],
+      "ans": 0,
+      "exp": "Expenditure-switching policies (such as currency devaluation or import tariffs) alter relative prices to redirect spending from foreign imports to home goods."
+    },
+    {
+      "q": "An 'Expenditure-Reducing' policy to correct a BOP deficit operates by:",
+      "opts": [
+        "Using tight fiscal and contractionary monetary policies to dampen aggregate national spending and income, thereby reducing import demand",
+        "Increasing government subsidies on luxury consumption",
+        "Printing extra fiat currency notes",
+        "Encouraging consumer credit expansion"
+      ],
+      "ans": 0,
+      "exp": "Expenditure-reducing policies utilize higher taxation, reduced government outlays, and higher interest rates to lower domestic aggregate demand and import consumption."
+    },
+    {
+      "q": "What is the 'Balancing Item' (Errors and Omissions) in the Balance of Payments accounting statement?",
+      "opts": [
+        "A statistical adjustment entry ensuring that the overall credit and debit sides of the double-entry BOP statement strictly balance to zero",
+        "The total value of gold held in the state treasury",
+        "The net dividend declared by public enterprises",
+        "A special loan facility provided by the IMF"
+      ],
+      "ans": 0,
+      "exp": "Due to timing differences, incomplete data, and multiple reporting sources, errors and omissions are entered as a balancing item so total BOP credits equal debits."
+    },
+    {
+      "q": "Under India's foreign exchange regulatory architecture, Full Convertibility exists on which BOP account?",
+      "opts": [
+        "Current Account",
+        "Capital Account",
+        "Official Gold Reserves Account",
+        "Sovereign Debt Repudiation Account"
+      ],
+      "ans": 0,
+      "exp": "India accepted IMF Article VIII obligations in August 1994, establishing full current account convertibility, while capital account convertibility remains partial."
+    },
+    {
+      "q": "The committee that recommended a phased roadmap toward Full Capital Account Convertibility (CAC) in India was chaired by:",
+      "opts": [
+        "S.S. Tarapore",
+        "C. Rangarajan",
+        "M. Narasimham",
+        "Y.V. Reddy"
+      ],
+      "ans": 0,
+      "exp": "The Committee on Capital Account Convertibility (1997 and 2006) was chaired by former RBI Deputy Governor S.S. Tarapore."
+    },
+    {
+      "q": "Which of the following pre-conditions were emphasized by the Tarapore Committee for achieving Full Capital Account Convertibility in India?\n(i) Reduction of Gross Fiscal Deficit to sustainable levels (below 3.5% of GDP)\n(ii) Mandated inflation target within 3-5%\n(iii) Reduction of Gross NPAs in the banking system to below 5%\n(iv) Adequate foreign exchange reserves cushion",
+      "opts": [
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "ans": 0,
+      "exp": "The Tarapore Committee established four core preconditions: fiscal consolidation, inflation moderation, financial sector strengthening (low NPAs), and comfortable forex reserve cover."
+    },
+    {
+      "q": "In the Balance of Payments, if merchandise exports are ₹50,000 crores and merchandise imports are ₹65,000 crores, the Balance of Trade is:",
+      "opts": [
+        "Deficit of ₹15,000 crores",
+        "Surplus of ₹15,000 crores",
+        "Deficit of ₹1,15,000 crores",
+        "Surplus of ₹50,000 crores"
+      ],
+      "ans": 0,
+      "exp": "Balance of Trade = Visible Exports (₹50,000 Cr) - Visible Imports (₹65,000 Cr) = -₹15,000 Cr (Deficit of ₹15,000 crores)."
+    },
+    {
+      "q": "A 'Clean Float' (Pure Floating Exchange Rate System) is characterized by:",
+      "opts": [
+        "Exchange rates determined purely by market demand and supply forces with zero central bank intervention",
+        "Exchange rates pegged permanently to the price of silver",
+        "Periodic secret interventions by central banks to create artificial undervalued rates",
+        "Fixed rates adjustable only by parliamentary approval"
+      ],
+      "ans": 0,
+      "exp": "In a clean float, currency values fluctuate strictly according to free market forces without central bank intervention."
+    },
+    {
+      "q": "A 'Managed Float' (Dirty Float) exchange rate regime refers to a system where:",
+      "opts": [
+        "Exchange rates are largely market-driven, but the central bank intervenes periodically to curb excessive short-term volatility",
+        "The exchange rate is legally fixed to gold with zero market flexibility",
+        "Only public enterprises are allowed to buy foreign currencies",
+        "The currency value changes only once every ten years"
+      ],
+      "ans": 0,
+      "exp": "In a managed (dirty) float, exchange rates fluctuate based on market forces, but central banks intervene (buying/selling reserves) to smooth out destabilizing volatility."
+    },
+    {
+      "q": "What is a 'Crawling Peg' exchange rate system?",
+      "opts": [
+        "A system where the exchange rate is periodically adjusted in small, pre-announced increments to reflect inflation differentials",
+        "A rigid gold standard without paper notes",
+        "A system with completely random currency changes every minute",
+        "A currency fixed forever to the IMF SDR basket"
+      ],
+      "ans": 0,
+      "exp": "Under a crawling peg, the par value of a currency is adjusted routinely by small percentages based on inflation differentials or economic indicators."
+    },
+    {
+      "q": "In international finance, a 'Eurodollar' refers to:",
+      "opts": [
+        "US Dollar-denominated deposits held in banks outside the United States",
+        "The official common currency used by the Eurozone countries",
+        "US Dollars minted physically in Brussels",
+        "A special loan instrument issued by the European Investment Bank"
+      ],
+      "ans": 0,
+      "exp": "Eurodollars are US dollar-denominated deposits held in commercial banks located outside the United States (in Europe or elsewhere)."
+    },
+    {
+      "q": "A 'Eurobond' is defined as a bond that is:",
+      "opts": [
+        "Issued outside the jurisdiction of the country in whose currency the bond is denominated (e.g., USD bond issued in London)",
+        "Denominated only in Euros and sold only inside France",
+        "Issued by the IMF to finance developing nations",
+        "Issued by national central banks exclusively for municipal infrastructure"
+      ],
+      "ans": 0,
+      "exp": "A Eurobond is an international bond underwritten by an international syndicate and issued in a currency other than the domestic currency of the country where it is issued."
+    },
+    {
+      "q": "A 'Foreign Bond' is a bond:",
+      "opts": [
+        "Issued by a foreign borrower in a host country's domestic capital market, denominated in the host country's currency (e.g., Yankee Bond, Samurai Bond)",
+        "Denominated in SDRs and traded in multiple overseas markets",
+        "Issued by a national government exclusively to international charity trusts",
+        "Guaranteed directly by the United Nations"
+      ],
+      "ans": 0,
+      "exp": "Foreign bonds are issued by foreign entities in a domestic market in the local currency (e.g., Yankee bonds in the US in USD, Samurai bonds in Japan in Yen)."
+    },
+    {
+      "q": "Match the following Foreign Bonds with their Country of Issuance:\n(a) Yankee Bond - (i) United Kingdom (GBP)\n(b) Samurai Bond - (ii) United States (USD)\n(c) Bulldog Bond - (iii) Japan (JPY)\n(d) Masala Bond - (iv) Overseas bond denominated in Indian Rupee (INR)",
+      "opts": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "ans": 0,
+      "exp": "Yankee -> US (USD); Samurai -> Japan (Yen); Bulldog -> UK (Pounds); Masala -> Overseas Rupee-denominated bond."
+    },
+    {
+      "q": "A Masala Bond is an investment bond issued in overseas capital markets that is denominated in:",
+      "opts": [
+        "Indian Rupees (INR), where the currency exchange risk is borne by the overseas investor",
+        "US Dollars (USD), where the exchange risk is borne by the Indian issuing company",
+        "British Pound Sterling exclusively",
+        "IMF Special Drawing Rights"
+      ],
+      "ans": 0,
+      "exp": "Masala bonds are INR-denominated bonds issued in overseas markets. Because returns and principal are paid in Rupees, currency risk lies with foreign investors."
+    },
+    {
+      "q": "What is 'Natural Hedging' in foreign exchange risk management?",
+      "opts": [
+        "Structuring a firm's operational cash inflows and outflows in the same foreign currency so they offset each other organically",
+        "Planting trees to offset carbon tax liabilities",
+        "Using gold bullion to pay for imported oil",
+        "Purchasing rainfall weather derivatives"
+      ],
+      "ans": 0,
+      "exp": "Natural hedging matches operational foreign currency revenues with expenses in the same currency (e.g., using Euro export receipts to pay Euro supplier costs)."
+    },
+    {
+      "q": "What is 'Parallel Loan' (Back-to-Back Loan)?",
+      "opts": [
+        "An arrangement where two parent firms in different countries borrow funds in their respective home currencies and lend them to each other's subsidiaries",
+        "Borrowing from two local commercial banks on the same day",
+        "Taking an educational loan along with a housing mortgage",
+        "A joint venture with dual bank underwriting"
+      ],
+      "ans": 0,
+      "exp": "A parallel/back-to-back loan involves two corporate parents in different countries borrowing in local currency and lending to the other's local subsidiary, avoiding direct forex exposure."
+    },
+    {
+      "q": "In the foreign exchange market, an 'Outright Forward' is:",
+      "opts": [
+        "A standalone forward trade that is not combined with a simultaneous spot transaction",
+        "A forward transaction combined with a spot trade",
+        "A forward contract that never expires",
+        "A transaction settled immediately within 2 hours"
+      ],
+      "ans": 0,
+      "exp": "An outright forward is a forward currency contract executed independently (not as part of a swap)."
+    },
+    {
+      "q": "Which theory suggests that the forward exchange rate is an unbiased predictor of the future spot exchange rate?",
+      "opts": [
+        "Unbiased Forward Rate Hypothesis (UFRH)",
+        "Absolute Purchasing Power Parity",
+        "Classical Balance of Trade Theory",
+        "Monopolistic Advantage Model"
+      ],
+      "ans": 0,
+      "exp": "The Unbiased Forward Rate Hypothesis posits that in efficient forex markets, the forward rate equals the expected future spot exchange rate."
+    },
+    {
+      "q": "When a domestic currency's value increases relative to a foreign currency under a floating exchange rate system, the phenomenon is called:",
+      "opts": [
+        "Currency Appreciation",
+        "Currency Revaluation",
+        "Currency Devaluation",
+        "Currency Depreciation"
+      ],
+      "ans": 0,
+      "exp": "Under a market-determined floating regime, an increase in currency value is 'Appreciation'. Under a pegged/fixed regime, it is 'Revaluation'."
+    },
+    {
+      "q": "A deliberate, official upward adjustment of a fixed/pegged exchange rate by a country's monetary authority is termed:",
+      "opts": [
+        "Revaluation",
+        "Appreciation",
+        "Devaluation",
+        "Depreciation"
+      ],
+      "ans": 0,
+      "exp": "An official government increase in the pegged exchange rate of its currency is 'Revaluation'. A decrease is 'Devaluation'."
+    },
+    {
+      "q": "Which of the following creates an immediate demand for foreign currency in India's foreign exchange market?",
+      "opts": [
+        "An Indian company importing machinery from Germany",
+        "An American tourist visiting Jaipur and exchanging USD for INR",
+        "Foreign investors buying shares on the National Stock Exchange (NSE)",
+        "Indian software companies receiving payments in US Dollars"
+      ],
+      "ans": 0,
+      "exp": "Importing foreign capital equipment requires Indian buyers to purchase foreign currency (Euros/USD) to pay foreign suppliers, creating forex demand."
+    },
+    {
+      "q": "Which of the following creates a supply of foreign exchange in India?",
+      "opts": [
+        "Indian exports of IT software services to the United States",
+        "Indian students paying tuition fees to UK universities",
+        "An Indian resident traveling to France for leisure",
+        "Government of India repaying external commercial debt"
+      ],
+      "ans": 0,
+      "exp": "IT export services generate foreign currency inflows (USD/Euros) converted into INR, supplying foreign exchange to the domestic market."
+    },
+    {
+      "q": "In the Balance of Payments, remittances sent home by Indian workers residing in the Gulf countries are recorded under:",
+      "opts": [
+        "Current Account - Unilateral Transfers (Invisible Receipts)",
+        "Capital Account - External Commercial Borrowings",
+        "Capital Account - Foreign Direct Investment",
+        "Official Reserves Account"
+      ],
+      "ans": 0,
+      "exp": "Worker remittances are private transfers (unilateral transfers with no direct quid pro quo) credited under Invisible Receipts on the Current Account."
+    },
+    {
+      "q": "When a foreign entity acquires 10% or more of voting equity shares in an Indian enterprise with long-term managerial control, the transaction is recorded as:",
+      "opts": [
+        "Foreign Direct Investment (FDI) in Capital Account",
+        "Foreign Portfolio Investment (FPI) in Current Account",
+        "Unilateral Grant in Invisible Current Account",
+        "Commercial Banking Loan"
+      ],
+      "ans": 0,
+      "exp": "Acquisition of 10% or more equity with lasting management interest is classified as Foreign Direct Investment (FDI) on the Capital Account."
+    },
+    {
+      "q": "Foreign Portfolio Investment (FPI) involves:",
+      "opts": [
+        "Passive investment in foreign equity shares and debt securities without active management control",
+        "Building new manufacturing factories from scratch",
+        "Entering into 50-year turnkey construction contracts",
+        "Directly appointing the board of directors of foreign firms"
+      ],
+      "ans": 0,
+      "exp": "FPI represents financial portfolio holdings (shares, bonds, commercial paper) seeking capital gains/dividends without active managerial control."
+    },
+    {
+      "q": "A persistently huge Current Account Deficit (CAD) financed primarily through volatile short-term portfolio inflows (hot money) makes an economy vulnerable to:",
+      "opts": [
+        "Sudden capital flight and sharp currency depreciation crisis",
+        "Instant elimination of national public debt",
+        "Permanent zero interest rate regimes",
+        "Surplus domestic tax revenues"
+      ],
+      "ans": 0,
+      "exp": "Financing CAD with short-term FPI leaves the economy vulnerable to sudden reversals (capital flight), which can trigger foreign exchange crises."
+    },
+    {
+      "q": "What is 'Covered Interest Arbitrage'?",
+      "opts": [
+        "Exploiting the interest rate differential between two countries while eliminating foreign exchange risk using a forward contract",
+        "Speculating on spot currency movements without hedging",
+        "Borrowing from the IMF at zero interest rate",
+        "Investing only in domestic municipal bonds"
+      ],
+      "ans": 0,
+      "exp": "Covered interest arbitrage shifts funds to higher-yielding foreign assets while eliminating exchange risk by locking in forward exchange contracts."
+    },
+    {
+      "q": "According to the Absorption Approach to Balance of Payments (developed by Sidney Alexander), the balance of payments ($B$) equals:",
+      "opts": [
+        "Total Domestic Output ($Y$) minus Total Domestic Absorption ($A$) [$B = Y - A$]",
+        "Total Imports minus Total Exports",
+        "Nominal Money Supply multiplied by Velocity",
+        "Real GDP divided by population"
+      ],
+      "ans": 0,
+      "exp": "Sidney Alexander's Absorption Approach states: $B = Y - A$, where $B$ is net trade balance, $Y$ is total national output, and $A$ is domestic absorption ($C + I + G$)."
+    },
+    {
+      "q": "Under the Monetary Approach to Balance of Payments, a BOP deficit is fundamentally a result of:",
+      "opts": [
+        "An excess domestic supply of money relative to money demand ($M_s > M_d$)",
+        "An excess demand for money relative to supply",
+        "Strict balance in the central bank budget",
+        "Tariff adjustments by trading partners"
+      ],
+      "ans": 0,
+      "exp": "The Monetary Approach (Frenkel, Johnson) posits that BOP disequilibria are monetary phenomena; excess money supply leaks abroad, causing BOP deficits."
+    },
+    {
+      "q": "Match List-I with List-II:\n(A) Balance of Payments Current Account - (i) Inflow and outflow of capital\n(B) Balance of Payments Capital Account - (ii) International transactions of goods and services\n(C) Balance of Trade - (iii) Import and export of visible goods only\n(D) Balancing Item - (iv) Statistical entry for net errors and omissions",
+      "opts": [
+        "(A)-(ii), (B)-(i), (C)-(iii), (D)-(iv)",
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(iii), (B)-(ii), (C)-(iv), (D)-(i)",
+        "(A)-(iv), (B)-(iii), (C)-(i), (D)-(ii)"
+      ],
+      "ans": 0,
+      "exp": "Current A/C -> Goods & Services; Capital A/C -> Capital movements; Balance of Trade -> Visible goods only; Balancing item -> Errors & Omissions."
+    },
+    {
+      "q": "The Gold Standard mechanism where trade imbalances were automatically corrected through gold flows and price changes was known as the:",
+      "opts": [
+        "Price-Specie-Flow Mechanism (David Hume)",
+        "J-Curve Mechanism",
+        "Crawling Peg Mechanism",
+        "Marshall-Lerner Rule"
+      ],
+      "ans": 0,
+      "exp": "David Hume's Price-Specie-Flow mechanism explained how trade surpluses caused gold inflows, raising domestic prices and naturally rebalancing trade."
+    },
+    {
+      "q": "What is the primary function of the Foreign Exchange Management Act (FEMA), 1999 in India?",
+      "opts": [
+        "To facilitate external trade and payments and promote the orderly development and maintenance of the foreign exchange market in India",
+        "To impose strict criminal penalties and imprisonment for any minor procedural delay",
+        "To ban all foreign companies from investing in India",
+        "To fix the Indian Rupee permanently to the US Dollar"
+      ],
+      "ans": 0,
+      "exp": "FEMA replaced FERA in 1999, shifting focus from criminalized regulation to civil facilitation of external trade, cross-border investments, and orderly forex markets."
+    },
+    {
+      "q": "Which of the following best defines an 'Authorized Dealer' (AD) under FEMA, 1999?",
+      "opts": [
+        "An authorized bank, money changer, or financial institution licensed by the Reserve Bank of India (RBI) to deal in foreign exchange",
+        "A customs official posted at an international airport",
+        "A private corporate exporter of engineering goods",
+        "A member of the WTO Dispute Settlement Body"
+      ],
+      "ans": 0,
+      "exp": "Under FEMA, an Authorized Dealer is an entity officially licensed by the RBI to trade and deal in foreign exchange securities and currencies."
+    },
+    {
+      "q": "The purchase of a call option along with the simultaneous purchase of a put option at the same strike price and maturity is known in derivatives trading as a:",
+      "opts": [
+        "Straddle",
+        "Strangle",
+        "Collar",
+        "Bull Spread"
+      ],
+      "ans": 0,
+      "exp": "A Long Straddle involves buying both a call and a put option with the same strike price and expiration date, profiting from large currency price swings in either direction."
+    },
+    {
+      "q": "A hedging technique where a firm buys an out-of-the-money put option while simultaneously selling an out-of-the-money call option to reduce premium costs is called a:",
+      "opts": [
+        "Currency Collar (Cylinder)",
+        "Straddle",
+        "Butterfly Spread",
+        "Covered Forward"
+      ],
+      "ans": 0,
+      "exp": "A Currency Collar establishes a protective floor and a capped ceiling by pairing a put option purchase with a call option sale, minimizing net premium outlay."
+    },
+    {
+      "q": "When exchange rates adjust so that identical investment returns are earned across currencies after factoring in forward hedging, the market is in:",
+      "opts": [
+        "Covered Interest Parity Equilibrium",
+        "Structural Disequilibrium",
+        "Dynamic Arbitrage Divergence",
+        "Speculative Bubble"
+      ],
+      "ans": 0,
+      "exp": "When Covered Interest Parity (CIP) holds, interest rate differentials exactly equal the forward premium/discount, eliminating covered arbitrage profit."
+    },
+    {
+      "q": "Which of the following accounts for the largest share in India's invisible export receipts?",
+      "opts": [
+        "Software and Information Technology (IT) enabled services",
+        "International shipping freight earnings",
+        "Royalties on foreign cinema distribution",
+        "Interest receipts on foreign government bonds"
+      ],
+      "ans": 0,
+      "exp": "Software services and IT-enabled services (BPO/KPO) represent the single largest surplus component in India's invisible receipts."
+    },
+    {
+      "q": "In national income accounting for an open economy, the current account balance ($CA$) is fundamentally equal to:",
+      "opts": [
+        "National Savings ($S$) minus Domestic Investment ($I$) [$CA = S - I$]",
+        "Gross Domestic Product minus Government Debt",
+        "Total Tax Revenue plus Foreign Exchange Reserves",
+        "Total Import Tariffs multiplied by Export Subsidies"
+      ],
+      "ans": 0,
+      "exp": "From national income identities: $Y = C + I + G + (X - M)$. Since Savings $S = Y - C - G$, rearranging gives: $CA = (X - M) = S - I$."
+    }
+  ]
+}
