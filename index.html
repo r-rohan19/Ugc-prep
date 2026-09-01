@@ -177,9 +177,183 @@ textarea.fi{resize:vertical;min-height:64px}
 .pd.sk{background:#fef3c7;color:#92400e}.pd.cur{background:#009FFF;color:#fff}
 .qcard{background:#fff;border-radius:14px;padding:18px 15px;box-shadow:var(--sh);margin-bottom:11px}
 .qsrc{font-size:10px;font-weight:700;color:var(--t3);text-transform:uppercase;letter-spacing:.7px;margin-bottom:7px}
-.qtext{font-size:16px;font-weight:700;line-height:1.65;margin-bottom:16px}
+
+/* ── REFINED QUESTION DISPLAY & STATEMENT FORMATTING ── */
+.qtext, .rev-q {
+  font-size: 15px;
+  line-height: 1.55;
+  margin-bottom: 16px;
+  color: var(--t1);
+}
+.q-main-prompt {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  color: var(--t1);
+}
+
+/* Statement Group for Question Items (Points A, B, C / i, ii, iii) */
+.q-stmt-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin: 8px 0 12px;
+}
+.q-card-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  background: var(--s2);
+  border: 1px solid var(--bd);
+  border-left: 3.5px solid #009FFF;
+  padding: 7px 11px;
+  border-radius: 7px;
+  font-size: 13.5px;
+  line-height: 1.45;
+  font-weight: 600;
+  color: var(--t1);
+  word-break: break-word;
+}
+.q-card-item.assertion {
+  border-left-color: #FF512F;
+  background: #fff8f6;
+  margin-bottom: 6px;
+}
+.q-card-item.reason {
+  border-left-color: #8E44AD;
+  background: #fbf6ff;
+  margin-bottom: 6px;
+}
+.q-card-item.stmt {
+  border-left-color: #F09819;
+  background: #fffaf0;
+  margin-bottom: 6px;
+}
+.q-card-item.sub {
+  border-left-color: #5c6b8a;
+  background: #f8fafc;
+}
+
+.q-badge {
+  color: #fff;
+  font-size: 10.5px;
+  font-weight: 800;
+  padding: 2px 7px;
+  border-radius: 4px;
+  flex-shrink: 0;
+  display: inline-block;
+  line-height: 1.25;
+  margin-top: 1px;
+}
+.q-badge.assertion { background: #FF512F; }
+.q-badge.reason { background: #8E44AD; }
+.q-badge.stmt { background: #F09819; }
+.q-badge.sub { background: #44446a; }
+
+.q-card-text {
+  flex: 1;
+}
+
+.q-section-header {
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--t2);
+  text-transform: uppercase;
+  letter-spacing: .6px;
+  margin: 10px 0 4px;
+  padding: 3px 7px;
+  background: var(--s3);
+  border-radius: 4px;
+  display: inline-block;
+}
+.q-conclusion {
+  font-weight: 800;
+  font-size: 13.5px;
+  color: var(--t2);
+  margin-top: 10px;
+  margin-bottom: 4px;
+  padding-top: 6px;
+  border-top: 1px dashed var(--bd);
+}
+
+/* ── 2-COLUMN MATCH THE FOLLOWING GRID ── */
+.match-box {
+  margin: 10px 0 14px;
+  background: var(--s2);
+  border: 1.5px solid var(--bd);
+  border-radius: 12px;
+  overflow: hidden;
+}
+.match-header-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background: var(--s3);
+  padding: 8px 10px;
+  border-bottom: 1.5px solid var(--bd);
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--t2);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.match-header-row div:first-child {
+  border-right: 1px dashed var(--bd);
+  padding-right: 8px;
+}
+.match-header-row div:last-child {
+  padding-left: 8px;
+}
+.match-list {
+  display: flex;
+  flex-direction: column;
+}
+.match-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--bd);
+  font-size: 13px;
+  line-height: 1.4;
+  font-weight: 600;
+  color: var(--t1);
+}
+.match-row:last-child {
+  border-bottom: none;
+}
+.m-col-left {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+  border-right: 1px dashed var(--bd);
+  padding-right: 8px;
+  word-break: break-word;
+}
+.m-col-right {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+  padding-left: 8px;
+  word-break: break-word;
+}
+.m-badge {
+  background: #009FFF;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 800;
+  padding: 2px 6px;
+  border-radius: 4px;
+  flex-shrink: 0;
+  margin-top: 1px;
+  line-height: 1.25;
+}
+.m-badge.r {
+  background: #8E44AD;
+}
+
+/* OPTIONS (Clickable Answers) */
 .opts{display:flex;flex-direction:column;gap:8px}
-.opt{display:flex;align-items:center;gap:11px;padding:12px 13px;border-radius:11px;border:2px solid var(--bd);background:var(--s3);cursor:pointer;font-family:inherit;font-size:14px;font-weight:600;transition:all .13s;width:100%;text-align:left;color:var(--t1)}
+.opt{display:flex;align-items:center;gap:11px;padding:12px 13px;border-radius:11px;border:2px solid var(--bd);background:var(--s3);cursor:pointer;font-family:inherit;font-size:14px;font-weight:600;line-height:1.45;transition:all .13s;width:100%;text-align:left;color:var(--t1);word-break:break-word}
 .opt:hover:not(:disabled){border-color:#009FFF;background:#e8f4ff}
 .opt.ok{border-color:var(--ok);background:#f0fdf4;color:#166534}
 .opt.er{border-color:var(--er);background:#fef2f2;color:#991b1b}
@@ -210,7 +384,6 @@ textarea.fi{resize:vertical;min-height:64px}
 .racts .btn{flex:1;justify-content:center;min-width:0;font-size:12px;padding:10px 8px}
 
 .rev-card { background: #fff; border-radius: 12px; padding: 14px; box-shadow: var(--sh); font-size: 13px; }
-.rev-q { font-weight: 800; margin-bottom: 8px; color: var(--t1); line-height: 1.5; }
 .rev-opt { padding: 8px 10px; border-radius: 8px; margin-bottom: 5px; border: 1px solid var(--bd); background: var(--s3); }
 .rev-opt.ok { background: #dcfce7; border-color: var(--ok); color: #166534; font-weight: 700; }
 .rev-opt.er { background: #fee2e2; border-color: var(--er); color: #991b1b; }
@@ -418,7 +591,7 @@ textarea.fi{resize:vertical;min-height:64px}
         <button class="btn btnS" onclick="retrySame()">↩ Next Test</button>
       </div>
       
-      <!-- NEW REVIEW SECTION -->
+      <!-- REVIEW SECTION -->
       <div class="sec" style="margin-top: 24px;"><span class="rg">Scroll to Review Answers</span></div>
       <div id="reviewBox" style="display:flex; flex-direction:column; gap:10px; padding-bottom: 20px;"></div>
     </div>
@@ -538,7 +711,7 @@ let BQ = {
 };
 
 // ════════════════════════════════════
-// NEW FEATURE: SMART AUTO-FETCH LOOP (TEST1, TEST2...)
+// SMART AUTO-FETCH LOOP (TEST1, TEST2...)
 // ════════════════════════════════════
 const subjectsList = [
   // ─── PAPER 1 (GENERAL) ───
@@ -595,7 +768,7 @@ async function loadExternalData() {
           }
           testNum++; // Agar test1 mil gaya, toh ab test2 check karo
         } else {
-          // Agar file nahi mili (jaise test3 nahi hai), toh loop break kardo aur agle subject par jao
+          // Agar file nahi mili, agle subject par jao
           keepChecking = false; 
         }
       } catch (error) {
@@ -644,8 +817,6 @@ window.addEventListener('DOMContentLoaded', () => {
   checkSession();
   loadExternalData(); 
 });
-// ════════════════════════════════════
-
 
 // ════════════════════════════════════
 // STORAGE HELPERS
@@ -660,8 +831,8 @@ const KEYS = { USERS:'ugc_u', CTOPICS:'ugc_ct', CUSTOMQ:'ugc_cq', SESSION:'ugc_s
 // GEMINI AI HELPERS
 // ════════════════════════════════════
 async function callGemini(prompt, isJson = false) {
-  const apiKey = ""; // Canvas provides this automatically
-  const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
+  const apiKey = ""; // Execution environment provides this
+  const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${apiKey}`;
   
   const payload = {
     contents: [{ parts: [{ text: prompt }] }]
@@ -720,6 +891,121 @@ function checkSession() {
   if (sessionUser && sessionUser.email) {
     bootApp(sessionUser);
   }
+}
+
+// ════════════════════════════════════
+// FIXED QUESTION TEXT FORMATTER (UGC NET SPECIAL + 2-COL MATCH GRID)
+// ════════════════════════════════════
+function formatQuestionText(text) {
+  if (!text) return '';
+  let str = String(text).trim();
+
+  // 1. Normalize inline Assertion and Reason
+  str = str.replace(/([^\n])\s*(Assertion\s*(?:\([A-Z]\)|[A-Z]):?)/gi, '$1\n$2');
+  str = str.replace(/([^\n])\s*((?:Reason|Reasoning)\s*(?:\([A-Z]\)|[A-Z]):?)/gi, '$1\n$2');
+  
+  // 2. Normalize inline Statement I, Statement II, Statement (I)
+  str = str.replace(/([^\n])\s*(Statement\s*(?:\([I|V|X|0-9]+\)|[I|V|X|0-9]+):?)/gi, '$1\n$2');
+
+  // 3. Normalize concluding questions / sequence instructions
+  str = str.replace(/([^\n])\s*(The correct (?:sequence|code|answer|option|order) is:?|Which of the above (?:statements? )?(?:is|are) (?:correct|true|false|not true|incorrect)\??|Indicate the (?:correct|right) sequence:?|Choose the correct (?:answer|code|option):?)/gi, '$1\n$2');
+
+  const lines = str.split('\n').map(l => l.trim()).filter(Boolean);
+  
+  let html = '';
+  let inStmtList = false;
+  let matchPairs = [];
+
+  function flushMatchPairs() {
+    if (matchPairs.length === 0) return '';
+    let mHtml = '<div class="match-box">';
+    mHtml += '<div class="match-header-row"><div>List / Set I</div><div>List / Set II</div></div>';
+    mHtml += '<div class="match-list">';
+    matchPairs.forEach(p => {
+      mHtml += `<div class="match-row">
+        <div class="m-col-left"><span class="m-badge">${p.lb}</span><span>${p.lt}</span></div>
+        <div class="m-col-right"><span class="m-badge r">${p.rb}</span><span>${p.rt}</span></div>
+      </div>`;
+    });
+    mHtml += '</div></div>';
+    matchPairs = [];
+    return mHtml;
+  }
+
+  lines.forEach((line) => {
+    // Regex to detect "A. Trade - (i) Meaning" OR "(i) Trade - 1. Meaning" OR "A. Trade : i. Meaning"
+    const matchRegex = /^(\(?[A-Ha-h0-9ivxIVX]+\)?\.?)\s*(.+?)\s*[-–—:=]\s*(\(?[A-Ha-h0-9ivxIVX]+\)?\.?)\s*(.+)$/i;
+    const isMatchLine = line.match(matchRegex);
+
+    if (isMatchLine) {
+      if (inStmtList) { html += '</div>'; inStmtList = false; }
+      const lb = isMatchLine[1].replace(/[\(\)\.]/g, '').trim().toUpperCase();
+      const lt = isMatchLine[2].trim();
+      const rb = isMatchLine[3].replace(/[\(\)\.]/g, '').trim().toUpperCase();
+      const rt = isMatchLine[4].trim();
+      matchPairs.push({ lb, lt, rb, rt });
+      return;
+    }
+
+    // Flush any pending match pairs when hitting non-match line
+    if (matchPairs.length > 0) {
+      html += flushMatchPairs();
+    }
+
+    // Assertion Check
+    if (/^Assertion\s*(?:\([A-Z]\)|[A-Z]):?/i.test(line)) {
+      if (inStmtList) { html += '</div>'; inStmtList = false; }
+      const match = line.match(/^Assertion\s*(?:\([A-Z]\)|[A-Z]):?\s*/i);
+      const label = match ? match[0].replace(/:$/, '').trim() : 'Assertion (A)';
+      const content = line.replace(/^Assertion\s*(?:\([A-Z]\)|[A-Z]):?\s*/i, '');
+      html += `<div class="q-card-item assertion"><span class="q-badge assertion">${label}</span><span class="q-card-text">${content}</span></div>`;
+    }
+    // Reason Check
+    else if (/^(?:Reason|Reasoning)\s*(?:\([A-Z]\)|[A-Z]):?/i.test(line)) {
+      if (inStmtList) { html += '</div>'; inStmtList = false; }
+      const match = line.match(/^(?:Reason|Reasoning)\s*(?:\([A-Z]\)|[A-Z]):?\s*/i);
+      const label = match ? match[0].replace(/:$/, '').trim() : 'Reason (R)';
+      const content = line.replace(/^(?:Reason|Reasoning)\s*(?:\([A-Z]\)|[A-Z]):?\s*/i, '');
+      html += `<div class="q-card-item reason"><span class="q-badge reason">${label}</span><span class="q-card-text">${content}</span></div>`;
+    }
+    // Statement I / II Check
+    else if (/^Statement\s*(?:\([I|V|X|0-9]+\)|[I|V|X|0-9]+):?/i.test(line)) {
+      if (inStmtList) { html += '</div>'; inStmtList = false; }
+      const match = line.match(/^Statement\s*(?:\([I|V|X|0-9]+\)|[I|V|X|0-9]+):?/i);
+      const label = match ? match[0].replace(/:$/, '').trim() : 'Statement';
+      const content = line.replace(/^Statement\s*(?:\([I|V|X|0-9]+\)|[I|V|X|0-9]+):?\s*/i, '');
+      html += `<div class="q-card-item stmt"><span class="q-badge stmt">${label}</span><span class="q-card-text">${content}</span></div>`;
+    }
+    // List header check
+    else if (/^(?:List\s*[-–—]?\s*[I|1|II|2]+:?|Set\s*[-–—]?\s*[I|1|II|2]+:?)$/i.test(line)) {
+      if (inStmtList) { html += '</div>'; inStmtList = false; }
+      // Match grid headers handle list titles cleanly
+    }
+    // Sub-items Check: (a), (b), (i), (ii), 1., 2., A., B., a. etc.
+    else if (/^(\([a-zA-Z0-9ivxIVX]+\)|[a-zA-Z0-9ivxIVX]+\.)\s+/i.test(line)) {
+      if (!inStmtList) { html += '<div class="q-stmt-group">'; inStmtList = true; }
+      const match = line.match(/^(\([a-zA-Z0-9ivxIVX]+\)|[a-zA-Z0-9ivxIVX]+\.)\s+/i);
+      const badge = match ? match[1].replace(/[\(\)\.]/g, '').toUpperCase() : '•';
+      const content = line.replace(/^(\([a-zA-Z0-9ivxIVX]+\)|[a-zA-Z0-9ivxIVX]+\.)\s+/i, '');
+      html += `<div class="q-card-item sub"><span class="q-badge sub">${badge}</span><span class="q-card-text">${content}</span></div>`;
+    }
+    // Conclusion / Final instruction line
+    else if (/^(The correct (?:sequence|code|answer|option|order) is:?|Which of the above|Indicate the (?:correct|right) sequence|Choose the correct)/i.test(line)) {
+      if (inStmtList) { html += '</div>'; inStmtList = false; }
+      html += `<div class="q-conclusion">${line}</div>`;
+    }
+    // Default Main Heading Prompt
+    else {
+      if (inStmtList) { html += '</div>'; inStmtList = false; }
+      html += `<div class="q-main-prompt">${line}</div>`;
+    }
+  });
+
+  if (matchPairs.length > 0) {
+    html += flushMatchPairs();
+  }
+  if (inStmtList) { html += '</div>'; }
+  return html;
 }
 
 // ════════════════════════════════════
@@ -1121,7 +1407,10 @@ function renderQ() {
   document.getElementById('qFill').style.width = `${(n/total)*100}%`;
   document.getElementById('qTag').textContent = q._subject||q._topicName||QZ.label;
   document.getElementById('qSrc').textContent = q._src==='custom'?'✏️ Custom':'📚 Standard';
-  document.getElementById('qText').textContent = q.q;
+  
+  // Format question text using UGC NET structure parser & 2-column match grid
+  document.getElementById('qText').innerHTML = formatQuestionText(q.q);
+  
   document.getElementById('expBox').textContent = '';
   document.getElementById('expBox').classList.remove('on');
   QZ.answered = false;
@@ -1232,7 +1521,7 @@ function endQuiz() {
   document.getElementById('rS').textContent=QZ.skipped;
   document.getElementById('rRetryW').disabled = QZ.wrongLog.length===0;
 
-  // GENERATE REVIEW HTML
+  // GENERATE REVIEW HTML WITH STRUCTURED FORMATTER
   let revHtml = QZ.qs.map((q, i) => {
     let optsHtml = q.opts.map((opt, oi) => {
       let cls = '';
@@ -1246,7 +1535,7 @@ function endQuiz() {
     
     return `<div class="rev-card">
       <div style="font-size:11px; font-weight:800; color:${statCol}; margin-bottom:4px;">Q${i+1} - ${stat}</div>
-      <div class="rev-q">${q.q}</div>
+      <div class="rev-q">${formatQuestionText(q.q)}</div>
       ${optsHtml}
       ${q.exp ? `<div class="rev-exp">💡 <b>Exp:</b> ${q.exp}</div>` : ''}
     </div>`;
