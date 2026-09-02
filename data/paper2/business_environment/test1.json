@@ -26,7 +26,7 @@
       "exp": "Business is primarily an economic activity directed towards producing or acquiring wealth through buying and selling goods and services."
     },
     {
-      "q": "Match the following components of Business Environment (June 2011):\nA. Economic environment - (i) EXIM policy\nB. Social environment - (iii) Social values\nC. Political environment - (ii) Customs\nD. Legal environment - (iv) Business Law and Banking Act\n\nChoose the correct code:",
+      "q": "Match the following components of Business Environment (June 2011):\nA. Economic environment - (i) EXIM policy\nB. Social environment - (ii) Customs\nC. Political environment - (iii) Social values\nD. Legal environment - (iv) Business Law and Banking Act\n\nChoose the correct code:",
       "opts": [
         "(A)-(i), (B)-(iii), (C)-(ii), (D)-(iv)",
         "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)",
@@ -34,7 +34,7 @@
         "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)"
       ],
       "ans": 0,
-      "exp": "Economic environment includes EXIM policy; Social includes social values; Political includes customs/traditions context; Legal includes business & banking acts."
+      "exp": "Economic environment includes EXIM policy (i); Social includes social values (iii); Political includes customs/traditions context (ii); Legal includes business laws and banking acts (iv)."
     },
     {
       "q": "'The Age of Discontinuity' (1969) has been authored by:",
@@ -466,7 +466,7 @@
       "exp": "Post-1991 reforms, export share, FDI inflows, and forex reserves expanded significantly, while agriculture's relative percentage share in GDP declined."
     },
     {
-      "q": "Match the items given in List-I and List-II (June 2014):\nA. Economic liberalization - (iv) Increased competition\nB. Outsourcing - (i) IT-enabled services\nC. Corporate frauds - (ii) SFIO\nD. Second generation reforms - (iii) Macro economic stability\n\nChoose the correct code:",
+      "q": "Match the items given in List-I and List-II (June 2014):\nA. Economic liberalization - (i) IT-enabled services\nB. Outsourcing - (ii) SFIO\nC. Corporate frauds - (iii) Macro economic stability\nD. Second generation reforms - (iv) Increased competition\n\nChoose the correct code:",
       "opts": [
         "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
         "(A)-(i), (B)-(iii), (C)-(ii), (D)-(iv)",
@@ -474,7 +474,7 @@
         "(A)-(iv), (B)-(i), (C)-(ii), (D)-(iii)"
       ],
       "ans": 3,
-      "exp": "Liberalization created market competition; ITES led outsourcing growth; Serious Fraud Investigation Office (SFIO) tackles corporate frauds; 2nd gen reforms drive macroeconomic stability."
+      "exp": "Liberalization created market competition (iv); ITES led outsourcing growth (i); SFIO tackles corporate frauds (ii); 2nd generation reforms drive macroeconomic stability (iii)."
     },
     {
       "q": "Which of the following statements are true in context of Consumer Protection Act, 2019?\n(a) The Act proposes the establishment of the Central Consumer Protection Authority (CCPA) to promote, protect and enforce the rights of consumers.\n(b) The Act seeks to be more holistic with stricter rules, including jail term for unfair trade practices like adulteration and misleading ads by firms. The Act is determined to initiate class action, including enforcing recall, refund and return of products.\n(c) The consumers can now file complaints at any district or state Consumer Commission closest to them instead of travelling to the location where the service were sold.\n(d) All of the above",
@@ -532,7 +532,7 @@
       "exp": "Fiscal Deficit (total expenditure minus non-debt receipts) forms the largest deficit component, representing total government borrowing needs."
     },
     {
-      "q": "Match the following legislations with the year of their enactment:\nA. Industries (Development and Regulation) Act - (ii) 1951\nB. Foreign Exchange Management Act - (iii) 1999\nC. Securities Exchange Board Of India Act - (iv) 1992\nD. Monopolies and Restrictive Trade Practices Act - (i) 1969\n\nChoose the correct code:",
+      "q": "Match the following legislations with the year of their enactment:\nA. Industries (Development and Regulation) Act - (i) 1969\nB. Foreign Exchange Management Act - (ii) 1951\nC. Securities Exchange Board Of India Act - (iii) 1999\nD. Monopolies and Restrictive Trade Practices Act - (iv) 1992\n\nChoose the correct code:",
       "opts": [
         "(A)-(i), (B)-(iii), (C)-(iv), (D)-(ii)",
         "(A)-(i), (B)-(iv), (C)-(iii), (D)-(ii)",
@@ -540,7 +540,7 @@
         "(A)-(ii), (B)-(iii), (C)-(i), (D)-(iv)"
       ],
       "ans": 2,
-      "exp": "IDRA was enacted in 1951, FEMA in 1999, SEBI Act in 1992, and MRTP Act in 1969."
+      "exp": "IDRA was enacted in 1951 (ii), FEMA in 1999 (iii), SEBI Act in 1992 (iv), and MRTP Act in 1969 (i)."
     },
     {
       "q": "Which of the following is not an instrument of monetary policy?",
@@ -576,11 +576,11 @@
       "exp": "Call money market is the inter-bank market for borrowing and lending funds on overnight/short-notice basis."
     },
     {
-      "q": "Consider the following statements:\n1. Fiat money has no intrinsic value, while the legal tender is any currency declared legal by a government.\n2. Government can issue fiat currency and make it legal tender by setting it as the standard for debt repayment?\n\nWhich of the statements given above is/are correct?",
+      "q": "Consider the following statements:\nStatement I: Fiat money has no intrinsic value, while legal tender is any currency declared legal by a government.\nStatement II: Government can issue fiat currency and make it legal tender by setting it as the standard for debt repayment.\n\nWhich of the statements given above is/are correct?",
       "opts": [
-        "1 and 2",
-        "2 only",
-        "1 only",
+        "1 and 2 are correct",
+        "2 only is correct",
+        "1 only is correct",
         "Neither 1 nor 2"
       ],
       "ans": 0,
@@ -609,7 +609,7 @@
       "exp": "The 1991 policy dismantled protectionist walls, significantly exposing Indian industry to foreign trade and global competition."
     },
     {
-      "q": "Match the items of List-I with those in List-II and select the correct answer:\nA. Bank Rate Policy - (iii) Involving the alteration of discount rate\nB. Credit Rationing - (i) Involving the shortening of the currency of bills eligible for rediscount\nC. Variable Reserve System - (iv) Involving the variation of the minimum reserve\nD. Open Market Operations - (ii) Involving the purchase and sale of securities in the open market\n\nChoose the correct code:",
+      "q": "Match the items of List-I with those in List-II and select the correct answer:\nA. Bank Rate Policy - (i) Involving the shortening of the currency of bills eligible for rediscount\nB. Credit Rationing - (ii) Involving the purchase and sale of securities in the open market\nC. Variable Reserve System - (iii) Involving the alteration of discount rate\nD. Open Market Operations - (iv) Involving the variation of the minimum reserve\n\nChoose the correct code:",
       "opts": [
         "(A)-(i), (B)-(iv), (C)-(ii), (D)-(iii)",
         "(A)-(ii), (B)-(i), (C)-(iii), (D)-(iv)",
@@ -617,7 +617,7 @@
         "(A)-(iii), (B)-(i), (C)-(iv), (D)-(ii)"
       ],
       "ans": 3,
-      "exp": "Bank rate alters the rediscounting rate; Credit rationing restricts bill maturities; Variable reserves alter CRR/SLR; OMO buys/sells government securities."
+      "exp": "Bank rate alters the rediscounting rate (iii); Credit rationing restricts bill maturities (i); Variable reserves alter minimum reserve requirements (iv); OMO buys/sells government securities (ii)."
     },
     {
       "q": "Which one is not an element of legal environment? (June 2012)",
@@ -642,7 +642,7 @@
       "exp": "Reserve Bank of India (RBI) functions as the banker, financial agent, and economic adviser to the Government of India."
     },
     {
-      "q": "Match the items of List-I with the items of List-II (December 2013):\nA. National Manufacturing Competitiveness Council (NMCC) - (iii) The Competition Act, 2002\nB. National Investment Fund (NIF) - (iv) Public Sector Undertakings\nC. The Industries (Development and Regulation) Act (IDRA), 1951 - (i) Industrial Licensing Policy\nD. Increase in Employment - (ii) Eleventh Five Year Plan\n\nChoose the correct code:",
+      "q": "Match the items of List-I with the items of List-II (December 2013):\nA. National Manufacturing Competitiveness Council (NMCC) - (i) Industrial Licensing Policy\nB. National Investment Fund (NIF) - (ii) Eleventh Five Year Plan\nC. The Industries (Development and Regulation) Act (IDRA), 1951 - (iii) The Competition Act, 2002\nD. Increase in Employment - (iv) Public Sector Undertakings\n\nChoose the correct code:",
       "opts": [
         "(A)-(iv), (B)-(i), (C)-(ii), (D)-(iii)",
         "(A)-(iii), (B)-(iv), (C)-(i), (D)-(ii)",
@@ -650,7 +650,7 @@
         "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)"
       ],
       "ans": 1,
-      "exp": "NIF receives PSU disinvestment proceeds; IDRA 1951 managed industrial licensing; 11th Five Year plan emphasized inclusive growth and job generation."
+      "exp": "NMCC corresponds to competitiveness/competition (iii); NIF manages PSU disinvestment proceeds (iv); IDRA 1951 managed industrial licensing (i); 11th Five Year Plan focused on job growth (ii)."
     },
     {
       "q": "Which of the following are outside the scope of the Consumer Protection Act, 1986?",
@@ -675,7 +675,7 @@
       "exp": "In Keynesian liquidity preference theory, higher demand for fixed money supply pushes the interest rate upward."
     },
     {
-      "q": "Match items of List-I with List-II relating to macro environment of business (November 2017):\nA. Economic environment - (ii) Trade and transport policies\nB. Political and government environment - (iv) Judiciary powers\nC. Socio-cultural environment - (i) Ethical issues\nD. Demographic environment - (iii) Economic stratification of population\n\nChoose the correct code:",
+      "q": "Match items of List-I with List-II relating to macro environment of business (November 2017):\nA. Economic environment - (i) Ethical issues\nB. Political and government environment - (ii) Trade and transport policies\nC. Socio-cultural environment - (iii) Economic stratification of population\nD. Demographic environment - (iv) Judiciary powers\n\nChoose the correct code:",
       "opts": [
         "(A)-(ii), (B)-(iv), (C)-(i), (D)-(iii)",
         "(A)-(i), (B)-(iii), (C)-(ii), (D)-(iv)",
@@ -683,7 +683,7 @@
         "(A)-(iii), (B)-(i), (C)-(iv), (D)-(ii)"
       ],
       "ans": 0,
-      "exp": "Trade policies relate to Economic; Judiciary powers to Political/Legal; Ethical issues to Socio-Cultural; Population structure to Demographic."
+      "exp": "Economic relates to Trade & transport policies (ii); Political/govt relates to Judiciary powers (iv); Socio-cultural relates to Ethical issues (i); Demographic relates to Population stratification (iii)."
     },
     {
       "q": "Which of the following types of risk can be attributed to macro variables and is usually beyond the control of the business?",
@@ -730,7 +730,7 @@
       "exp": "External financing covers foreign borrowings/grants rather than just being equated simply to the net trade balance."
     },
     {
-      "q": "Match the items of List-I with List-II and indicate the correct answer code:\nA. Micro external environment - (iii) Input suppliers\nB. Macro external environment - (i) Economic and political factors\nC. Non-price competition - (iv) Sponsoring of events like sports\nD. Desire competition - (ii) Competition among diverse products targeting disposable income of consumers\n\nChoose the correct code:",
+      "q": "Match the items of List-I with List-II and indicate the correct answer code:\nA. Micro external environment - (i) Economic and political factors\nB. Macro external environment - (ii) Competition among diverse products targeting disposable income of consumers\nC. Non-price competition - (iii) Input suppliers\nD. Desire competition - (iv) Sponsoring of events like sports\n\nChoose the correct code:",
       "opts": [
         "(A)-(iii), (B)-(i), (C)-(iv), (D)-(ii)",
         "(A)-(ii), (B)-(iii), (C)-(iv), (D)-(i)",
@@ -738,7 +738,7 @@
         "(A)-(iv), (B)-(i), (C)-(ii), (D)-(iii)"
       ],
       "ans": 0,
-      "exp": "Suppliers = Micro; Macro = Economic/Political; Sports sponsoring = Non-price marketing; Desire competition = competing for consumer wallet share."
+      "exp": "Micro environment: Suppliers (iii); Macro environment: Economic and political factors (i); Non-price competition: Sponsoring events (iv); Desire competition: Competing for disposable income (ii)."
     },
     {
       "q": "Which among the following is not a correct sequential combination?",
@@ -763,15 +763,15 @@
       "exp": "In macroeconomic circular flow, equilibrium requires Injections (Investment + Govt Spend + Exports) to equal Leakages (Savings + Tax + Imports)."
     },
     {
-      "q": "Match the items of List-I with the items of List-II and select the correct answer:\nA. Political and Legal Environment - (ii) Close relationship with the economic system and economic policy\nB. Demographic Environment - (iv) Occupational and spatial mobilities of population having implications for business\nC. Economic Environment - (i) Important for industries directly depending on imports or exports\nD. Geographical and Ecological Environment - (iii) Related to natural resources\n\nChoose the correct code:",
+      "q": "Match the items of List-I with the items of List-II and select the correct answer:\nA. Political and Legal Environment - (i) Important for industries directly depending on imports or exports\nB. Demographic Environment - (ii) Close relationship with the economic system and economic policy\nC. Economic Environment - (iii) Related to natural resources\nD. Geographical and Ecological Environment - (iv) Occupational and spatial mobilities of population having implications for business\n\nChoose the correct code:",
       "opts": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
-        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+        "(A)-(ii), (B)-(iv), (C)-(iii), (D)-(i)",
+        "(A)-(ii), (B)-(iv), (C)-(i), (D)-(iii)",
+        "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
+        "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)"
       ],
       "ans": 1,
-      "exp": "Demographic environment studies population trends; Ecology relates to natural resources; Political-legal determines economic policy framework."
+      "exp": "Political-legal relates to economic policy (ii); Demographic relates to population mobilities (iv); Economic relates to trade/industry (i); Ecological relates to natural resources (iii)."
     },
     {
       "q": "This theory maintains that exchange rates will tend towards the point at which their international purchasing power is equal. What is this called?",
@@ -1071,7 +1071,7 @@
       "exp": "The 1991 reforms removed public sector monopoly and dismantled the doctrine of PSU domination over commanding heights."
     },
     {
-      "q": "Match the items of Column-I with those of Column-II:\nA. Exchange control - (ii) Domestic firms\nB. Price control - (iii) Mass consumption product\nC. Import control - (i) Adverse BOP\nD. Legislative control - (iv) Industrial location\n\nChoose the correct code:",
+      "q": "Match the items of Column-I with those of Column-II:\nA. Exchange control - (i) Adverse BOP\nB. Price control - (ii) Domestic firms\nC. Import control - (iii) Mass consumption product\nD. Legislative control - (iv) Industrial location\n\nChoose the correct code:",
       "opts": [
         "(A)-(ii), (B)-(i), (C)-(iii), (D)-(iv)",
         "(A)-(iv), (B)-(ii), (C)-(iii), (D)-(i)",
@@ -1079,7 +1079,7 @@
         "(A)-(ii), (B)-(iii), (C)-(i), (D)-(iv)"
       ],
       "ans": 3,
-      "exp": "Exchange control regulates foreign exchange; Price control protects mass goods; Import control manages trade deficit and protects domestic industries."
+      "exp": "Exchange control regulates foreign exchange for domestic firms (ii); Price control protects mass goods (iii); Import control manages trade deficit / adverse BOP (i); Legislative control dictates industrial location rules (iv)."
     },
     {
       "q": "For the following statements of Assertion (A) and Reason (R), indicate the correct code:\nAssertion (A): Liberalization means corporatization of departmental undertakings and public sector undertakings.\nReason (R): In a broad perspective, liberalisation means freedom to public sector undertakings to access capital market.\n\nChoose the correct code:",
@@ -1115,11 +1115,11 @@
       "exp": "All five points represent essential economic objectives of fiscal policy in developing nations."
     },
     {
-      "q": "Consider the following statements:\n(a) Fiscal policy is composed of policy decisions relating to entire financial structure of the government including tax revenue, public expenditures, loans, transfers, debt management, budgetary deficit, etc. that is taken care of by Ministry of Finance.\n(b) The objective of monetary policy is to ample liquidity in the market so that price stability and economic growth are taken care of.\n(c) Both a and b\n(d) None of the above",
+      "q": "Consider the following statements:\nStatement I: Fiscal policy is composed of policy decisions relating to the entire financial structure of the government including tax revenue, public expenditures, loans, transfers, debt management, and budgetary deficit.\nStatement II: The objective of monetary policy is to manage ample liquidity in the market so that price stability and economic growth are achieved.\n\nChoose the correct code:",
       "opts": [
-        "Statement (a) only",
-        "Statement (b) only",
-        "Both a and b",
+        "Statement I is correct only",
+        "Statement II is correct only",
+        "Both Statement I and Statement II are correct",
         "None of the above"
       ],
       "ans": 2,
@@ -1181,7 +1181,7 @@
       "exp": "GDP = C (Consumption) + I (Investment) + G (Govt Spending) + (X - M) (Net Exports). 'Net Personal Income' is an individual income metric, not a GDP expenditure component."
     },
     {
-      "q": "Match the items of List-I with List-II and indicate the correct code:\nA. Fiscal Policy - (iii) Fiscal Federalism\nB. Technology Policy - (i) Mitigation of National hazards\nC. Macro-Economic Policy - (ii) Balance of Payment\nD. Monetary Policy - (iv) Inflation\n\nChoose the correct code:",
+      "q": "Match the items of List-I with List-II and indicate the correct code:\nA. Fiscal Policy - (i) Mitigation of National hazards\nB. Technology Policy - (ii) Balance of Payment\nC. Macro-Economic Policy - (iii) Fiscal Federalism\nD. Monetary Policy - (iv) Inflation\n\nChoose the correct code:",
       "opts": [
         "(A)-(i), (B)-(ii), (C)-(iii), (D)-(iv)",
         "(A)-(iii), (B)-(i), (C)-(ii), (D)-(iv)",
@@ -1189,7 +1189,7 @@
         "(A)-(ii), (B)-(i), (C)-(iv), (D)-(iii)"
       ],
       "ans": 1,
-      "exp": "Fiscal Policy oversees Fiscal Federalism; Monetary Policy targets Inflation control; Macro policy handles Balance of Payments; Tech policy assists in hazard mitigation."
+      "exp": "Fiscal Policy oversees Fiscal Federalism (iii); Technology policy assists in hazard mitigation (i); Macro policy handles Balance of Payments (ii); Monetary Policy targets Inflation control (iv)."
     },
     {
       "q": "Consider the following statements:\nAssertion (A): The major economic powers have succeeded in creating a new international regime where the profits and the dominance of their transnational corporations will be the decisive consideration.\nReason (R): This regime will legitimize the process of progressive erosion of the sovereign economic space of the third-world countries.\n\nChoose the correct code:",
