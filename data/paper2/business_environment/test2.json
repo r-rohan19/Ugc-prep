@@ -6,8 +6,8 @@
     {
       "q": "An import tariff in a labour surplus economy distributes income in favour of:",
       "opts": [
-        "Landlords",
-        "Wage earners",
+        "Land lords",
+        "Wages earners",
         "Owners of capitals and skills",
         "Governments"
       ],
@@ -23,7 +23,7 @@
         "Theory of Comparative Advantage"
       ],
       "ans": 0,
-      "exp": "Wassily Leontief found empirically that the US (a capital-rich country) was exporting labor-intensive products, which is known as the Leontief Paradox."
+      "exp": "Wassily Leontief empirically found that the United States (a capital-abundant country) exported labor-intensive commodities, contradicting the Heckscher-Ohlin theorem, known as the Leontief Paradox."
     },
     {
       "q": "The following table shows cost per unit of production of two goods, wheat and cloth in two countries X and Y with no transportation cost and free trade:\n(i) Wheat -> Country X: 50 | Country Y: 350\n(ii) Cloth -> Country X: 100 | Country Y: 500\n\nWhich one of the following will take place?",
@@ -31,13 +31,13 @@
         "No trade will take place",
         "X will export wheat and import cloth",
         "X will export cloth and import wheat",
-        "There is not enough information to comment"
+        "There is no enough information to comment"
       ],
       "ans": 1,
-      "exp": "Country X has a comparative advantage in wheat (50/100 = 0.5 cloth vs Y's 350/500 = 0.7 cloth). Therefore, X will export wheat and import cloth."
+      "exp": "Country X has comparative advantage in wheat (50/100 = 0.5 vs 350/500 = 0.7), and Country Y has comparative advantage in cloth. Thus, Country X will export wheat and import cloth."
     },
     {
-      "q": "Match the following List-I with List-II and select the correct answer:\nA. Comparative Cost Theory of International Trade - (i) Gottfried Haberler\nB. International Theory of Opportunity Cost - (ii) J.S. Mill\nC. Factor Endowment Theory of International Trade - (iii) David Ricardo\nD. Doctrine of Reciprocal Demand - (iv) Heckscher-Ohlin\n\nChoose the correct code:",
+      "q": "Match the following List-I with List-II and select the correct answer:\nA. Comparative Cost Theory of International Trade - (i) Gottfried Haberler\nB. International Theory of Opportunity Cost - (ii) J.S. Mill\nC. Factor Endowment Theory of International Trade - (iii) David Ricardo\nD. Doctrine Of Reciprocal Demand - (iv) Heckscher-Ohlin\n\nChoose the correct code:",
       "opts": [
         "(A)-(iii), (B)-(ii), (C)-(iv), (D)-(i)",
         "(A)-(i), (B)-(iii), (C)-(ii), (D)-(iv)",
@@ -45,7 +45,7 @@
         "(A)-(ii), (B)-(i), (C)-(iv), (D)-(iii)"
       ],
       "ans": 2,
-      "exp": "Comparative Cost is by David Ricardo (iii), Opportunity Cost by Haberler (i), Factor Endowment by Heckscher-Ohlin (iv), and Reciprocal Demand by J.S. Mill (ii)."
+      "exp": "Comparative Cost Theory was given by David Ricardo (iii), Opportunity Cost Theory by Gottfried Haberler (i), Factor Endowment by Heckscher-Ohlin (iv), and Reciprocal Demand by J.S. Mill (ii)."
     },
     {
       "q": "In the two good Ricardian Trade Model, complete specialization in production occurs in free trade equilibrium because:",
@@ -56,10 +56,10 @@
         "The production possibility frontier satisfies constant opportunity cost"
       ],
       "ans": 3,
-      "exp": "Ricardo's classical model assumes constant returns to scale and constant labor productivity, resulting in a straight-line PPF with constant opportunity costs."
+      "exp": "The Ricardian trade model assumes constant returns to scale and constant labor costs, resulting in a linear production possibility frontier with constant opportunity costs."
     },
     {
-      "q": "Match List-I with List-II and select the correct answer using the codes given below the lists:\nA. Supply side of international trade - (i) David Ricardo\nB. Demand side of international trade - (ii) Bastable and Alfred Marshall\nC. Opportunity cost of international trade - (iii) G. Haberler\nD. Real cost theory of international trade - (iv) Alfred Marshall and Edgeworth\n\nChoose the correct code:",
+      "q": "Match List-I with List-II and select the correct answer using the codes given below the lists:\nA. Supply side of international trade - (i) David Ricardo\nB. Demand side of international trade - (ii) Bastable and Alfred Marshall\nC. Opportunity cost international trade - (iii) G. Haberler\nD. Real cost theory of international trade - (iv) Alfred Marshall and Edgeworth\n\nChoose the correct code:",
       "opts": [
         "(A)-(i), (B)-(iv), (C)-(ii), (D)-(iii)",
         "(A)-(i), (B)-(iv), (C)-(iii), (D)-(ii)",
@@ -67,7 +67,7 @@
         "(A)-(iv), (B)-(i), (C)-(iii), (D)-(ii)"
       ],
       "ans": 1,
-      "exp": "Supply side: David Ricardo (i); Demand side: Marshall & Edgeworth (iv); Opportunity cost: Haberler (iii); Real cost: Bastable & Marshall (ii)."
+      "exp": "Supply side: David Ricardo (i); Demand side: Alfred Marshall & Edgeworth (iv); Opportunity cost: G. Haberler (iii); Real cost: Bastable & Alfred Marshall (ii)."
     },
     {
       "q": "Where the foreign offer curve has an elasticity of one, the optimum tariff will be:",
@@ -75,10 +75,10 @@
         "Infinity",
         "Unity",
         "Less than unity",
-        "Zero"
+        "All the above"
       ],
       "ans": 0,
-      "exp": "Optimum tariff formula is t = 1 / (e - 1). When elasticity e = 1, denominator becomes zero, which makes the optimum tariff infinity."
+      "exp": "The formula for optimum tariff is t = 1 / (e - 1). When elasticity e = 1, the denominator is zero, making the optimum tariff infinity."
     },
     {
       "q": "If the sum of the elasticities of the exports and imports is less than one, any devaluation will further aggravate the deficit in the BOP. Who has given this view?",
@@ -89,18 +89,18 @@
         "Heckscher and Ohlin"
       ],
       "ans": 0,
-      "exp": "The Marshall-Lerner condition states that devaluation improves the BOP balance only when the sum of export and import demand elasticities exceeds 1."
+      "exp": "The Marshall-Lerner Condition states that currency devaluation improves the balance of payments only if the sum of price elasticities of demand for exports and imports is greater than 1."
     },
     {
       "q": "India is a net exporter of hand-made carpets and an importer of high-tech product like computer memory chips and printers. This pattern of India trade is explained by the:",
       "opts": [
         "Ricardian theory",
-        "Heckscher-Ohlin theory",
+        "Heckscher-Ohlin Theory",
         "Labour theory of value",
         "Purchasing power parity theory"
       ],
       "ans": 1,
-      "exp": "Heckscher-Ohlin theory states that nations export goods intensive in their abundant factors (labor in India for carpets) and import goods using scarce factors (capital/chips)."
+      "exp": "The Heckscher-Ohlin Theory explains that a country will export goods that use its abundant factors of production (labor in India) and import goods that use scarce factors (capital/technology)."
     },
     {
       "q": "Which of the following is the best example of agreement between oligopolists? (December 2011)",
@@ -111,7 +111,7 @@
         "UNIDO"
       ],
       "ans": 1,
-      "exp": "OPEC is a formal cartel formed by oil-exporting nation states operating in an international oligopolistic market."
+      "exp": "OPEC (Organization of the Petroleum Exporting Countries) is an international cartel formed by petroleum-producing nations operating in an oligopolistic market."
     },
     {
       "q": "Factor Endowment Theory of International Trade was propounded by:",
@@ -122,7 +122,7 @@
         "C.P. Kindleberger"
       ],
       "ans": 1,
-      "exp": "The Factor Endowment (Factor Proportions) theory of international trade was originated by Eli Heckscher and developed by Bertil Ohlin."
+      "exp": "The Factor Endowment Theory was formulated by Eli Heckscher and Bertil Ohlin."
     },
     {
       "q": "From the following modes of international business, identify the mode which involves strategic alliance:",
@@ -133,7 +133,7 @@
         "Joint venture"
       ],
       "ans": 3,
-      "exp": "A Joint Venture is a strategic alliance where two or more independent business entities pool resources to create a shared business organization."
+      "exp": "A Joint Venture is a strategic alliance where two or more business entities pool resources and share risks to operate a separate entity."
     },
     {
       "q": "To ensure the validity of Heckscher-Ohlin theory of trade to be valid, the relative factor endowments of two countries should be:",
@@ -144,7 +144,7 @@
         "None of these"
       ],
       "ans": 1,
-      "exp": "The H-O theorem requires differences in relative factor abundances (divergence in factor endowments) to generate trade."
+      "exp": "The Heckscher-Ohlin theorem requires significant differences (divergence) in factor endowments between trading partners to generate comparative cost advantages."
     },
     {
       "q": "Which of the following expressions amount to the import restriction measures?\n(i) Currency control\n(ii) Establishment of EPZs\n(iii) Tariff cuts\n(iv) Imposition of tariffs\n(v) Imposition of non-tariff barriers\n\nChoose the correct code:",
@@ -155,7 +155,7 @@
         "(ii), (iii) and (v)"
       ],
       "ans": 1,
-      "exp": "Import restriction tools include currency control, tariff imposition, and non-tariff barriers."
+      "exp": "Import restriction measures include foreign currency controls, tariffs, and non-tariff barriers."
     },
     {
       "q": "An MNC that maintains a balance between the home market and host market-oriented policies is:",
@@ -166,18 +166,18 @@
         "None of the above"
       ],
       "ans": 2,
-      "exp": "A Geocentric orientation seeks a collaborative, world-oriented integration balancing home and host country policies."
+      "exp": "In the EPRG framework, a Geocentric firm integrates both home and host nation perspectives into a balanced global approach."
     },
     {
       "q": "In international trade which of the following is a non-tariff trade barrier? (December 2014)",
       "opts": [
         "Quotas",
-        "Customs Duty",
-        "Specific Tariffs",
-        "Ad Valorem Duties"
+        "Import bans",
+        "Export controls",
+        "Anti-dumping laws"
       ],
-      "ans": 0,
-      "exp": "Import quotas directly control physical quantity limits, making them non-tariff barriers."
+      "ans": 3,
+      "exp": "Anti-dumping regulations and procedural trade barriers act as administrative non-tariff barriers under trade agreements."
     },
     {
       "q": "Match the items of List-I with items in List-II and select a correct code:\nA. Current account - (i) Official capital\nB. Capital account - (ii) Reserves from foreign countries\nC. Unilateral payments - (iii) Reparations\nD. Official statement account - (iv) Visible exports and imports\n\nChoose the correct code:",
@@ -188,7 +188,7 @@
         "(A)-(iii), (B)-(ii), (C)-(i), (D)-(iv)"
       ],
       "ans": 2,
-      "exp": "Current account: Visible exports & imports (iv); Capital account: Official capital (i); Unilateral payments: Reparations/grants (iii); Official settlement: Foreign reserves (ii)."
+      "exp": "Current account: Visible exports/imports (iv); Capital account: Official capital (i); Unilateral payments: Reparations (iii); Official settlement account: Foreign reserves (ii)."
     },
     {
       "q": "When a company takes over another one and clearly becomes a new owner, the action is called (December 2010):",
@@ -199,10 +199,10 @@
         "None of the above"
       ],
       "ans": 1,
-      "exp": "In an acquisition, one company purchases and assumes clear control and ownership over another target entity."
+      "exp": "An acquisition occurs when one company takes over another and establishes clear ownership and control."
     },
     {
-      "q": "Match the items of List-I with the items in List-II and select the correct answer (December 2014):\nA. Vishesh Krishi Upaj Yojana - (i) Scheme intended to reduce difficulties of exporters\nB. EPCG - (ii) Duty Entitlement Pass Book\nC. DFRC - (iii) To boost exports of fruits, vegetables, flowers, minor forest produce, etc.\nD. DEPB - (iv) Relating to import of duty-free fuel and raw materials\n\nChoose the correct code:",
+      "q": "Match the items of List-I with the items in List-II and select the correct code (December 2014):\nA. Vishesh Krishi Upaj Yojana - (i) Scheme intended to reduce difficulties of exporters\nB. EPCG - (ii) Duty Entitlement Pass Book\nC. DFRC - (iii) To boost exports of fruits, vegetables, flowers, minor forest produce, etc.\nD. DEPB - (iv) Relating to import of duty-free fuel and capital goods\n\nChoose the correct code:",
       "opts": [
         "(A)-(iv), (B)-(i), (C)-(ii), (D)-(iii)",
         "(A)-(iii), (B)-(iv), (C)-(i), (D)-(ii)",
@@ -210,7 +210,7 @@
         "(A)-(iii), (B)-(i), (C)-(iv), (D)-(ii)"
       ],
       "ans": 3,
-      "exp": "Vishesh Krishi Upaj Yojana: Boost agri exports (iii); EPCG: Scheme for exporters capital equipment (i); DFRC: Duty free replenishment (iv); DEPB: Duty entitlement pass book (ii)."
+      "exp": "Vishesh Krishi Upaj Yojana: Boost agri exports (iii); EPCG: Scheme to assist capital import difficulties (i); DFRC: Duty-free replenishment (iv); DEPB: Duty entitlement pass book (ii)."
     },
     {
       "q": "What is not the advantage of SEZ? (September 2013)",
@@ -218,10 +218,10 @@
         "Improvement of infrastructure in the hinterland",
         "Diversion of large tracts of farm land",
         "Attracting foreign investment",
-        "Boosting exports and employment"
+        "All of the above"
       ],
       "ans": 1,
-      "exp": "The loss and diversion of fertile agricultural land is a socio-economic disadvantage of SEZs."
+      "exp": "Diversion of agricultural land for industrial setup is a disadvantage/criticism of SEZs."
     },
     {
       "q": "Which of the following is/are the assumptions of the Law of One Price? (September 2013)\n(i) Restriction on the movement of goods between countries\n(ii) No transportation costs\n(iii) No tariffs\n\nChoose the correct code:",
@@ -232,7 +232,7 @@
         "(i), (ii) and (iii)"
       ],
       "ans": 2,
-      "exp": "The Law of One Price assumes a frictionless market with zero transport costs and zero tariffs."
+      "exp": "The Law of One Price assumes frictionless trade, meaning zero transportation costs and no tariffs or trade restrictions."
     },
     {
       "q": "The Ricardian theory of comparative advantages relates to:",
@@ -243,18 +243,18 @@
         "All the above"
       ],
       "ans": 0,
-      "exp": "The classical Ricardian model is static, studying short-run equilibrium with fixed technology and factor supply."
+      "exp": "The classical Ricardian model is static and analyzes short-run outcomes under constant technological conditions."
     },
     {
       "q": "The most important assumption in the Heckscher-Ohlin theory of international trade?",
       "opts": [
-        "Two factor model (2x2x2 Model)",
-        "Single factor labor model",
-        "Variable returns to scale",
-        "Monopolistic competition"
+        "Two factor model",
+        "Single factor model",
+        "No tariff",
+        "Constant tastes"
       ],
       "ans": 0,
-      "exp": "The standard Heckscher-Ohlin framework operates on the 2x2x2 assumption (two countries, two goods, two factors: labor and capital)."
+      "exp": "The standard Heckscher-Ohlin trade model assumes a 2x2x2 framework (two countries, two goods, two factors: labor and capital)."
     },
     {
       "q": "Which of the following is not ensured to the consumer in the globalization?",
@@ -265,7 +265,7 @@
         "Improved service"
       ],
       "ans": 2,
-      "exp": "Global value chains fragment production across multiple nations, making the single origin of goods complex and obscured."
+      "exp": "Because global supply chains source components worldwide, clear single-country origin of goods is often obscured."
     },
     {
       "q": "All of the following are the features of globalization process except one. Which one is the exception?",
@@ -273,10 +273,10 @@
         "The expanding role for MNCs",
         "A reduction in artificial barrier to trade",
         "Increasing international barrier to trade",
-        "A decline in the importance of isolated domestic markets"
+        "A decline in the importance of international specialization"
       ],
       "ans": 2,
-      "exp": "Globalization decreases trade barriers rather than increasing them."
+      "exp": "Globalization promotes the dismantling and reduction of trade barriers; increasing trade barriers is contrary to globalization."
     },
     {
       "q": "Consider the following statements:\nAssertion (A): The import volume tends to be very high when there is simultaneous high economic growth rate and a sharp fall in the relative price of imports and vice versa.\nReason (R): High rate of growth, ceteris paribus, is associated with rise in imports and increase in the imports, ceteris paribus, is associated with a fall in the relative price of imports.\n\nChoose the correct code:",
@@ -287,7 +287,7 @@
         "(R) is correct but (A) is not correct."
       ],
       "ans": 0,
-      "exp": "Income growth raises import demand, while cheaper relative prices increase import substitution."
+      "exp": "Higher national growth increases aggregate demand for imports, and lower relative import prices stimulate substitution toward foreign goods."
     },
     {
       "q": "Consider the following statements:\nAssertion (A): An export processing zone is different from free trade zone as it promotes units primarily devoted to exports.\nReason (R): Goods imported to a free trade zone maybe re-exported without any processing, in the same form. But goods exported by units in an EPZ are expected to have undergone some value addition by manufacturing/processing.\n\nChoose the correct code:",
@@ -298,21 +298,21 @@
         "(A) is incorrect but (R) is correct."
       ],
       "ans": 0,
-      "exp": "FTZs primarily serve commercial entrepot trade, while EPZs are manufacturing zones that require local value addition."
+      "exp": "FTZs serve commercial re-export and transshipment, while EPZs are specialized manufacturing units focused on value-added exports."
     },
     {
       "q": "Which one of the following is not a favourable factor for globalization?",
       "opts": [
         "Wide base",
         "Niche markets",
-        "Obsolescence and resistance to technology",
+        "Obsolescence",
         "Competition"
       ],
       "ans": 2,
-      "exp": "Technological obsolescence and resistance hamper international integration."
+      "exp": "Technological obsolescence and resistance to modernization hinder globalization."
     },
     {
-      "q": "Match the items of List-I with items of List-II:\nA. Measures towards globalization - (i) Globalization\nB. Off-shoring - (ii) FEMA\nC. FERA - (iii) Liberalise the inflow of FDI\nD. Mr. Arthur Dunkel - (iv) Uruguay Round\n\nChoose the correct code:",
+      "q": "Match the items of List-I with items of List-II:\nA. Measures towards globalization - (i) Off-shoring\nB. Off-shoring - (ii) FEMA\nC. FERA - (iii) Liberalise the inflow of FDI\nD. Mr. Arthur Dunkel - (iv) Uruguay Round\n\nChoose the correct code:",
       "opts": [
         "(A)-(iii), (B)-(i), (C)-(ii), (D)-(iv)",
         "(A)-(ii), (B)-(i), (C)-(iii), (D)-(iv)",
@@ -320,7 +320,7 @@
         "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)"
       ],
       "ans": 0,
-      "exp": "Measures towards globalization: FDI liberalization (iii); Offshoring: Global outsourcing (i); FERA replaced by: FEMA (ii); Arthur Dunkel: Uruguay Round (iv)."
+      "exp": "Measures towards globalization: FDI liberalization (iii); Off-shoring: Global services sourcing (i); FERA: Replaced by FEMA (ii); Arthur Dunkel: Uruguay Round (iv)."
     },
     {
       "q": "Globalization is a term used to describe the process of removal of restrictions on which of the following?",
@@ -331,7 +331,7 @@
         "All of the above"
       ],
       "ans": 3,
-      "exp": "Globalization removes cross-border restrictions on trade, investments, capital, and labor movements."
+      "exp": "Globalization represents the integration of national economies through free trade, investments, and mobility of factors of production."
     },
     {
       "q": "According to Michael Porter, which of the following can be identified as four determinants of national competitive advantage?\n(1) Factor Conditions\n(2) Demand Conditions\n(3) Firm Strategy, Structure, and Rivalry\n(4) Related and Supporting Industries\n(5) Financial Conditions\n(6) Export Industry\n\nChoose the correct code:",
@@ -342,7 +342,7 @@
         "2, 3, 4 and 5"
       ],
       "ans": 2,
-      "exp": "Porter's Diamond attributes are: Factor conditions, Demand conditions, Firm strategy/structure/rivalry, and Related & supporting industries."
+      "exp": "Michael Porter's Diamond model comprises: 1. Factor Conditions, 2. Demand Conditions, 3. Firm Strategy, Structure & Rivalry, and 4. Related & Supporting Industries."
     },
     {
       "q": "Under communism, which of the following persons gave the surplus value theory of wage?",
@@ -350,10 +350,10 @@
         "David Ricardo",
         "Karl Marx",
         "Adam Smith",
-        "F.A. Walker"
+        "FA Walker"
       ],
       "ans": 1,
-      "exp": "Karl Marx formulated the theory of surplus value explaining the exploitation of labor under capitalism."
+      "exp": "Karl Marx formulated the surplus value theory of wages, explaining the extraction of surplus labor under capitalism."
     },
     {
       "q": "Which one of the following is not a benefit of privatization?",
@@ -364,7 +364,7 @@
         "Freedom from bureaucracy"
       ],
       "ans": 1,
-      "exp": "Concentration of economic power into private monopolies is a risk and disadvantage of unchecked privatization."
+      "exp": "Concentration of economic power in private monopolies is a risk and disadvantage of unregulated privatization."
     },
     {
       "q": "Which of the following are the main benefits of international trade?\n(1) Specialization benefits world trade as it enables different nations with differing skills and resources to gain the rewards from the division of labour.\n(2) There is potential gain of economies of scale when there is good size of market.\n(3) Competition is fostered by free trade.\n(4) Lower prices are greater choices to consumers.\n\nChoose the correct code:",
@@ -375,10 +375,10 @@
         "1, 2, 3 and 4"
       ],
       "ans": 3,
-      "exp": "All four statements describe positive welfare and efficiency gains derived from free international trade."
+      "exp": "International trade expands production efficiency through specialization, scale economies, competition, and lower consumer prices."
     },
     {
-      "q": "Which of the following assumptions are true in context of theory of comparative advantage?\n(1) Two trading economies each producing the same two goods.\n(2) The factors of production in each economy are perfectly mobile internationally.\n(3) There are no trade barriers and no transport costs.\n(4) The state of technology is unchanged.\n\nChoose the correct code:",
+      "q": "Which of the following assumptions are true in context of theory of comparative advantage?\n(1) Two trading economies each producing the same two goods.\n(2) The factors of production in each economy are perfectly mobile.\n(3) There are no trade barriers and no transport costs.\n(4) The state of technology is unchanged.\n\nChoose the correct code:",
       "opts": [
         "1, 2 and 3",
         "2, 3 and 4",
@@ -386,7 +386,7 @@
         "1, 2, 3 and 4"
       ],
       "ans": 2,
-      "exp": "Ricardo's model assumes factors are immobile internationally (mobile only internally), along with 2 goods, zero transport costs, and constant technology."
+      "exp": "The Ricardian model assumes factors are perfectly mobile internally but immobile internationally, along with 2 goods, zero transport costs, and constant technology."
     },
     {
       "q": "International trade is theoretically based on which principle?",
@@ -397,40 +397,40 @@
         "None of the above"
       ],
       "ans": 0,
-      "exp": "Comparative advantage is the fundamental principle proving mutual trade benefits even in the absence of absolute advantages."
+      "exp": "The Theory of Comparative Advantage is the fundamental basis demonstrating mutual trade gains even without absolute cost advantages."
     },
     {
       "q": "A country is said to have a comparative advantage in the production of a good when:",
       "opts": [
-        "It can produce more of it than any other country.",
-        "It has captured a larger share of the world market than any other country.",
-        "It can produce it at a lower opportunity cost than its trading partners.",
-        "Its costs of production for the good are lower in absolute monetary terms."
+        "it can produce more of it than any other country.",
+        "it has captured a larger share of the world market than any other country.",
+        "it can produce it at a lower opportunity cost than its trading partners.",
+        "its costs of production tor the good are lower than in other countries."
       ],
       "ans": 2,
-      "exp": "Comparative advantage is defined as the capability to produce a good at a lower relative opportunity cost."
+      "exp": "Comparative advantage is defined by the ability to produce a good at a lower relative opportunity cost."
     },
     {
       "q": "The existence of international trade is best explained by the fact that countries:",
       "opts": [
-        "Operate with their own unique currencies.",
-        "Implement varied political systems.",
+        "Operate with their own unique currencies, impacting trade values and exchanges.",
+        "Implement varied economic systems, from free markets to centrally planned economies, influencing their trade policies and practices.",
         "Possess varying endowments of natural resources, labor, and capital, leading to differences in production capabilities and costs.",
-        "Specialize arbitrarily in industrial goods."
+        "Specialize in the production of certain goods and services based on their comparative advantages, enhancing global trade efficiency."
       ],
       "ans": 2,
-      "exp": "Differing factor endowments across countries generate comparative cost differences driving international trade."
+      "exp": "Disparities in factor endowments (natural resources, labor, capital) lead to differing cost advantages that drive international trade."
     },
     {
       "q": "What could lead to a decline in a country's exports?",
       "opts": [
-        "A depreciation of the country's currency.",
-        "A decrease in tariff barriers by other countries.",
-        "A reduction in the marginal propensity to import among trading partners.",
-        "An increase in domestic production capacity."
+        "A depreciation of the country's currency, making its exports cheaper abroad.",
+        "A decrease in tariff barriers by other countries, making it easier to export goods to those countries.",
+        "A reduction in the marginal propensity to import among trading partners, indicating they are less inclined to buy foreign goods.",
+        "An increase in the country's imports, which affects its trade balance but not directly its exports."
       ],
       "ans": 2,
-      "exp": "When foreign trading partners lower their marginal propensity to import, demand for exported goods falls."
+      "exp": "A lower marginal propensity to import in foreign partner nations directly reduces their demand for imported goods."
     },
     {
       "q": "Which of the following is not typically considered a component of a company's internal environment?",
@@ -438,32 +438,32 @@
         "The company's mission and objectives.",
         "The organization's human resources.",
         "The company's customers.",
-        "The values held by the company's management."
+        "The values held by the company's shareholders."
       ],
       "ans": 2,
-      "exp": "Customers are part of the external task/micro environment, not internal organizational resources."
+      "exp": "Customers are part of the external operating/micro environment, not the internal organization."
     },
     {
       "q": "Keeping in the process of globalization, 'Levitt Thesis' means:",
       "opts": [
-        "There should be customized products for every local market.",
+        "There should be standardization strategy for products and aggressive low pricing.",
         "There is homogenization of the same products throughout the world.",
-        "Trade barriers will permanently isolate markets.",
+        "There should be customized products to meet the national market.",
         "None of the above"
       ],
       "ans": 1,
-      "exp": "Theodore Levitt argued that global communication and tech are standardizing world consumer tastes into homogenous global markets."
+      "exp": "Theodore Levitt argued that global technology and communication create homogenized consumer demand across world markets."
     },
     {
       "q": "The companies globalize their operations through different means:",
       "opts": [
         "Exporting directly",
-        "Licensing / Franchising",
+        "Licensing/Franchising",
         "Joint ventures",
         "All of the above"
       ],
       "ans": 3,
-      "exp": "Enterprises enter global markets through export, contractual modes (licensing/franchising), and investment modes (JVs, subsidiaries)."
+      "exp": "Firms globalize through trade (exporting), contractual transfers (licensing/franchising), and investment modes (JVs/FDI)."
     },
     {
       "q": "Which one of the following is not a feature of Business Process Outsourcing (BPO)?",
@@ -471,10 +471,10 @@
         "It enables executives to concentrate on strategy.",
         "It improves process and saves money.",
         "It decreases organizational capabilities.",
-        "It provides access to external specialized capabilities."
+        "None of the above."
       ],
       "ans": 2,
-      "exp": "BPO expands corporate agility and operational capacity by leveraging specialized service providers."
+      "exp": "BPO enhances an enterprise's organizational efficiency by transferring transactional operations to specialized vendors."
     },
     {
       "q": "Who among the following has given Absolute Advantage Model of International trade?",
@@ -496,7 +496,7 @@
         "(A) is correct, but (R) is incorrect."
       ],
       "ans": 1,
-      "exp": "Both statements are historical facts, but historical pre-1991 restrictions do not explain post-reform global expansion."
+      "exp": "Both statements are historically true, but past policy constraints do not explain the post-1991 expansion."
     },
     {
       "q": "Consider the following statements:\nStatement I: Served From India Scheme (SFIS) has been replaced with Service Exports from India Scheme (SEIS).\nStatement II: The rate of reward under SEIS would be based on net foreign exchange earned.\n\nChoose the correct code:",
@@ -507,7 +507,7 @@
         "Both the statements I and II are correct."
       ],
       "ans": 3,
-      "exp": "Under FTP 2015-20, SFIS was replaced by SEIS, which granted duty credit scrips on net foreign exchange earnings."
+      "exp": "Under FTP 2015-20, SFIS was replaced by SEIS, providing duty credit scrips on net foreign exchange earnings."
     },
     {
       "q": "Under the Foreign Trade Policy 2015-2020, which of the following additional ports are allowed for export and import?\n(A) Calicut Airport, Kerala\n(B) Rajkot Airport, Gujarat\n(C) Arakonam ICD, Tamil Nadu\n(D) Ludhiana Airport, Punjab\n\nChoose the correct code:",
@@ -518,7 +518,7 @@
         "(C) and (D)"
       ],
       "ans": 0,
-      "exp": "Calicut Airport (Kerala) and Arakkonam ICD (Tamil Nadu) were notified as valid cargo clearance ports under FTP 2015-20."
+      "exp": "Calicut Airport and Arakkonam ICD were designated as cargo clearance ports under FTP 2015-20."
     },
     {
       "q": "Examine the following statements and choose the correct code:\nStatement I: Companies with Low cash reserves normally prefer Licensing mode rather than Foreign Direct Investment.\nStatement II: Cash rich firms normally prefer Foreign Direct Investment.\n\nChoose the correct code:",
@@ -534,13 +534,13 @@
     {
       "q": "What does counter-trade refer to?",
       "opts": [
-        "A trade mechanism where goods are exchanged directly for other goods without using a conventional monetary transaction.",
+        "A trade mechanism where goods are exchanged directly for other goods without using a conventional monetary transaction, involving a seller providing goods to a buyer in exchange for a different set of goods.",
         "A trading strategy where a country limits its imports to those countries that buy its exports.",
         "A financial strategy where trades are executed to take advantage of price differences in two or more markets.",
-        "A method of international trade where transactions are carried out using a single currency."
+        "A method of international trade where transactions are carried out using a single currency for simplification."
       ],
       "ans": 0,
-      "exp": "Counter-trade is an international trade practice where goods/services are exchanged for other goods/services in place of hard currency."
+      "exp": "Counter-trade is an exchange of goods and services where non-cash barter or reciprocal purchase agreements replace hard currency settlement."
     },
     {
       "q": "Globalization is the term used to describe process of removal of restriction on which of the following?",
@@ -551,7 +551,7 @@
         "None of the above"
       ],
       "ans": 2,
-      "exp": "Globalization facilitates the seamless integration of global goods markets (trade) and capital markets (investment)."
+      "exp": "Globalization removes cross-border barriers on trade in goods and services as well as investment capital."
     },
     {
       "q": "Which of the following is an example of an issue for which an agreement has not been made between two or more countries?",
@@ -562,7 +562,7 @@
         "Banning the use of certain pesticides"
       ],
       "ans": 1,
-      "exp": "Regulatory governance over deep-sea mining in non-coastal international seabed waters remains contentious."
+      "exp": "Regulatory jurisdiction over deep-sea mining in international non-coastal seabed waters remains unresolved."
     },
     {
       "q": "Which of the following is not a characteristic of bartering internationally?",
@@ -573,7 +573,7 @@
         "Bartering can be risky."
       ],
       "ans": 2,
-      "exp": "Barter primarily involves physical commodity exchange rather than intangible service transactions."
+      "exp": "Barter primarily involves physical commodity exchange rather than intangible services."
     },
     {
       "q": "Match the items of List-I with items of List-II:\nA. Wider Market - (i) Modes of Entry\nB. Turn-key Projects - (ii) Goal of International Business\nC. Expanding the production capacities - (iii) Advantages of International Business\nD. Geocentric approach - (iv) Stage of Globalization\n\nChoose the correct code:",
@@ -584,7 +584,7 @@
         "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)"
       ],
       "ans": 1,
-      "exp": "Wider market: Advantage (iii); Turnkey: Entry mode (i); Expanding capacity: Goal (ii); Geocentric: Globalization stage (iv)."
+      "exp": "Wider market: Advantage (iii); Turnkey: Entry mode (i); Capacity expansion: Goal (ii); Geocentric: Globalization stage (iv)."
     },
     {
       "q": "The method being used for Transferring Complex Technology is known as:",
@@ -595,7 +595,7 @@
         "None of the above"
       ],
       "ans": 2,
-      "exp": "Turnkey contracts provide complete industrial engineering, construction, and training for complex industrial tech transfer."
+      "exp": "Turnkey contracts encompass engineering, construction, and commissioning for complex industrial technology transfers."
     },
     {
       "q": "Consider the following statements:\nAssertion (A): International business has grown in more recent years at a faster pace than global production.\nReason (R): Growth through trade has increased, but growth through foreign direct investment has not.\n\nChoose the correct code:",
@@ -606,43 +606,43 @@
         "Both (A) and (R) are incorrect."
       ],
       "ans": 1,
-      "exp": "Trade growth outpaced output, but FDI also grew significantly (making R false)."
+      "exp": "Trade growth outpaced output, but global FDI has also expanded substantially (making Reason R false)."
     },
     {
       "q": "Which one of the following is not the benefit of MNCs to the host nation?",
       "opts": [
-        "Displacement of traditional local businesses and culture",
+        "Increase in social activity",
         "Increase in economic activity",
         "Utilization of natural resources",
         "R & D efforts enhanced"
       ],
       "ans": 0,
-      "exp": "Disruption of local business and culture is a negative social impact of MNCs."
+      "exp": "Displacement of local traditional businesses and cultural friction are recognized negative consequences of MNC operations."
     },
     {
-      "q": "Why is a project in international business referred to as a 'turnkey project'?",
+      "q": "Why is a project in international business referred to as a \"turnkey project\"?",
       "opts": [
-        "It involves the licensee constructing a complete facility before transferring ownership.",
-        "It signifies a project where the contractor fully completes the project to the point of operation before handing it over to the owner, ready for immediate use.",
-        "It describes a scenario where the contractor initiates the project, then invites the owner to finish it.",
-        "It pertains to a joint venture with equal profit sharing."
+        "It involves the licensee constructing a complete facility in their own country before transferring ownership.",
+        "It signifies a project where the contractor (licensor) fully completes the project to the point of operation before handing it over to the project owner (licensee), ready for immediate use.",
+        "It describes a scenario where the contractor (licensor) initiates the project, then invites the project owner (licensee) to finish the remaining work.",
+        "It pertains to a project undertaken collaboratively by the contractor (licensor) and the project owner (licensee), with profits shared equally upon completion."
       ],
       "ans": 1,
-      "exp": "In a turnkey contract, the developer handles everything until the plant is ready for operation ('turning the key')."
+      "exp": "In a turnkey project, the developer builds the plant completely and delivers the finished operating project to the client."
     },
     {
       "q": "EPCG denotes:",
       "opts": [
         "Export Potential and Credit Guarantee",
         "Earning Promotion and Credit Guarantee",
-        "Export Promotion Capital Goods",
+        "Export Promotion and Credit Guarantee",
         "Export Potential and Credit Goods"
       ],
       "ans": 2,
-      "exp": "EPCG stands for Export Promotion Capital Goods scheme for duty-concessional capital imports."
+      "exp": "EPCG stands for Export Promotion Capital Goods scheme for concessional capital imports against export obligations."
     },
     {
-      "q": "India suffered from deficit balance both in trade balance and net invisibles. Which one is not an appropriate measure to manage this problem?",
+      "q": "India suffered from deficit balance both in trade balance and net invisibles, hence, took up a number of steps to manage this problem. Which one is not appropriate for this?",
       "opts": [
         "Export control",
         "Current Account Convertibility",
@@ -650,7 +650,7 @@
         "Unified Exchange Rate"
       ],
       "ans": 0,
-      "exp": "Restricting exports (export control) harms foreign exchange earnings and worsens deficits."
+      "exp": "Export control restricts trade earnings and worsens balance of payments deficits."
     },
     {
       "q": "Match the following books with their authors:\nA. India and Economic Reforms - (i) Bhagwati, J.\nB. Development Planning: The Indian Experience - (ii) Chakravarty, S.\nC. India: Economic Development and Social Opportunity - (iii) Jean Dreze and Amartya Sen\nD. Fiscal Policy of Underdeveloped Countries - (iv) Chelliah, R.J.\n\nChoose the correct code:",
@@ -661,7 +661,7 @@
         "(A)-(i), (B)-(iv), (C)-(iii), (D)-(ii)"
       ],
       "ans": 0,
-      "exp": "Bhagwati wrote on Reforms; Chakravarty on Development Planning; Dreze & Sen on Development & Social Opportunity; Chelliah on Fiscal Policy."
+      "exp": "Bhagwati: Economic Reforms; Chakravarty: Development Planning; Dreze & Sen: Development and Social Opportunity; Chelliah: Fiscal Policy."
     },
     {
       "q": "Special Economic Zones (SEZ) have been created first time in the:",
@@ -672,7 +672,7 @@
         "Industrial Policy, 1991"
       ],
       "ans": 0,
-      "exp": "SEZ scheme was introduced for the first time in India in the Export-Import (EXIM) Policy of April 2000."
+      "exp": "The SEZ policy was officially introduced in the EXIM Policy of April 2000."
     },
     {
       "q": "DFEC stands for:",
@@ -683,7 +683,7 @@
         "Duty Free Exchange Credit"
       ],
       "ans": 2,
-      "exp": "DFEC stands for Duty Free Export Credit scheme in Indian trade promotion."
+      "exp": "DFEC stands for Duty Free Export Credit scheme."
     }
   ]
 }
