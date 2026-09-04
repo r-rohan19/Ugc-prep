@@ -932,10 +932,22 @@ function formatQuestionText(text) {
     return mHtml;
   }
 
+  // Lines that must NEVER be treated as a "match the following" pair,
+  // even if they happen to contain a hyphen/dash somewhere in the text.
+  const isReservedLine = (line) =>
+    /^Assertion\s*(?:\([A-Z]\)|[A-Z]):?/i.test(line) ||
+    /^(?:Reason|Reasoning)\s*(?:\([A-Z]\)|[A-Z]):?/i.test(line) ||
+    /^Statement\s*(?:\([I|V|X|0-9]+\)|[I|V|X|0-9]+):?/i.test(line) ||
+    /^(?:List\s*[-–—]?\s*[I|1|II|2]+:?|Set\s*[-–—]?\s*[I|1|II|2]+:?)$/i.test(line) ||
+    /^(The correct (?:sequence|code|answer|option|order) is:?|Which of the above|Indicate the (?:correct|right) sequence|Choose the correct)/i.test(line);
+
   lines.forEach((line) => {
-    // Regex to detect "A. Trade - (i) Meaning" OR "(i) Trade - 1. Meaning" OR "A. Trade : i. Meaning"
-    const matchRegex = /^(\(?[A-Ha-h0-9ivxIVX]+\)?\.?)\s*(.+?)\s*[-–—:=]\s*(\(?[A-Ha-h0-9ivxIVX]+\)?\.?)\s*(.+)$/i;
-    const isMatchLine = line.match(matchRegex);
+    // Regex to detect "A. Trade - (i) Meaning" OR "(i) Trade - 1. Meaning"
+    // NOTE: separator restricted to hyphen/en-dash/em-dash only (no ':' or '=')
+    // so Assertion/Reason lines like "Assertion (A): ..." never get mistaken
+    // for a match pair just because they contain a colon.
+    const matchRegex = /^(\(?[A-Ha-h0-9ivxIVX]+\)?\.?)\s*(.+?)\s*[-–—]\s*(\(?[A-Ha-h0-9ivxIVX]+\)?\.?)\s*(.+)$/i;
+    const isMatchLine = !isReservedLine(line) && line.match(matchRegex);
 
     if (isMatchLine) {
       if (inStmtList) { html += '</div>'; inStmtList = false; }
